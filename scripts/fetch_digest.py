@@ -304,16 +304,20 @@ def gemini_summary(item: dict, api_key: str) -> dict | None:
         "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
     }).encode("utf-8")
     headers = {"x-goog-api-key": api_key, "content-type": "application/json"}
-    raw = http(url, data=body, headers=headers, timeout=90, retries=3)
+    raw = http(url, data=body, headers=headers, timeout=40, retries=2)
     reply = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"]
     return parse_json_block(reply)
 
 
 def add_ai_summaries(items: list[dict], api_key: str, provider: str = "claude") -> bool:
     failures, done = 0, 0
+    started = time.time()
     for item in items:
         if not item["_abstract"]:
             continue
+        if time.time() - started > 420:  # ميزانية زمنية: لا يتأخر النشر بسبب التلخيص
+            print("  انتهت الميزانية الزمنية للتلخيص؛ تُترك بقية الأبحاث بخلاصاتها الأصلية.", flush=True)
+            break
         try:
             if provider == "gemini":
                 result = gemini_summary(item, api_key)
@@ -385,6 +389,7 @@ def main() -> int:
     ap.add_argument("--from-xml", help="قراءة ملف efetch XML محلي بدل الاتصال (للاختبار)")
     ap.add_argument("--demo", action="store_true", help="وسم الناتج كبيانات تجريبية")
     args = ap.parse_args()
+    sys.stdout.reconfigure(line_buffering=True)
 
     date_str = args.date or dt.datetime.now(TURKEY_TZ).date().isoformat()
     seen = set(load_json(SEEN_PATH, {"pmids": []})["pmids"])
