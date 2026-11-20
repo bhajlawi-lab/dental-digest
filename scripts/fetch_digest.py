@@ -42,6 +42,7 @@ DEFAULT_DAYS = 3          # كم يوماً للخلف يبحث (يغطي تأخ
 DEFAULT_MAX = 30          # أقصى عدد أبحاث تُنشر في اليوم
 SEEN_LIMIT = 5000         # عدد المعرّفات المحفوظة لتجنب التكرار
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-haiku-5-5")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")  # مجاني بلا بطاقة دفع عبر Google AI Studio
 
 # التخصصات: (التسمية بالعربية، كلمات مفتاحية بالإنجليزية)
 SPECIALTIES = {
@@ -293,13 +294,32 @@ def claude_summary(item: dict, api_key: str) -> dict | None:
     return parse_json_block(reply)
 
 
-def add_ai_summaries(items: list[dict], api_key: str) -> bool:
+def gemini_summary(item: dict, api_key: str) -> dict | None:
+    prompt = USER_TEMPLATE.format(title=item["title"], stype=item["study_type"] or "غير محدد",
+                                  abstract=clip(item["_abstract"], 3500))
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+    body = json.dumps({
+        "systemInstruction": {"parts": [{"text": SYSTEM_PROMPT}]},
+        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
+    }).encode("utf-8")
+    headers = {"x-goog-api-key": api_key, "content-type": "application/json"}
+    raw = http(url, data=body, headers=headers, timeout=90, retries=3)
+    reply = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"]
+    return parse_json_block(reply)
+
+
+def add_ai_summaries(items: list[dict], api_key: str, provider: str = "claude") -> bool:
     failures, done = 0, 0
     for item in items:
         if not item["_abstract"]:
             continue
         try:
-            result = claude_summary(item, api_key)
+            if provider == "gemini":
+                result = gemini_summary(item, api_key)
+                time.sleep(6.5)  # حد المستوى المجاني: عدد محدود من الطلبات في الدقيقة
+            else:
+                result = claude_summary(item, api_key)
         except Exception as exc:  # noqa: BLE001
             failures += 1
             print(f"  تحذير: تعذّر تلخيص {item['pmid']}: {exc}", file=sys.stderr)
@@ -399,8 +419,11 @@ def main() -> int:
             it["summary_ar"] = demo_text.get(it["pmid"], {}).get("summary_ar", "")
             it["takeaway_ar"] = demo_text.get(it["pmid"], {}).get("takeaway_ar", "")
         ai_used = True
-    elif api_key and not args.no_ai and items:
-        ai_used = add_ai_summaries(items, api_key)
+    elif (api_key or os.environ.get("GEMINI_API_KEY")) and not args.no_ai and items:
+        if api_key:
+            ai_used = add_ai_summaries(items, api_key, "claude")
+        else:
+            ai_used = add_ai_summaries(items, os.environ["GEMINI_API_KEY"], "gemini")
 
     if not args.demo:
         purge_demo()
