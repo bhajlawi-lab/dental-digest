@@ -1,1 +1,692 @@
-{"date": "2026-11-21", "items": []}
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T01:21+03:00",
+ "ai_summaries": false,
+ "demo": false,
+ "items": [
+  {
+   "pmid": "43062027",
+   "title": "Prevalence and Associated Factors of Dental Caries in Preschool Children: A Systematic Review and Meta-Analysis",
+   "journal": "Journal of visualized experiments : JoVE",
+   "pub_date": "2026-11",
+   "authors": "Zhu M, Yang H, Zhang Y et al.",
+   "study_type": "تحليل تجميعي",
+   "specs": [
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Dental caries was common in the included preschool populations; however, the substantial between-study heterogeneity warrants cautious interpretation of the pooled prevalence estimate. The observed associations with dietary and oral-hygiene behaviors may help inform future preventive research, although causal relationships and the effectiveness of related interventions cannot be established from the available evidence.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.3791/75184",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43062027/"
+  },
+  {
+   "pmid": "43058514",
+   "title": "Applications of artificial intelligence in the analysis of alveolar clefts: a scoping review",
+   "journal": "BMC medical imaging",
+   "pub_date": "2026-08",
+   "authors": "Wang X, Zeng Y, Hu C et al.",
+   "study_type": "مراجعة منهجية",
+   "specs": [
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "AI technology offers perspectives for addressing issues related to the qualitative and quantitative analysis of alveolar clefts. Preliminary studies have shown promising feasibility, with improved predictive accuracy and efficiency in individual studies. Though the generalisability of AI performance is still limited by small datasets and heavy reliance on data augmentation, these findings provide a foundation for future exploration.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1186/s12880-026-02642-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058514/"
+  },
+  {
+   "pmid": "43055209",
+   "title": "Interventions for managing immature permanent teeth with necrotic pulps",
+   "journal": "The Cochrane database of systematic reviews",
+   "pub_date": "2026-11",
+   "authors": "Khanna R, Shakya VK, Singh RK et al.",
+   "study_type": "تحليل تجميعي",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "We could not draw conclusions regarding the effectiveness of different additions to BC scaffolds compared with conventional BC scaffolds used in REPs owing to very low-certainty evidence in reported outcome measures, or absence of evidence for many critical outcomes (and absence of any evidence for some comparisons). We did not formally assess the certainty of the evidence for comparisons of other interventions in the review, but note that the…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1002/14651858.CD012709.pub2",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43055209/"
+  },
+  {
+   "pmid": "43052953",
+   "title": "Machine learning for periodontitis classification using non-imaging multidimensional data: a systematic review and meta-analysis",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Li X, Gao L, Zhao D et al.",
+   "study_type": "تحليل تجميعي",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "ML models using non-imaging multidimensional data suggested moderate overall discriminatory performance in HSROC analysis for periodontitis classification. However, this exploratory finding should be interpreted with caution, given the limited number of studies, heterogeneous reference standards and high or unclear risk of bias in the analysis domain. Therefore, current evidence remains insufficient to support clinical implementation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1186/s12903-026-09712-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43052953/"
+  },
+  {
+   "pmid": "43040458",
+   "title": "Efficacy comparison of nano-hydroxyapatite and fluoride for dentin hypersensitivity: a systematic review and meta-analysis",
+   "journal": "BMC oral health",
+   "pub_date": "2026-07",
+   "authors": "Wang Y, Shen Y, Tan Y et al.",
+   "study_type": "تحليل تجميعي",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Based on current evidence, n-HAP may serve as a rapid-acting desensitizing agent, providing benefits for patients requiring immediate pain relief or those with mechanical stimulus sensitivity. However, fluoride may remain the preferred option for patients presenting with severe cold/heat hypersensitivity or those requiring long-term maintenance of desensitizing effects. The optimal concentration range of n-HAP toothpaste appears to be…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1186/s12903-026-09293-4",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43040458/"
+  },
+  {
+   "pmid": "43059042",
+   "title": "CBCT Assessment of Peri-Implant Marginal Bone Changes Following Adjunctive Local Ozone Therapy: A Randomized Split-Mouth Clinical Trial",
+   "journal": "Oral health & preventive dentistry",
+   "pub_date": "2026-11",
+   "authors": "Çakır Erdil ZB, Akıllı H, Çalışır M et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Adjunctive topical ozone application may support early peri-implant marginal bone preservation, particularly at the buccal aspect. However, larger randomized trials with longer follow-up are needed to confirm these findings.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.3290/j.ohpd.c_2859",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059042/"
+  },
+  {
+   "pmid": "43058640",
+   "title": "Comparison of two minimally invasive approaches for the management of molar-incisor hypomineralization opacities: effects on esthetic perceptions of children and their parents",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Demiralay C, Bolaca A",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Both treatment approaches improved esthetic perceptions of children and their parents, although the difference between groups was not significant. Minimally invasive approaches produced clinically perceptible color changes; however, complete masking of MIH-related anterior enamel opacities was not consistently achieved.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1186/s12903-026-09742-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058640/"
+  },
+  {
+   "pmid": "43055808",
+   "title": "Minimally invasive extraction of fully impacted wisdom teeth and supernumerary teeth assisted by 3D-printed digital surgical guides: a prospective cohort study and establishment of a standardized workflow",
+   "journal": "Clinical oral investigations",
+   "pub_date": "2026-11",
+   "authors": "Sun B, Jin J, Li H et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "surgery",
+     "label": "جراحة الفم"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "3D-printed digital surgical guide-assisted extraction is a safe, precise, and stable minimally invasive technique, with clinical efficacy comparable to traditional surgery. Parametric design standardizes the workflow; combined with patent protection (ZL202323112840.0) and data sharing, it offers a reliable solution for complex impacted tooth management.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1007/s00784-026-07270-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43055808/"
+  },
+  {
+   "pmid": "43055193",
+   "title": "Guided bone regeneration with polytetrafluoroethylene titanium-reinforced membrane, CAD/CAM semi-occlusive titanium mesh and CAD/CAM occlusive titanium foil in partially atrophic arches: A comparative randomised controlled trial with 3-year follow-up",
+   "journal": "International journal of oral implantology (Berlin, Germany)",
+   "pub_date": "2026-11",
+   "authors": "Felice P, Pellegrino G, Pistilli R et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "All three guided bone regeneration devices were associated with favourable and comparable clinical and radiographic outcomes at 3 years. Customised CAD/CAM titanium mesh and foil maintained good peri-implant bone stability similar to titanium-reinforced polytetrafluoroethylene membrane, while offering advantages in intraoperative handling and surgical time.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43055193/"
+  },
+  {
+   "pmid": "43052943",
+   "title": "Flowable vs. conventional composite for mandibular fixed retainers: bond failure, chairside time, and association with bracket debonding - a 6-month randomized clinical trial",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Khorram A, Sohrabi A, Ravadgar M",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "GC Flowable offered a clinically meaningful reduction in chairside time and represents an acceptable alternative for bonding mandibular fixed retainers.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1186/s12903-026-09667-8",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43052943/"
+  },
+  {
+   "pmid": "43052462",
+   "title": "Intra-sulcular compound chamomile and lidocaine hydrochloride gel for procedural pain during ultrasonic scaling: a randomized, single-blind, split-mouth, sham-controlled superiority trial in adults with plaque-induced gingivitis",
+   "journal": "Clinical oral investigations",
+   "pub_date": "2026-11",
+   "authors": "Tang R, Yin T, Liang J et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Intra-sulcular application of compound chamomile and lidocaine hydrochloride gel reduces procedural pain during ultrasonic supragingival scaling compared to a sham procedure. Its use was associated with shorter active scaling time and higher satisfaction. Whether these acute benefits translate to improved long-term periodontal treatment compliance warrants further investigation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1007/s00784-026-07274-z",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43052462/"
+  },
+  {
+   "pmid": "43050006",
+   "title": "Alloplastic bone graft combined with injectable platelet-rich fibrin versus xenograft for horizontal ridge augmentation in the posterior mandible: a split-mouth randomized clinical trial",
+   "journal": "Clinical oral investigations",
+   "pub_date": "2026-11",
+   "authors": "Kenç S, Günbay T, Günbay S et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The alloplastic graft with i-PRF protocol was associated with enhanced early postoperative comfort and soft-tissue healing, while achieving 6-month horizontal bone width comparable to xenograft, and may be a clinically feasible alternative for selected augmentation procedures.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1007/s00784-026-07291-y",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43050006/"
+  },
+  {
+   "pmid": "43046235",
+   "title": "Injectable platelet-rich fibrin improves clinical, biochemical, and microbiological outcomes in periodontitis: a 6-month split-mouth randomized controlled trial",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Vuckovic M, Nikolic N, Toljic B et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "SRP combined with i-PRF showed superior therapeutic effects in comparison to SRP alone in terms of clinical, biochemical and microbiological parameters, suggesting a promising application of i-PRF as an adjunctive periodontitis treatment.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1186/s12903-026-09701-9",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43046235/"
+  },
+  {
+   "pmid": "43043903",
+   "title": "Comparative Evaluation of NaOCl/EDTA-Based Multi-Step Protocol Versus Triton-Based Single-Step Protocol on Reduction of Bacterial DNA and RNA Levels: A Randomized Controlled Clinical Trial",
+   "journal": "Clinical and experimental dental research",
+   "pub_date": "2026-12",
+   "authors": "Khaleefah OT, Zubidi MA, Elshazli AH et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The Triton-based SSIP produced greater immediate reductions in bacterial DNA and RNA levels than the NaOCl/EDTA-based MSIP in maxillary central incisors with pulp necrosis and asymptomatic apical periodontitis.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1002/cre2.70514",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43043903/"
+  },
+  {
+   "pmid": "43043487",
+   "title": "Comparison of laterally closed tunnel and free gingival graft for isolated anterior mandibular recessions: a randomized controlled trial",
+   "journal": "Clinical oral investigations",
+   "pub_date": "2026-11",
+   "authors": "Oliveira JA, da Silveira MI, de Oliveira Alves R et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Both techniques were effective, promoting root coverage and increasing keratinized tissue. While FGG showed greater keratinized tissue gain, LCT resulted in less postoperative discomfort.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1007/s00784-026-07281-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43043487/"
+  },
+  {
+   "pmid": "43061568",
+   "title": "The Role and Significance of Oxidative Stress in Inflammatory Periodontal Disease and Contemporary Approaches to Antioxidant Therapy",
+   "journal": "Cureus",
+   "pub_date": "2026-10",
+   "authors": "Belenichev I, Popazova O, Salnykov V et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Although antioxidant strategies show promise in improving biochemical and clinical outcomes, current evidence remains heterogeneous. Further well-designed clinical studies are needed to clarify their role in routine periodontal care.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.7759/cureus.118234",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43061568/"
+  },
+  {
+   "pmid": "43060881",
+   "title": "Light-based therapies in dentistry: applications in cariology, endodontics, and periodontology",
+   "journal": "Frontiers in oral health",
+   "pub_date": "2026-11",
+   "authors": "Hong F, Niu JY",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Future progress will depend on precise dosimetry, device standardisation, and improved understanding of light-tissue-microbe interactions. Overall, light-based therapies show promising potential in dentistry, with existing literature supporting their various applications and effects; however, substantial heterogeneity in study designs and treatment parameters precludes standardised recommendations.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.3389/froh.2026.1996808",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43060881/"
+  },
+  {
+   "pmid": "43059621",
+   "title": "Substances that Enhance Osteogenic Potential of Stem Cells from Human Exfoliated Deciduous Teeth in Vitro: A Systematic Review",
+   "journal": "Journal of dental hygiene science",
+   "pub_date": "2025-12",
+   "authors": "Kim HS, Kim JY",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The review findings provide foundational data for future regenerative dentistry research utilizing SHED and are expected to guide experimental strategies and support potential clinical applications.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.17135/jdhs.2025.25.4.293",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059621/"
+  },
+  {
+   "pmid": "43059187",
+   "title": "Artificial intelligence in periodontitis: current evidence, clinical limitations, and research priorities",
+   "journal": "Journal of periodontal & implant science",
+   "pub_date": "2026-10",
+   "authors": "Lim HC, Yang SB, Jang EY et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Priorities for the next phase of periodontal AI include multicenter and temporal validation; calibrated outputs that account for uncertainty; patient-grouped, time-aware longitudinal testing; explicit handling of treatment exposure and missing data; evaluation of incremental value over simpler comparators; and prospective human-AI studies measuring workflow, decisions, errors, time burden, and patient-relevant outcomes. Applying these priorities…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.5051/jpis.2604400220",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059187/"
+  },
+  {
+   "pmid": "43058808",
+   "title": "Melt electrowriting in tissue engineering: from scaffold design and regenerative microenvironments to clinical translation",
+   "journal": "Biomedical engineering online",
+   "pub_date": "2026-08",
+   "authors": "Wei Q, Chen Y, Huang Y et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "We further discuss major barriers to translation, including limited material diversity, insufficient long-term in vivo evidence, lack of large-animal and clinical studies, and unresolved standardization and regulatory issues. By integrating regenerative requirements, scaffold-design strategies, the strength of in vivo evidence, and translational maturity, this review provides a requirement-oriented framework for critically evaluating MEW-based…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1186/s12938-026-01619-1",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058808/"
+  },
+  {
+   "pmid": "43058612",
+   "title": "The relationship between pre-anesthetic fear, pain expectation, and pain perception during endodontic injections: a prospective observational clinical study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Öksüzer MÇ, Özceylan A, Hatipoğlu FP et al.",
+   "study_type": "دراسة رصدية",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Pre-anesthetic fear was associated with injection pain mainly through patients' pain expectations rather than directly. Expectation management may therefore be a promising clinical target, although this observational finding requires confirmation in controlled trials.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1186/s12903-026-09671-y",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058612/"
+  },
+  {
+   "pmid": "43057923",
+   "title": "Systematic review and meta-analysis of oral rehabilitation with implants placed into fibula free flaps in the malignant setting",
+   "journal": "International journal of oral and maxillofacial surgery",
+   "pub_date": "2026-11",
+   "authors": "Newton R, King S, Butterworth C",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "There is limited but growing evidence of successful, early oral rehabilitation in fibula-based reconstructions in the malignant setting. More research with standardized reporting is required.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1016/j.ijom.2026.10.012",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43057923/"
+  },
+  {
+   "pmid": "43056018",
+   "title": "Local drug delivery for periodontitis: a narrative review of release, retention, and preclinical evidence",
+   "journal": "Odontology",
+   "pub_date": "2026-11",
+   "authors": "Sun A, An S",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The synthesis identifies practical links between pharmaceutical characterization and disease-relevant testing and organizes research priorities into five domains: formulation and dose, release conditions, retention and exposure, compatibility and local fate, and model and comparator selection. Future studies should connect reproducible dosing with local drug measurements, informative controls, tissue compatibility and application-specific…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1007/s10266-026-01619-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43056018/"
+  },
+  {
+   "pmid": "43055191",
+   "title": "Prevalence and associated factors of infraocclusion in implant-supported fixed partial dentures: A cross-sectional observational study",
+   "journal": "International journal of oral implantology (Berlin, Germany)",
+   "pub_date": "2026-11",
+   "authors": "Salgado O, Markatoush-Saleh S, Kewalramani N et al.",
+   "study_type": "دراسة رصدية",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "prosth",
+     "label": "تعويضات"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "It is not possible to determine whether implant infraocclusion in fixed partial dentures was deliberately created by the professional or developed as a result of continued dentoalveolar development. Nevertheless, regular monitoring of fixed partial denture occlusion is essential to prevent and facilitate the early diagnosis of implant infraocclusion, thereby avoiding potential secondary complications.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43055191/"
+  },
+  {
+   "pmid": "43055190",
+   "title": "Keratinised mucosa width and peri-implant disease during supportive peri-implant care: A follow-up analysis using cluster-adjusted sensitivity models in an established maintenance cohort",
+   "journal": "International journal of oral implantology (Berlin, Germany)",
+   "pub_date": "2026-11",
+   "authors": "Stöter NV, Stiesch M, Grischke J",
+   "study_type": "دراسة رصدية",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "An independent association between keratinised mucosa 2 mm and peri-implant mucositis, peri-implantitis or mucositis severity score could not be demonstrated. Keratinised mucosa width should be interpreted as a contextual soft tissue parameter rather than a standalone predictor of peri-implant disease.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43055190/"
+  },
+  {
+   "pmid": "43054534",
+   "title": "Application of artificial intelligence in predicting periodontal risks in orthodontic patients: a scoping review",
+   "journal": "Frontiers in oral health",
+   "pub_date": "2026-11",
+   "authors": "Yang H, He Q, Hu D",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "While AI demonstrates technical feasibility for assessing orthodontically related root resorption risk, robust individual-level risk prediction remains unestablished. Prospective multicenter external validation and adherence to standardized reporting guidelines are required prior to routine clinical adoption.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.3389/froh.2026.1925434",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43054534/"
+  },
+  {
+   "pmid": "43054226",
+   "title": "Innovative Hydrogel Technologies: Advancing Bone Regeneration with Novel Techniques",
+   "journal": "Biomaterials research",
+   "pub_date": "2026-11",
+   "authors": "Lai CM, Mei ZF, Wang SS et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Moreover, current advances in the use of nanomaterial-based drug carriers for precise spatiotemporal control of bioactive molecule release, localized drug delivery, and optimization of the mechanical properties of hydrogel systems are emphasized. Based on these considerable summaries and analyses, we proposed some feasible perspectives on improving release profiles through stimuli-responsive, carrier-assisted, and sequential delivery methods to…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.34133/bmr.0315",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43054226/"
+  },
+  {
+   "pmid": "43053557",
+   "title": "Janus Membranes for Guided Bone Regeneration: A Data-Driven Critical Review and Translational Perspectives",
+   "journal": "Tissue engineering. Part B, Reviews",
+   "pub_date": "2026-11",
+   "authors": "Yang Z, Chen S, Suo J et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The harder questions are manufacturing consistency, wet handling, and whether small-animal data predict performance in the mouth. After mapping 270 papers, we argue that the next step is not another multifunctional prototype, but a narrower design matched to one indication and tested in a sequence that a surgical and regulatory team can follow.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1177/19373368261506160",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43053557/"
+  },
+  {
+   "pmid": "43053502",
+   "title": "The Central Role of O-GlcNAcylation in Regulating Macrophages in the Pathogenesis of Periodontitis",
+   "journal": "Oral diseases",
+   "pub_date": "2026-11",
+   "authors": "Wang Q, Wnag X, Wang Y et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "O-GlcNAcylation lays novel theoretical foundations and translational strategies for precision immuno-metabolic therapy of periodontitis, especially in patients complicated with metabolic syndrome.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1111/odi.70585",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43053502/"
+  },
+  {
+   "pmid": "43051715",
+   "title": "Biofilm mediated immune modulation in cancer progression",
+   "journal": "Progress in molecular biology and translational science",
+   "pub_date": "2026-08",
+   "authors": "Chakraborty A, Chakravarti M, Bhattacharya R",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "medicine",
+     "label": "طب وأمراض الفم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Overall, while roles of bacteria in cancers like melanoma or lung carcinoma are variable and indirect, the mouth is a highly relevant example of carcinogenic processes involving the microbiome, making it an important target for future cancer research and treatment. These findings underscore the need for continued investigation into oral biofilm-immune interactions as a foundation for novel cancer prevention and treatment strategies.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "doi": "10.1016/bs.pmbts.2026.07.013",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43051715/"
+  }
+ ]
+}
