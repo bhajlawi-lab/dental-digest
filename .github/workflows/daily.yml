@@ -26,6 +26,8 @@ jobs:
         env:
           # اختياري: بدونه يعمل الموقع مجاناً بخلاصات المقالات الأصلية
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # مجاني بلا بطاقة دفع: مفتاح من Google AI Studio للملخصات العربية
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           # اختياري لكنه موصى به من NCBI
           NCBI_EMAIL: ${{ vars.NCBI_EMAIL }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
