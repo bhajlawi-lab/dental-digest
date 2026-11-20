@@ -42,7 +42,7 @@ DEFAULT_DAYS = 3          # كم يوماً للخلف يبحث (يغطي تأخ
 DEFAULT_MAX = 30          # أقصى عدد أبحاث تُنشر في اليوم
 SEEN_LIMIT = 5000         # عدد المعرّفات المحفوظة لتجنب التكرار
 CLAUDE_MODEL = os.environ.get("CLAUDE_MODEL", "claude-haiku-5-5")
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")  # مجاني بلا بطاقة دفع عبر Google AI Studio
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")  # مجاني بلا بطاقة دفع عبر Google AI Studio
 
 # التخصصات: (التسمية بالعربية، كلمات مفتاحية بالإنجليزية)
 SPECIALTIES = {
@@ -304,7 +304,7 @@ def gemini_summary(item: dict, api_key: str) -> dict | None:
         "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
     }).encode("utf-8")
     headers = {"x-goog-api-key": api_key, "content-type": "application/json"}
-    raw = http(url, data=body, headers=headers, timeout=40, retries=2)
+    raw = http(url, data=body, headers=headers, timeout=60, retries=1)
     reply = json.loads(raw)["candidates"][0]["content"]["parts"][0]["text"]
     return parse_json_block(reply)
 
