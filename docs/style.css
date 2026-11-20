@@ -160,3 +160,6 @@ h1 { margin: 0; font-size: 1.6rem; line-height: 1.35; }
   h1 { font-size: 1.35rem; }
   .card { padding: 14px; }
 }
+
+.title-ar { margin: 8px 0 4px; font-size: 1.12rem; line-height: 1.6; }
+.orig { margin: 0 0 6px; color: var(--muted); font-size: .84rem; direction: ltr; text-align: left; }

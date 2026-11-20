@@ -51,7 +51,7 @@
     return items.filter(function (it) {
       if (state.spec !== "all" && !(it.specs || []).some(function (s) { return s.id === state.spec; })) return false;
       if (!q) return true;
-      var hay = [it.title, it.journal, it.summary_ar, it.takeaway_ar, it.conclusion].join(" ").toLowerCase();
+      var hay = [it.title, it.title_ar, it.journal, it.summary_ar, it.takeaway_ar, it.conclusion].join(" ").toLowerCase();
       return hay.indexOf(q) !== -1;
     });
   }
@@ -120,7 +120,8 @@
     var meta = [it.journal, it.pub_date, it.authors].filter(Boolean).join(" · ");
     var node = el("article", { class: "card" }, [
       el("div", { class: "card-head" }, [el("div", { class: "badges" }, badges), star]),
-      el("h3", { class: "title", lang: "en", text: it.title }),
+      it.title_ar ? el("h3", { class: "title-ar", text: it.title_ar }) : el("h3", { class: "title", lang: "en", text: it.title }),
+      it.title_ar ? el("p", { class: "orig", lang: "en", text: it.title }) : null,
       el("p", { class: "meta", text: meta })
     ]);
 
@@ -141,8 +142,6 @@
     var actions = el("div", { class: "actions" });
     if (it.url) actions.appendChild(el("a", { class: "btn", href: it.url, target: "_blank", rel: "noopener noreferrer", text: "PubMed" }));
     if (it.doi) actions.appendChild(el("a", { class: "btn", href: "https://doi.org/" + encodeURI(it.doi), target: "_blank", rel: "noopener noreferrer", text: "DOI" }));
-    var trText = it.title + (it.conclusion ? "\n\n" + it.conclusion : "");
-    actions.appendChild(el("a", { class: "btn", href: "https://translate.google.com/?sl=en&tl=ar&op=translate&text=" + encodeURIComponent(trText), target: "_blank", rel: "noopener noreferrer", text: "ترجمة للعربية" }));
     var copy = el("button", { class: "btn", type: "button", text: "نسخ المرجع" });
     copy.addEventListener("click", function () { copyText(citation(it), copy); });
     actions.appendChild(copy);
