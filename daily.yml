@@ -1,0 +1,44 @@
+name: Daily dental digest
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 04:00 UTC = 07:00 بتوقيت تركيا
+  workflow_dispatch:       # للتشغيل اليدوي من تبويب Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch PubMed and build digest
+        env:
+          # اختياري: بدونه يعمل الموقع مجاناً بخلاصات المقالات الأصلية
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # اختياري لكنه موصى به من NCBI
+          NCBI_EMAIL: ${{ vars.NCBI_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        run: python scripts/fetch_digest.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "dental-digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "لا تغييرات للنشر."
+          else
+            git commit -m "digest $(date -u +%F)"
+            git push
+          fi
