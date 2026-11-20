@@ -141,6 +141,8 @@
     var actions = el("div", { class: "actions" });
     if (it.url) actions.appendChild(el("a", { class: "btn", href: it.url, target: "_blank", rel: "noopener noreferrer", text: "PubMed" }));
     if (it.doi) actions.appendChild(el("a", { class: "btn", href: "https://doi.org/" + encodeURI(it.doi), target: "_blank", rel: "noopener noreferrer", text: "DOI" }));
+    var trText = it.title + (it.conclusion ? "\n\n" + it.conclusion : "");
+    actions.appendChild(el("a", { class: "btn", href: "https://translate.google.com/?sl=en&tl=ar&op=translate&text=" + encodeURIComponent(trText), target: "_blank", rel: "noopener noreferrer", text: "ترجمة للعربية" }));
     var copy = el("button", { class: "btn", type: "button", text: "نسخ المرجع" });
     copy.addEventListener("click", function () { copyText(citation(it), copy); });
     actions.appendChild(copy);
@@ -153,7 +155,7 @@
     var msg = "";
     if (state.view === "day" && state.day) {
       if (state.day.demo) msg = "هذه بيانات تجريبية لعرض التصميم فقط وليست أبحاثاً حقيقية، وستُستبدل تلقائياً عند أول تحديث يومي.";
-      else if (!state.day.ai_summaries) msg = "تُعرض هنا خلاصة المقال الأصلي بالإنجليزية. لتفعيل الملخص العربي الآلي راجع ملف README.";
+      else if (!state.day.ai_summaries) msg = "تُعرض هنا خلاصة المقال الأصلي بالإنجليزية. اضغط «ترجمة للعربية» تحت أي بحث لترجمته.";
     }
     n.hidden = !msg;
     n.textContent = msg;
