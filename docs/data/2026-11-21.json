@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T01:38+03:00",
+ "generated_at": "2026-11-21T15:29+03:00",
  "ai_summaries": true,
  "demo": false,
  "items": [
@@ -1395,6 +1395,700 @@
    "title_ar": "الصحة النفسية الذاتية وصحة الفم (Oral Health) لدى المراهقين الكوريين",
    "doi": "10.17135/jdhs.2025.25.4.325",
    "url": "https://pubmed.ncbi.nlm.nih.gov/43059616/"
+  },
+  {
+   "pmid": "43065037",
+   "title": "Application of an improved problem-based learning method in clinical endodontic training of standardized residents",
+   "journal": "BMC medical education",
+   "pub_date": "2026-08",
+   "authors": "Jiang W, Yang J, Yu Q et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Overall, the improved PBL approach demonstrated targeted advantages in fostering specific clinical competencies, highlighting distinct pedagogical benefits depending on the complexity and technical demands of the specific clinical procedure. Further multicenter studies with larger sample sizes are needed to confirm its effectiveness and generalizability.",
+   "summary_ar": "قامت هذه التجربة العشوائية المضبوطة بتقييم تأثير نهج تعليمي قائم على المشكلات (Problem-Based Learning أو PBL) محسن مقارنة بالنهج التقليدي على 120 طبيباً مقيماً في تدريب طب الأسنان (Stomatology). تم تقييم الكفاءة السريرية لعلاج جذور الأسنان (Root Canal Treatment أو RCT) وعزل الحاجز المطاطي (Rubber Dam Isolation أو RDI) باستخدام تقييم المهارات الإجرائية الملاحظة مباشرة (Directly Observed Procedural Skills أو DOPS)، إلى جانب استبيانات للآراء. أظهرت النتائج تفوق مجموعة النهج المحسن في جوانب محددة مثل القدرة التشغيلية لـ RCT ومهارات التواصل لـ RDI، مع وجود تقييمات إيجابية عموماً من المشاركين.",
+   "takeaway_ar": "يوفر نهج التعلم القائم على المشكلات المحسن مزايا مستهدفة في تعزيز مهارات سريرية محددة لدى أطباء الأسنان المقيمين، لكن هناك حاجة لمزيد من الدراسات المتعددة المراكز ذات عينات أكبر لتأكيد فعاليته وإمكانية تعميمه.",
+   "title_ar": "تطبيق طريقة تعليم قائمة على المشكلات (Problem-Based Learning أو PBL) محسنة في التدريب السريري لعلاج اللب (Endodontic) للأطباء المقيمين",
+   "doi": "10.1186/s12909-026-10199-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43065037/"
+  },
+  {
+   "pmid": "43065617",
+   "title": "Smart biomaterials for immunomodulation in periodontitis: advances and challenges",
+   "journal": "Frontiers in bioengineering and biotechnology",
+   "pub_date": "2026-11",
+   "authors": "Zhao Y, Li P, Bao J",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Challenges involving material stability, biosafety, controlled release, and clinical translation are also discussed. This review may provide insights into the future development of immunomodulatory therapies for periodontitis.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "المواد الحيوية الذكية (Smart biomaterials) لتعديل المناعة (immunomodulation) في التهاب الدعم السني (periodontitis): التطورات والتحديات",
+   "doi": "10.3389/fbioe.2026.1969869",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43065617/"
+  },
+  {
+   "pmid": "43064881",
+   "title": "Innate Immunity in the Oral-Brain Axis: Trained Immunity as a Candidate Link Between Periodontitis and Alzheimer's Disease",
+   "journal": "Molecular neurobiology",
+   "pub_date": "2026-11",
+   "authors": "Jia Y, Ding J, Wu J et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Supportive periodontal care remains indicated for oral health; its neuroprotective efficacy, oral-fluid biomarkers of AD, and oral-brain prediction models require prospective validation. The framework positions periodontitis as a potential modifier while retaining systemic inflammatory aging and shared susceptibility as competing explanations.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "المناعة الفطرية (Innate Immunity) في محور الفم والدماغ: المناعة المُدرَّبة (Trained Immunity) كحلقة وصل محتملة بين التهاب الدعم السني (periodontitis) ومرض ألزهايمر (Alzheimer's Disease)",
+   "doi": "10.1007/s12035-026-06347-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064881/"
+  },
+  {
+   "pmid": "43064699",
+   "title": "Expert consensus on periodontal management for medically compromised patients",
+   "journal": "International journal of oral science",
+   "pub_date": "2026-11",
+   "authors": "Geng F, Lin L, Song Z et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This manuscript synthesizes current evidence on the bidirectional relationship between periodontitis and systemic conditions, proposes recommendations for dynamic periodontal management, and updates relevant therapeutic strategies. This expert consensus is designed to ensure both the safety and efficacy of periodontal treatment, reduce the risk of complications, and ultimately promote oral and general well-being.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "إجماع الخبراء حول التدبير العلاجي لأنسجة الدعم السني (periodontal management) للمرضى ذوي الحالات الطبية المعقدة",
+   "doi": "10.1038/s41368-026-00471-2",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064699/"
+  },
+  {
+   "pmid": "43064232",
+   "title": "Tooth Survival and Periapical Healing After Nonsurgical Root Canal Treatment: A Systematic Review and Paired Meta-analysis of Reporting Discordance",
+   "journal": "Journal of endodontics",
+   "pub_date": "2026-11",
+   "authors": "Ruan C, Wang L",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The average difference between reported survival and strict healing should not be interpreted as a universal biological constant. It primarily exposes non-equivalent outcome definitions, risk sets, and follow-up. Future endodontic outcome studies should report both endpoints at matched time points and denominators and provide tooth-level joint outcome tables.",
+   "summary_ar": "هدفت هذه المراجعة المنهجية والتحليل التلوي إلى تقييم الفروق ضمن الدراسات بين بقاء الأسنان والشفاء حول الذروة الصارم بعد علاج القنوات الجذرية غير الجراحي. شمل التحليل الأساسي 31 دراسة (مجموعة أترابية) مثلت 7499 سناً لمجموعات خطر البقاء و6783 لمجموعات خطر الشفاء، حيث وُجد أن معدل البقاء تفوق على الشفاء في 27 مجموعة بفرق مجمّع بلغ 8.8 نقاط مئوية مع درجة يقين منخفضة جداً.",
+   "takeaway_ar": "يشير الفارق بين معدلات البقاء والشفاء إلى اختلاف تعريفات النتائج والمتابعة بدلاً من كونها ثوابت بيولوجية، مما يتطلب توخي الحذر سريرياً واعتماد معايير موحدة في الدراسات المستقبلية.",
+   "title_ar": "بقاء الأسنان (Tooth Survival) والشفاء حول الذروة (Periapical Healing) بعد علاج القنوات الجذرية غير الجراحي (Nonsurgical Root Canal Treatment): مراجعة منهجية وتحليل تلوي مقترن لتباين التقارير",
+   "doi": "10.1016/j.joen.2026.11.010",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064232/"
+  },
+  {
+   "pmid": "43065121",
+   "title": "Ferroptosis and Lipid Metabolic Dysregulation Are Associated With Periodontitis and Peri-Implantitis Complicated by Type 2 Diabetes: A Cross-Sectional Study",
+   "journal": "Clinical oral implants research",
+   "pub_date": "2026-11",
+   "authors": "Xie Y, Han Z, Zhou Q et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This study not only reveals the potential metabolic signatures of T2DM-P and T2DM-PI but also highlights the underlying involvement of ferroptosis. Nonetheless, these exploratory findings require rigorous empirical validation for future clinical interventions.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "الموت الحديدي (Ferroptosis) واضطراب استقلاب الدهون مرتبطان بالتهاب الدعم السني (periodontitis) والتهاب حول الغرسات (peri-implantitis) المترافقين مع داء السكري من النوع الثاني: دراسة مقطعية",
+   "doi": "10.1111/clr.70205",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43065121/"
+  },
+  {
+   "pmid": "43065117",
+   "title": "Periodontal ligament stem cells modulate macrophage inflammation in association with pyrimidine metabolic remodeling",
+   "journal": "Inflammation and regeneration",
+   "pub_date": "2026-09",
+   "authors": "Hwang JW, Son YH, Park WJ et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "PDLSCs modulate macrophage inflammation in association with coordinated remodeling of Pyrimidine metabolism. Functional studies with TAU further support a role for pyrimidine metabolic regulation in controlling inflammatory responses and tissue repair, highlighting this metabolic pathway as a potential therapeutic target for oral inflammatory diseases.",
+   "summary_ar": "هدفت الدراسة إلى فهم الآليات الاستقلابية الكامنة وراء التفاعل بين الخلايا الجذعية للرباط اللثوي (PDLSCs) والخلايا المناعية، ولا سيما التهاب البلاعم. استخدم الباحثون نموذج زرع مشترك (Coculture) وتحليلات متعددة المكونات الأوميكية إلى جانب نموذج قوارض لقرحة الفم لتقييم التأثيرات المضادة للالتهاب والمجددة للأنسجة، مع اختبار مركب (Triacetyluridine - TAU). أظهرت النتائج أن الخلايا الجذعية للرباط اللثوي تثبط تنشيط الجسيم الالتهابي (NLRP3 inflammasome) وتعدل استقلاب البيريميدين، بينما أظهر علاج (TAU) تأثيرات مضادة للالتهاب ومحفزة لالتئام الأنسجة.",
+   "takeaway_ar": "تشير هذه النتائج إلى أن استهداف استقلاب البيريميدين قد يمثل استراتيجية علاجية محتملة لأمراض الفم الالتهابية، رغم الحاجة لمزيد من الدراسات السريرية لتأكيد هذه الأدلة المعملية والحيوانية.",
+   "title_ar": "الخلايا الجذعية للرباط اللثوي (Periodontal ligament stem cells) تعدل التهاب البلاعم (Macrophages) بالترافق مع إعادة تشكيل استقلاب البيريميدين (Pyrimidine metabolism)",
+   "doi": "10.1186/s41232-026-00443-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43065117/"
+  },
+  {
+   "pmid": "43065029",
+   "title": "Association between sleep bruxism, awake bruxism, perceived stress and coping strategies among dental students: a cross-sectional study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Tınastepe N, Iscan I",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "surgery",
+     "label": "جراحة الفم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Within the limitations of this study, sleep bruxism was associated with higher perceived stress levels and greater use of coping strategies, whereas awake bruxism was associated with reduced use of problem-focused coping despite similar perceived stress levels. These findings suggest that sleep bruxism and awake bruxism may have different psychosocial characteristics and should be evaluated separately in future research and clinical practice.",
+   "summary_ar": "هذه دراسة مقطعية هدفت إلى التحقيق في مدى ارتباط صرير الأسنان النومي واليقظي بمستويات التوتر المدرك واستراتيجيات التأقلم بين طلاب طب الأسنان في جامعة ميديبول بإسطنبول. شملت العينة 570 طالباً, حيث أُقيمت الدراسة باستخدام استبيانات ذاتية لتقييم التوتر واستراتيجيات التأقلم. أظهرت النتائج أن انتشار صرير الأسنان النومي بلغ 57.4% واليقظي 39.5%، وأن صرير الأسنان النومي ارتبط بارتفاع مستويات التوتر المدرك واستخدام استراتيجيات التأقلم المرتكزة على المشكلة والمشاعر، بينما ارتبط صرير الأسنان اليقظي بانخفاض استخدام التأقلم المرتكز على المشكلة.",
+   "takeaway_ar": "تشير هذه النتائج المحدودة بدراسة مقطعية إلى أن صرير الأسنان النومي واليقظي قد يمتلكان خصائص نفسية واجتماعية مختلفة، مما يرتئي ضرورة تقييمهما بشكل منفصل في الممارسة السريرية والأبحاث المستقبلية.",
+   "title_ar": "الارتباط بين صرير الأسنان النومي (Sleep bruxism)، وصرير الأسنان اليقظي (Awake bruxism)، والتوتر المدرك (Perceived stress)، واستراتيجيات التأقلم بين طلاب طب الأسنان: دراسة مقطعية",
+   "doi": "10.1186/s12903-026-09629-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43065029/"
+  },
+  {
+   "pmid": "43064989",
+   "title": "Trends and multidimensional disparities in permanent teeth caries among primary and secondary school students in Henan Province, China, 2019-2025: a serial cross-sectional study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Li F, Wang L, Liu J et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    },
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Although permanent teeth caries prevalence among students in Henan Province declined after 2023, the filling rate remained critically low, indicating a substantial and potentially widening treatment gap. The novel findings that urban-rural disparities narrow while gender disparities widen with age suggest that intervention strategies should be age‑tailored, with particular attention to urban older students and adolescent females.",
+   "summary_ar": "دلت هذه الدراسة المقطعية المتسلسلة (Serial cross-sectional study) التي شملت 1,804,129 طلبة في مقاطعة هينان الصينية على انخفاض انتشار تسوس الأسنان الدائمة (Permanent teeth caries) بمرور السنين، بينما بقي معدل الحشو منخفضاً بشكل ملحوظ دون تغير يذكر. كما أظهر التحليل المتعدد المتغيرات (Multivariable analysis) أن خطر التسوس كان أعلى بين الإناث والطلاب الأكبر سناً، وتأثر بتفاعلات ملحوظة بين الجنس ومكان الإقامة والعمر.",
+   "takeaway_ar": "تشير النتائج إلى وجود فجوة علاجية مستمرة تستدعي تدخلات موجهة ومخصصة حسب العمر، مع توخي الحذر نظراً لأن تصميم الدراسة مقطعي ولا يثبت السببية بشكل قطعي.",
+   "title_ar": "الاتجاهات والتفاوتات متعددة الأبعاد في تسوس الأسنان الدائمة (Permanent teeth caries) بين طلاب المدارس الابتدائية والثانوية في مقاطعة هينان بالصين، 2019-2025: دراسة مقطعية متسلسلة",
+   "doi": "10.1186/s12903-026-09738-w",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064989/"
+  },
+  {
+   "pmid": "43064983",
+   "title": "Microbial sealing and physicochemical degradation of composite resin seals in implant screw access channels: an in vitro study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Guo YQ, Wang ZE, Yu H",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The interfacial sealing of SACs is predominantly governed by the bulk physicochemical properties of the restorative material and its composite thickness, rather than the adhesive protocol. A 3 mm thickness of high-viscosity universal composite is suggested to improve resistance against microbial leakage.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "الإحكام الميكروبي والتحلل الفيزيائي الكيميائي لسدادات الراتنج المركب (composite resin) في قنوات وصول براغي غرسات الأسنان: دراسة مخبرية (in vitro)",
+   "doi": "10.1186/s12903-026-09719-z",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064983/"
+  },
+  {
+   "pmid": "43064978",
+   "title": "Oral findings and antiresorptive therapy exposure duration in postmenopausal women with osteoporosis: a cross-sectional cohort study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Süslü S, Haugen HJ, Krüger TB et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In this cross-sectional cohort, common oral findings did not show a robust graded duration-response pattern across ART exposure groups and were not consistently associated with fracture burden or hip BMD strata. The broad mucosal endpoint was largely driven by common traumatic findings and should be interpreted as a clinically pragmatic but biologically heterogeneous endpoint. Oral variables added negligible optimism-corrected discrimination…",
+   "summary_ar": "دُرست العلاقة بين مدة التعرض للعلاج مضاد ارتشاف العظم (ART) والنتائج الفموية لدى 129 امرأة بعد سن اليأس موزعات على مجموعات حسب مدة العلاج (مجموعة ضابطة، وعلاج قصير 3-5 سنوات، وعلاج طويل >5 سنوات). أظهرت النتائج أن الموجودات المخاطية الشفوية (oral mucosal findings) كانت شائعة ولكنها لم تظهر نمط استجابة تصاعدياً ثابتاً مع مدة العلاج، كما لم تكن مرتبطة بشكل متسق مع عبء الكسور (fracture burden) أو كثافة العظام (BMD)، في حين أن المتغيرات الفموية أضافت تمييزاً ضئيلاً لهشاشة العظام في الورك بعد تعديل العوامل المشتركة.",
+   "takeaway_ar": "لا توجد علاقة تصاعدية واضحة بين مدة العلاج مضاد ارتشاف العظم (ART) والنتائج الفموية، مما يدعو بحذر إلى تفسير التغيرات المخاطية بحذر نظراً لطبيعتها الرضحية (traumatic) المتنوعة، مع ضرورة تذكر حدود الدراسة المقطعية.",
+   "title_ar": "النتائج الفموية ومدة التعرض للعلاج مضاد ارتشاف العظم (antiresorptive therapy) لدى النساء بعد سن اليأس المصابات بهشاشة العظام (osteoporosis): دراسة أترابية مقطعية (cross-sectional cohort study)",
+   "doi": "10.1186/s12903-026-09735-z",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064978/"
+  },
+  {
+   "pmid": "43064977",
+   "title": "Surface-specific distribution and co-occurrence patterns of dental caries in adults: an ICDAS-based analysis",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Sismanoglu S",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Adult dental caries demonstrates a non-random distribution with pronounced posterior and segment-level clustering, particularly involving molar occlusal and approximal surfaces, with consistent bilateral and adjacent co-occurrence patterns.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "التوزيع الخاص بالسطوح وأنماط التزامن لتسوس الأسنان لدى البالغين: تحليل مستند إلى نظام (ICDAS)",
+   "doi": "10.1186/s12903-026-09597-5",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064977/"
+  },
+  {
+   "pmid": "43064963",
+   "title": "Short-term to early mid-term survival rates of progressive thread dental implants - a retrospective study of 9617 implants in 4253 patients",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Jesch P, Seemann R, Bruckmoser E",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Our observational study showed high survival rates of progressive thread dental implants comparable to results reported in international literature. Survival rates were significantly influenced by implant design, implant diameter, and male sex. Implant length, number of implants, jaw region, surgical approach, osteoporosis, diabetes, and smoking, did not show a significant influence on implant survival.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "معدلات البقاء قصيرة إلى متوسطة الأجل لغرسات الأسنان ذات اللولب المتدرج - دراسة استرجاعية لـ 9617 غرسة لدى 4253 مريضاً",
+   "doi": "10.1186/s12903-026-09679-4",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064963/"
+  },
+  {
+   "pmid": "43064298",
+   "title": "α-Ketoglutarate attenuates osteoclastogenesis in periodontitis by restoring mitochondrial metabolism and redox homeostasis via the KEAP1-NRF2 axis",
+   "journal": "Metabolism: clinical and experimental",
+   "pub_date": "2026-11",
+   "authors": "Yang Y, Liu H, Yu Q et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Stabilized NRF2 accumulates in the nucleus and drives the transcription of antioxidant genes to maintain redox homeostasis. Collectively, our findings establish α-KG as a potent negative regulator of osteoclastogenesis and support its therapeutic potential for periodontitis and other osteoclast-mediated bone disorders.",
+   "summary_ar": "دُرس دور مركب ألفا-كيتوجلوتارات (α-Ketoglutarate) في تثبيط تكوين الخلايا آكلة العظم (osteoclastogenesis) وتخفيف فقدان العظم السنخي في نموذج فئران مصابة بالتهاب الدعم السني (periodontitis). أظهرت الدراسة أن هذا المركب يثبط تمايز الخلايا آكلة العظم، ويحافظ على استقرار الميتوكوندريا (mitochondria)، ويقلل من تراكم أنواع الأكسجين التفاعلية (ROS) عبر مسار (KEAP1-NRF2). أثبت البحث قدرة المركب على الحد من فقدان العظم مما يبرز دوره العلاجي المحتمل.",
+   "takeaway_ar": "يمثل ألفا-كيتوجلوتارات (α-Ketoglutarate) محفزاً علاجياً محتملاً لأمراض العظام المرتبطة بزيادة الخلايا آكلة العظم مثل التهاب الدعم السني (periodontitis)، إلا أن الأدلة ما زالت مقصورة على نماذج الفئران وتتطلب تأكيداً سريرياً.",
+   "title_ar": "ألفا-كيتوجلوتارات (α-Ketoglutarate) يقلل من تكوين الخلايا آكلة العظم (osteoclastogenesis) في التهاب الدعم السني (periodontitis) عبر استعادة الأيض الميتوكوندري (mitochondrial metabolism) والتوازن المؤكسد (redox homeostasis) عن طريق محور (KEAP1-NRF2)",
+   "doi": "10.1016/j.metabol.2026.156851",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064298/"
+  },
+  {
+   "pmid": "43064233",
+   "title": "Persistence and Inflammation of Residual Radicular Cysts After Removal of the Endodontic Source: A Case Report and Implications for True Cyst Healing",
+   "journal": "Journal of endodontics",
+   "pub_date": "2026-11",
+   "authors": "Ricucci D, Occhiuzzi L, Tay FR",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Residual cysts that persist after extraction may coexist with localized bacteria and acute inflammation. Residual microbial stimulation may contribute to continued cyst activity. Highly focal bacterial distribution also explains why limited histologic sampling may miss infection. Persistence of a residual cyst alone is insufficient to infer that a pre-existing true apical cyst was self-sustaining.",
+   "summary_ar": "تمت دراسة حالة امرأة يبلغ عمرها 55 عاماً أُزيلت أسنانها مع بقاء آفات ذروية (Periapical)، حيث لوحظ استمرار بقاء كيس ذروي متبقٍ بعد ستة أشهر من القعط. أظهر الفحص النسيجي للكيس المُستأصل وجود بؤر جرثومية وتغيرات التهابية مرتبطة بها إلى جانب شقوق الكوليسترول (Cholesterol Clefts)، مما يشير إلى أن استمرار الآفة قد يرتبط بتحفيز جرثومي موضعي.",
+   "takeaway_ar": "استمرار الكيس المتبقي قد يعود لوجود بكتيريا موضعية والتهاب، لذا لا يُعد مجرد بقاء الكيس دليلاً قاطعاً على استقلاليته ذاتياً، مع ضرورة الحذر نظراً لكون الدراسة تقرير حالة (Case Report).",
+   "title_ar": "استمرار والتهاب الأكياس الجذرية المتبقية (Residual Radicular Cysts) بعد إزالة مصدر المعالجة العصبية (Endodontic Source): تقرير حالة ودلالات على شفاء الكيس الحقيقي",
+   "doi": "10.1016/j.joen.2026.11.008",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064233/"
+  },
+  {
+   "pmid": "43064132",
+   "title": "In-vitro activity of a dual-light antimicrobial photodynamic therapy system on bacteria and biofilm associated with periodontitis",
+   "journal": "Photodiagnosis and photodynamic therapy",
+   "pub_date": "2026-11",
+   "authors": "Eick S, Tebyanyan H, Veronese C et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Dual-light antimicrobial photodynamic therapy exhibits a good in-vitro activity against planktonic oral bacteria and multi-species periodontal/peri-implant biofilms. Further research is needed to understand its mode of action. This should include clinical trials at different stages of periodontal therapy and across different patient populations.",
+   "summary_ar": "بحث هذا التقييم المخبري الفعالية المضادة للبكتيريا والغشاء الحيوي (biofilm) لنظام علاج ضوئي ديناميكي مضاد للميكروبات (aPDT) يدمج بين طولين موجيين ومادة صباغة حساسة للضوء (photosensitizer) باستخدام نموذج أسنان مطبوع ثلاثي الأبعاد. أظهرت النتائج تبايناً في القضاء على البكتيريا العالقة (planktonic bacteria)، حيث تم القضاء كلياً على أنواع مثل (Prevotella intermedia) و(Porphyromonas gingivalis)، بينما انخفضت أعداد (Streropcoccus mutans) بنحو 1 log10، وأدى العلاج إلى تقليل العد البكتيري الكلي في الأغشية الحيوية بأكثر من 3 log10 cfu بعد التعرض للضوء لمدة تتراوح بين 2 إلى 10 دقائق.",
+   "takeaway_ar": "يُظهر العلاج الضوئي الديناميكي (aPDT) ثنائي الضوء نشاطاً مخبرياً واعداً ضد بكتيريا دواعم السن والأغشية الحيوية، لكن تبقى الحاجة ملحة لإجراء تجارب سريرية لتأكيد هذه النتائج قبل تطبيقها السريري.",
+   "title_ar": "النشاط المخبري (in-vitro) لنظام العلاج الضوئي الديناميكي المضاد للميكروبات (antimicrobial photodynamic therapy) ثنائي الضوء على البكتيريا والغشاء الحيوي (biofilm) المرتبط بالتهاب دواعم السن (periodontitis)",
+   "doi": "10.1016/j.pdpdt.2026.105730",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064132/"
+  },
+  {
+   "pmid": "43063517",
+   "title": "Factors Associated With Annual Out-Of-Pocket Dental Expenditure in a Private Dental Setting in Saudi Arabia: A Patient-Level Analysis",
+   "journal": "Inquiry : a journal of medical care organization, provision and financing",
+   "pub_date": "2026-11",
+   "authors": "Alharbi NS, Aljurayyan HN",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Age-expenditure patterns varied across specifications, with no evidence of a downturn in the late forties.ConclusionAge-group differences in mean OOP expenditure were small and accompanied by distinct service-use patterns. These findings highlight the value of examining both expenditure distribution and service use when evaluating dental financial protection.",
+   "summary_ar": "بحث ة هذه الدراسة العوامل المرتبطة بالنفقات الشخصية (Out-of-Pocket Expenditure) السنوية لطب الأسنان لدى المرضى دافعي التكلفة ذاتياً في عيادة أسنان خاصة بمدينة الرياض، وذلك عبر تحليل السجلات السريرية وملفات الفواتير لـ 2,894 مريضاً. أظهرت النتائج أن المرضى الأكبر سناً لديهم متوسط نفقات سنوية أعلى قليلاً مع اختلاف في أنماط استخدام الخدمات، حيث شاعت المعالجات اللبية (Endodontic services) والتعويضات السنية (Prosthodontic services) لديهم، بينما شاعت خدمات تقويم الأسنان (Orthodontic services) والوقاية بين الأصغر سناً.",
+   "takeaway_ar": "تشير هذه النتائج إلى وجود فروق طفيفة في الإنفاق الشخصي (Out-of-Pocket Expenditure) بحسب العمر واختلاف في نوعية الخدمات المستخدمة، مع ضرورة الحذر في تعميم هذه النتائج نظراً لكون الدراسة أجريت في مركز خاص واحد.",
+   "title_ar": "العوامل المرتبطة بالنفقات السنوية الشخصية (Out-of-Pocket Expenditure) على طب الأسنان في قطاع طب الأسنان الخاص في المملكة العربية السعودية: تحليل على مستوى المريض",
+   "doi": "10.1177/00469580261511851",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063517/"
+  },
+  {
+   "pmid": "43063504",
+   "title": "Transcriptomic Characterization of Early Osseointegration: An Exploratory In Vivo RNA-Seq Study",
+   "journal": "The International journal of oral & maxillofacial implants",
+   "pub_date": "2026-11",
+   "authors": "Lau LN, Cho JH, Chae SJ et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This exploratory RNA-seq study identified distinct transcriptional profiles during early peri-implant healing. The findings provide preliminary insight into molecular events occurring at the bone-implant interface and may serve as a foundation for future studies investigating the biology of osseointegration.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "التوصيف النسخي (Transcriptomic Characterization) للاندماج العظمي المبكر (Early Osseointegration): دراسة استكشافية تسلسلية للحمض النووي الريبي في الجسم الحي (In Vivo RNA-Seq Study)",
+   "doi": "10.11607/jomi.11567",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063504/"
+  },
+  {
+   "pmid": "43063503",
+   "title": "Seventeen-Year Follow-up of Migrated Dental Implants with a Prosthesis: A Case Report",
+   "journal": "The International journal of oral & maxillofacial implants",
+   "pub_date": "2026-11",
+   "authors": "Kato S, Kato G",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Re-prosthetic intervention can achieve long-term functional stability for migrated dental implants. Non-surgical prosthetic approach implies an optional treatment strategy for managing long-term implant migration while preserving the function under the clinical and radiographic stability compatible with osseointegration.",
+   "summary_ar": "تناول هذا التقرير حالة مريضة تبلغ من العمر 58 عاماً خضعت لعلاج بـغرسات الأسنان (Dental Implants) شامل بعد قلع الأسنان، حيث وُضعت 6 غرسات في كل من الفك العلوي والسفل. بعد 12 عاماً من الوظيفة المستقرة، لوحظ هجرة (Migration) لبعض الغرسات والأسنان المجاورة والتعويضات (Prosthesis)، وتم التعامل مع الحالة بقلع الأسنان الطبيعية المجاورة وصنع تعويض جديد للفك السفلي. أظهرت النتائج أن الغرسات المهاجرة حافظت على ثباتها دون فشل ميكانيكي، وبقيت مستقرة في مواقعها الجديدة طوال فترة المتابعة الإضافية البالغة 5 سنوات (لتصبح إجمالي فترة المتابعة 17 عاماً).",
+   "takeaway_ar": "تشير هذه الحالة إلى أن التدخل التعويضي (Prosthetic intervention) قد يحقق استقراراً وظيفياً طويل الأجل لغرسات الأسنان المهاجرة، مع ضرورة الحذر نظراً لكونها دراسة حالة فردية ذات أدلة محدودة.",
+   "title_ar": "متابعة لمدة 17 عاماً لغرسات أسنان مهاجرة (Dental Implants) مع تعويض prosthetic: تقرير حالة (Case Report)",
+   "doi": "10.11607/jomi.11951",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063503/"
+  },
+  {
+   "pmid": "43063502",
+   "title": "Implant Position Accuracy of a Dual-Function Bite Holder for Single-Visit Registration of Complete-Arch Implants and Maxillomandibular Relationship: An In Vitro Study",
+   "journal": "The International journal of oral & maxillofacial implants",
+   "pub_date": "2026-11",
+   "authors": "Farah RI, Alwably A, Alfurayhi A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Digital substitution of bite holders with scan bodies achieved clinically acceptable accuracy for implant position registration under in vitro conditions, with differences from direct scan body scanning within the predefined equivalence margins This design enables simultaneous single-visit capture of implant positions and maxillomandibular relationships (MMR), warranting clinical validation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "دقة وضع الغرسة لحامل عضّ ذي وظيفة مزدوجة لتسجيل غرسات الفك الكامل وعلاقة الفكين في زيارة واحدة: دراسة مخبرية (in vitro)",
+   "doi": "10.11607/jomi.11903",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063502/"
+  },
+  {
+   "pmid": "43063501",
+   "title": "One-Year Bone and Soft Tissue Remodeling Patterns Following Immediate Implant Placement in the Anterior Maxilla: A Retrospective Volumetric Analysis",
+   "journal": "The International journal of oral & maxillofacial implants",
+   "pub_date": "2026-11",
+   "authors": "Menchini-Fabris GB, Toti P, Young KS et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Most observed soft tissue dimensional changes occurred along the buccal aspect during the first months following implant placement. Both SHS and BCHS protocols, applied to different baseline clinical conditions, were associated with distinct and time-dependent bone and soft tissue remodeling patterns over the first year. The greater remodeling observed in BCHS sites occurred in the context of more severe baseline anatomical compromise and should…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "أنماط إعادة تشكيل العظام والأنسجة الرخوة لمدة عام واحد بعد وضع الغرسة الفوري في الفك العلوي الأمامي: تحليل حجمي استرجاعي",
+   "doi": "10.11607/jomi.11858",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063501/"
+  },
+  {
+   "pmid": "43063500",
+   "title": "Nonlinear Dimensionality Reduction Reveals Distinct Phenotypic Clusters Among Immediately Placed Dental Implants: A UMAP Analysis of 5-Year Outcomes",
+   "journal": "The International journal of oral & maxillofacial implants",
+   "pub_date": "2026-11",
+   "authors": "Cheng YC, Puisys A, Gallucci GO et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "UMAP identified clinically meaningful phenotypic clusters among immediately placed and immediately loaded implants that were not apparent using conventional linear methods. Clusters characterized by favorable initial bone conditions achieved superior long-term esthetic outcomes. Preoperative UMAP clustering was associated with 5-year outcomes in this exploratory proof-of-concept analysis; validation in independent cohorts is needed.",
+   "summary_ar": "هدفت هذه الدراسة الاستكشافية لتطبيق خوارزمية تقريب الإسقاط المنتظم المتعدد (UMAP) على بيانات عالية الأبعاد لـ 22 مريضا خضعوا لزرعات أسنان فورية وتحميل فوري في الفك العلوي الأمامي. تم جمع 103 متغيرات سريرية وشعاعية ومن المريض نفسه، حيث نجحت تقنية (UMAP) في تصنيف الزرعات إلى مجموعات مظهرية ذات فروق دالة استحصالية في النتائج الجمالية وسمك العظم على مدى 5 سنوات، بينما لم تنجح التحليلات التقليدية في ذلك. تشير النتائج إلى ارتباط الخصائص قبل جراحية بالنتائج طويلة الأجل.",
+   "takeaway_ar": "قد تساعد خوارزميات خفض الأبعاد مثل (UMAP) في تحديد الأنماط السريرية وتوقع النتائج الجمالية طويلة الأجل لزرعات الأسنان الفورية بناءً على حالة العظم الابتدائية، إلا أن هذه النتائج مستمدة من دراسة استكشافية ذات عينة صغيرة تتطلب التحقق عبر دراسات مستقلة.",
+   "title_ar": "استخدام تقنية خفض الأبعاد غير الخطية (Nonlinear Dimensionality Reduction) للكشف عن مجموعات مظهرية مميزة لزرعات الأسنان الفورية (Immediately Placed Dental Implants): تحليل خوارزمية (UMAP) للنتائج على مدى 5 سنوات",
+   "doi": "10.11607/jomi.11898",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063500/"
+  },
+  {
+   "pmid": "43063499",
+   "title": "IRIS-Dx - The Integrated Risk Indicator System for Implant Disease Diagnosis: Retrospective Study and Framework",
+   "journal": "The International journal of oral & maxillofacial implants",
+   "pub_date": "2026-11",
+   "authors": "Rodriguez AB, Tozum TF, Yu A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Biological, skeletal, and anatomical factors influence peri-implant buccal and lingual/palatal bone remodeling. The IRIS-Dx model integrates 11 variables into a risk score (low 0-3, moderate 4-7, high 8-10) supporting early identification of high-risk patients and individualized implant planning.",
+   "summary_ar": "قيّمت هذه الدراسة بأثر رجعي (retrospective study) التغيرات الهيكلية لفكي الفك العلوي والسفلي باستخدام التصوير المقطعي المحوسب مخروطي الحزمة (CBCT) لتطوير نموذج تنبئي لمخاطر مضاعفات الغرسات. شمل التحليل 125 غرسة لدى 52 مريضاً، وأظهرت النتائج أن فقدان العظم يزداد بمرور الوقت، وأن تاريخ التهاب الدريشة السنية (periodontitis) وفشل الزرع السابق هما أقوى العوامل المنبئة بالتهاب حول الغرسات (peri-implantitis).",
+   "takeaway_ar": "يقدم نموذج (IRIS-Dx) أداة لتقييم المخاطر وتحديد المرضى المعرضين لمخاطر عالية مبكراً، رغم الحاجة لمزيد من التحقق نظراً لطبيعة الدراسة بأثر رجعي.",
+   "title_ar": "نظام مؤشر الخطر المتكامل لتشخيص أمراض زرع الأسنان (IRIS-Dx): دراسة بأثر رجعي وإطار عمل",
+   "doi": "10.11607/jomi.11947",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063499/"
+  },
+  {
+   "pmid": "43063498",
+   "title": "Survival and Failure Rates of Dental Implants Placed in Sites of Previous Implant Failure: A Systematic Review of Retreatment Outcomes and Associated Clinical Risk Factors",
+   "journal": "The International journal of oral & maxillofacial implants",
+   "pub_date": "2026-11",
+   "authors": "Banerjee S, Dasgupta D, Pal D et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Replacement implants placed at previously failed sites showed a pooled survival estimate of 90.2%; however, this estimate should be interpreted cautiously given the high heterogeneity, variable follow-up periods, and limitations of the available evidence. Future prospective multicentre studies with standardised outcome measures and long-term follow-up are needed to strengthen clinical recommendations.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "معدلات البقاء والفشل لغرسات الأسنان المزروعة في مواقع فشل غرسات سابقة: مراجعة منهجية لنتائج إعادة المعالجة وعوامل الخطر السريرية المرتبطة بها",
+   "doi": "10.11607/jomi.11908",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063498/"
+  },
+  {
+   "pmid": "43063497",
+   "title": "Effects of Cover Screw and Healing Abutment on Early Implant Stability: A Randomized Controlled Clinical Trial",
+   "journal": "The International journal of oral & maxillofacial implants",
+   "pub_date": "2026-11",
+   "authors": "Akıllı H, Erdil ZBÇ, Çalışır M et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Submerged healing with a cover screw resulted in a modest but statistically significant increase in the secondary implant stability. However, because the absolute inter-group difference was small and both groups achieved mean ISQ values above 70, no clinically significant advantage of either protocol was detected during the 3-month follow-up period.",
+   "summary_ar": "قارنت هذه التجربة السريرية العشوائية ذات الفم المُشقّق (split-mouth) بين استخدام برغي الغطاء ومُركّب الشفاء على ثبات الغرسات (implants) أثناء الالتئام العظمي (osseointegration) المبكر في 46 مريضاً سليماً. أظهرت النتائج أن مجموعة برغي الغطاء حققت قيماً أعلى دلالةً إحصائيةً في ثبات الغرسات الثانوي بعد 3 أشهر مقارنة بمجموعة مُركّب الشفاء.",
+   "takeaway_ar": "على الرغم من أن الالتئام المغمور ببرغي الغطاء أدى إلى زيادة طفيفة ودالة إحصائياً في الثبات الثانوي، إلا أن الفارق البسيط يعني عدم وجود أفضلية سريرية واضحة لأي من البروتوكولين خلال فترة المتابعة البالغة 3 أشهر.",
+   "title_ar": "تأثير برغي الغطاء (cover screw) ومُركّب الشفاء (healing abutment) على الثبات المبكر لغرسات الأسنان: تجربة سريرية عشوائية مُحكْمة",
+   "doi": "10.11607/jomi.11938",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063497/"
+  },
+  {
+   "pmid": "43063175",
+   "title": "Influence of peri-implant soft tissue thickness on marginal bone loss following immediate implant placement in the anterior maxilla: A retrospective comparative study",
+   "journal": "PloS one",
+   "pub_date": "2026-11",
+   "authors": "Kadkhodazadeh M, Alam M, Golkar M et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Within the limitations of this retrospective study, peri-implant soft tissue thickness was identified as a key determinant of marginal bone preservation after immediate implant placement in the anterior maxilla. Thicker mucosa was associated with significantly reduced bone resorption and more stable peri-implant esthetic outcomes after one year.",
+   "summary_ar": "هذه دراسة بأثر رجعي قيمت العلاقة بين سماكة الأنسجة الرخوة وفقدان العظم الهامشي بعد عام من التحميل الوظيفي لـ 50 غرسة فورية في الفك العلوي الأمامي. تم تقسيم المرضى إلى مجموعات ذات أنسجة رقيقة أو سميكة بناءً على قياسات الأنسجة الدهليزية الوسطى. أظهرت النتائج أن فقدان العظم الهامشي كان أعلى بشكل ملحوظ في مجموعة الأنسجة الرخوة الرقيقة مقارنة بمجموعة الأنسجة السميكة مع وجود ارتباط عكسي قوي بين السماكة وفقدان العظم.",
+   "takeaway_ar": "تشير الدراسة إلى أن الأنسجة الرخوة الأكثر سمكاً ترتبط بانقلاب أقل في العظم الهامشي بعد زراعة الأسنان الفورية، مع ضرورة أخذ حدود هذه الدراسة الاسترجاعية بعين الاعتبار عند التطبيق السريري.",
+   "title_ar": "تأثير سماكة الأنسجة الرخوة حول الغرسة (Peri-implant soft tissue thickness) على فقدان العظم الهامشي (Marginal bone loss) بعد زراعة الأسنان الفورية (Immediate implant placement) في الفك العلوي الأمامي: دراسة مقارنة بأثر رجعي",
+   "doi": "10.1371/journal.pone.0360723",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063175/"
+  },
+  {
+   "pmid": "43063133",
+   "title": "Gender representation in highly cited endodontic research: A multivariate analysis",
+   "journal": "PloS one",
+   "pub_date": "2026-11",
+   "authors": "Arılı Öztürk E, Turan Gökduman C, Aktaş Ş et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Funding was positively associated with female authorship, whereas author gender was not associated with citation counts. Women remain underrepresented in senior authorship positions in highly cited endodontic research.",
+   "summary_ar": "دُرست تمثيلية النساء كباحثات أوليات وأخيرة ومسؤولات في المقالات عالية الاستشهاد في مجال علاج اللب (Endodontic) المنشورة بين 2015 و2024. تم تحليل عينة مكونة من 1262 باحثاً في 200 مقالة باستخدام قواعد البيانات والانحدار المتعدد (Multivariable regression). وأظهرت النتائج أن النساء يمثلن 31% من إجمالي الباحثين، مع بقائهن قاصرات التمثيل في مواقع التأليف العليا (Last authors)، بينما وُجد ارتباط إيجابي بين التمويل وتأليف النساء دون وجود ارتباط بين جنس الباحث ومعدلات الاستشهاد.",
+   "takeaway_ar": "تشير الدراسة إلى استمرار نقص تمثيل النساء في المواقع القيادية للتأليف في أبحاث علاج اللب (Endodontic)، ورغم ذلك لا يؤثر جنس الباحث على جودة الاستشهاد، مع ضرورة الحذر في تعميم هذه النتائج نظراً لطبيعة التحليل البابومتري.",
+   "title_ar": "تمثيل الجنسين في أبحاث علاج اللب (Endodontic) عالية الاستشهاد: تحليل متعدد المتغيرات",
+   "doi": "10.1371/journal.pone.0363135",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063133/"
+  },
+  {
+   "pmid": "43062851",
+   "title": "Long-term radiographic marginal bone level changes around implants placed in periodontally healthy and periodontally compromised patients: A retrospective case series with 17-27 years of follow-up",
+   "journal": "Journal of periodontology",
+   "pub_date": "2026-11",
+   "authors": "Giulio R, Andrea B, Paolo V et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Within the limitations of present study, the results indicate that past history of periodontitis in patients adhering to SPC may not affect the mBL around implants placed in PCP. However, the limited number of patients at each time point and the low statistical power do not allow for strong conclusions to be drawn.",
+   "summary_ar": "هدفت هذه الدراسة التقييمية بأثر رجعي إلى قياس فقدان العظم الهامشي (marginal bone loss - mBL) حول الغرسات السنية بعد متابعة بلغت 19.5 عاماً في المتوسط بين 32 مريضاً. أظهرت النتائج أن الغرسات لدى المرضى الأصحاء سجّلت متوسّط فقدان عظمي بلغ 0.04 ملم، بينما سجّلت الغرسات لدى المرضى الذين عانوا سابقاً من أمراض اللثة (periodontitis) متوسّط فقدان بلغ 1.02 ملم دون وجود فروق ذات دلالة إحصائية إجمالية بين المجموعتين.",
+   "takeaway_ar": "تشير النتائج إلى أن التاريخ المرضي لأمراض اللثة قد لا يؤثر جوهرياً على فقدان العظم الهامشي حول الغرسات لدى المرضى الملتزمين بالعناية الداعمة للثة (SPC)، ولكن نظراً لصغر حجم العينة وضعف القوة الإحصائية، لا يمكن استخلاص أدلة قوية قاطعة للممارسة السريرية.",
+   "title_ar": "التغيرات شعاعياً على المدى الطويل في مستوى العظم الهامشي (marginal bone level) حول الغرسات السنية (dental implants) المزروعة في مَرضى لثة أصحاء ومصابين بأمراض اللثة (periodontally compromised patients): سلسلة حالات رجعية بمدة متابعة تتراوح بين 17 و27 عاماً",
+   "doi": "10.1002/jper.70206",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43062851/"
+  },
+  {
+   "pmid": "43062741",
+   "title": "Comparison of occlusal outcomes in complex cases treated with Orthodontics-First Approach method and the Surgery-First Approach: a multicenter retrospective study",
+   "journal": "Clinical oral investigations",
+   "pub_date": "2026-11",
+   "authors": "Greene R, Montes ML, Fernandes Poleti T et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "surgery",
+     "label": "جراحة الفم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Within the limitations of this retrospective study, no statistically significant evidence of a difference in occlusal outcomes were observed detected between OFA and SFA. These findings should be interpreted with caution given the retrospective design and limited sample size.",
+   "summary_ar": "هدفتا هذه الدراسة الاسترجاعية متعددة المراكز إلى تقييم النتائج الإطباقية في الحالات المعقدة التي خضعت لجراحة تقويم العظام (orthognathic surgery) باستخدام إما نهج تقويم الأسنان أولاً (OFA) أو نهج الجراحة أولاً (SFA). شملت العينة 34 مريضاً (17 في كل مجموعة) تمت مطابقتهم، حيث تم تقييم جودة الإطباق بعد العلاج باستخدام نظام الدرجات الموضوعي التابع لمجلس تقويم الأسنان الأمريكي (American Board of Orthodontics Objective Grading System - ABO-OGS). أظهرت النتائج عدم وجود فروق ذات دلالة إحصائية في مجموع درجات نظام الدرجات الموضوعي (ABO-OGS) بين المجموعتين بعد تعديل العوامل المتداخلة.",
+   "takeaway_ar": "لا توجد فروق ذات دلالة إحصائية في النتائج الإطباقية بين نهجي (OFA) و(SFA)، مما يؤكد أهمية الدقة في التشطيب بغض النظر عن النهج المستخدم، مع ضرورة تفسير هذه النتائج بحذر نظراً لصغر حجم العينة والتصميم الاسترجاعي.",
+   "title_ar": "مقارنة النتائج الإطباقية في الحالات المعقدة المُعَالَجَة بنهج تقويم الأسنان أولاً (Orthodontics-First Approach - OFA) ونهج الجراحة أولاً (Surgery-First Approach - SFA): دراسة استرجاعية متعددة المراكز",
+   "doi": "10.1007/s00784-026-07290-z",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43062741/"
+  },
+  {
+   "pmid": "43062514",
+   "title": "Resin-stabilized ligature combined with Porphyromonas gingivalis inoculation creates a stable rat model for studying oral microbial dysbiosis and host inflammatory responses in periodontitis",
+   "journal": "World journal of microbiology & biotechnology",
+   "pub_date": "2026-11",
+   "authors": "Sun M, Jiang Z, Liu Y et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "gingivalis inoculation, provides a stable experimental system for investigating host-microbe interactions under defined mechanical and microbial conditions. The observed coupling between microbial succession and tissue breakdown offers a microbiological perspective on the mechanisms linking mechanical stimulation, microbial community dynamics, and host inflammatory responses in the context of periodontitis.",
+   "summary_ar": "درفت هذه الدراسة نموذجاً معدلاً للفئران يعتمد على استخدام راتنج مركب معالج ضوئياً (Light-cured composite resin) لتثبيت الرباط مقارنة بالتلقيح بميكروب Porphyromonas gingivalis لتقييم تأثيرها على تكوين مجتمعات الميكروبات الفموية (Oral microbiota) واستجابات أنسجة المضيف. قُسّمت الفئران إلى أربع مجموعات شملت مجموعة التحكم، الرباط الحريري فقط، الرباط المثبت بالراتنج، والرباط المثبت بالراتنج مع التلقيح البكتيري، حيث قيست معدلات انحلال العظم السنخي (Alveolar bone resorption) والتعبير عن السيتوكينات الالتهابية (Inflammatory cytokines) وتحليل تسلسل الجينات. أظهرت النتائج أن تثبيت الراتنج قلل معدل ارتخاء الأربطة بشكل ملحوظ، بينما أدت مجموعة التلقيح البكتيري إلى زيادة ارتشاح الخلايا الالتهابية وارتخاء العظم وتدهور الكولاجين، فضلاً عن تغيرات واضحة في تنوع الميكروبات.",
+   "takeaway_ar": "يوفر هذا النموذج الحيواني المعدل نظاماً أكثر استقراراً لدراسة التفاعلات بين المضيف والميكروبات في التهاب الأنسجة الداعمة (Periodontitis)، ولكن تبقى النتائج محددة بنطاق النماذج الحيوانية ويجب الحذر عند إسقاطها على الممارسة السريرية البشرية.",
+   "title_ar": "رباط مثبت بالراتنج (Resin-stabilized ligature) مع التلقيح بـ Porphyromonas gingivalis لإنشاء نموذج فأر مستقر لدراسة خلل التوازن الميكروبي الفموي والاستجابات الالتهابية للمضيف في التهاب الأنسجة الداعمة (Periodontitis)",
+   "doi": "10.1007/s11274-026-05419-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43062514/"
   }
  ]
 }
