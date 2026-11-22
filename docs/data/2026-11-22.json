@@ -1,0 +1,694 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T15:30+03:00",
+ "ai_summaries": true,
+ "demo": false,
+ "items": [
+  {
+   "pmid": "43066806",
+   "title": "Evaluation of pulpal blood flow and postoperative pain after direct pulp capping with different materials in teeth with symptomatic irreversible pulpitis: a randomized controlled clinical trial",
+   "journal": "Clinical oral investigations",
+   "pub_date": "2026-11",
+   "authors": "Altuntaş RH, Uğur Aydın Z",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Dycal, MTA, and Biodentine showed comparable early pulpal perfusion and postoperative pain outcomes following DPC in teeth with SIP. At 1 month, pulpal perfusion was significantly higher than baseline in teeth treated with Biodentine, whereas no significant changes were observed in teeth treated with Dycal or MTA.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s00784-026-07296-7",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43066806/"
+  },
+  {
+   "pmid": "43067873",
+   "title": "Bioactive Constituents of Cardamom and Their Therapeutic Relevance in Oral Health: A Narrative Review",
+   "journal": "International journal of dentistry",
+   "pub_date": "2026-11",
+   "authors": "Menon N, Ceena Denny E, Santosh ABR",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "These bioactive agents may play a role in modulating oral microbiological flora, reducing inflammation and preventing oral diseases and protecting against oxidative stress, thus preventing DNA damage that is one of the hallmarks of cancer development. This may lead to a new avenue in natural medicine for promoting oral health in a clinical context.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1155/ijod/6017758",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43067873/"
+  },
+  {
+   "pmid": "43067203",
+   "title": "Basic medical elucidation of Kampo medicines effective for oral diseases- Hainosankyuto, Hangeshashinto, and Rikkosan",
+   "journal": "Journal of oral biosciences",
+   "pub_date": "2026-11",
+   "authors": "Oh H, Hitomi S, Makita Y et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Most of the surveyed findings were derived from in vitro assays and animal experiments, with clinical data limited to case reports and small-scale studies. Therefore, the present evidence offers pharmacological hypotheses rather than established clinical efficacy. For clinical applications, the treatment regimen (dose, timing, and ratio of the constituent crude drugs) should be optimized to improve safety and therapeutic effectiveness.",
+   "summary_ar": "استعرضت هذه الدراسة المراجعة الآليات الفهارس الدوائية لأدوية كامبو الشائعة الاستخدام في ممارسة طب الأسنان. استندت النتائج بشكل رئيسي إلى تجارب على الحيوانات (Animal experiments) واختبارات مخبرية (In vitro assays)، وأظهرت أن دواء (Hainosankyuto) يقلل من التهاب اللثة (Gingival inflammation) وامتصاص العظم السنخي (Alveolar bone resorption)، بينما يخفف (Hangeshashinto) ألم التهاب الغشاء المخاطي الفموي (Oral ulcerative mucositis) ويسرع التئامه، في حين أبدى (Rikkosan) تأثيرات مضادة للالتهاب بتركيزات معينة.",
+   "takeaway_ar": "تقدم هذه النتائج فرضيات دوائية وليست فعالية سريرية مثبتة، لذا يجب توخي الحذر وتحسين النظام العلاجي لضمان الأمان والفعالية.",
+   "title_ar": "التوضيح الطبي الأساسي لأدوية كامبو (Kampo medicines) الفعالة في أمراض الفم: هايتوسانكيوتو (Hainosankyuto)، وهاجيشاشينتو (Hangeshashinto)، وريكوسان (Rikkosan)",
+   "doi": "10.1016/j.job.2026.100834",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43067203/"
+  },
+  {
+   "pmid": "43065528",
+   "title": "Host-pathogen interactions in severe odontogenic infection: linking abscess findings to anatomical spread",
+   "journal": "Frontiers in cellular and infection microbiology",
+   "pub_date": "2026-11",
+   "authors": "Zhang Z, Yang Z, Pei Y",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "surgery",
+     "label": "جراحة الفم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Pairing local microbial and host measurements with targeted functional experiments could help distinguish pathogenic interactions from microbial adaptation to an established abscess. This approach may clarify the biology of severe odontogenic infection and identify findings that warrant independent evaluation for clinical relevance.",
+   "summary_ar": "استعرضت هذه الدراسة المراجعة الآليات الكامنة وراء بقاء بعض العدوى السنية المنشأ محددة في فراغ تشريحي واحد بينما تمتد أخرى إلى العنق العميق (deep neck). وناقشت كيف يمكن لتجمعات بكتيرية ومفرزات التهابية واستجابات من العدلات (neutrophils) أن تؤثر على تكوين الخراج وانتشاره، مع الإشارة إلى ضرورة ربط النشاط الميكروبي والاستجابة المناعية بالمظهر السريري مع مراعاة تأثير العلاج المسبق. أشارت الدراسة إلى أن استخراج العينات بدقة أثناء التصريف الجراحي (surgical drainage) مع التجارب الوظيفية قد يساعد في فهم بيولوجيا العدوى، رغم أن العلاجات المتزامنة تحد من إثبات العلاقة السببية.",
+   "takeaway_ar": "رغم أن فهم تفاعلات الميكروبات والعائل قد يوضح مسارات العدوى، إلا أن حدود الأدلة الحالية والتدخلات العلاجية المتزامنة تعني ضرورة الحذر وتجنب الجزم بوجود ارتباط سببي مباشر قبل تقييم السريرية بشكل مستقل.",
+   "title_ar": "التفاعلات بين العائل ومسببات الأمراض في العدوى السنية المنشأ (odontogenic infection) الشديدة: ربط نتائج الخراج (abscess) بالانتشار التشريحي",
+   "doi": "10.3389/fcimb.2026.2003998",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43065528/"
+  },
+  {
+   "pmid": "43068310",
+   "title": "A microwave-responsive bio-heterojunction via synergistic antibacterial and osteogenic microenvironment temporal regulation for treating periodontitis in diabetes",
+   "journal": "Materials today. Bio",
+   "pub_date": "2026-11",
+   "authors": "Liu Y, Pei H, Liu Z et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In vivo experiments reveal that V-CoTCPP/CaO2 significantly ameliorates periodontal tissue inflammation and reduces the loss of alveolar bone by reducing inflammatory infiltration and collagen destruction. Overall, this work establishes a MW-responsive platform that dynamically interacts with the biological microenvironment to orchestrate the complex requirements of consecutive healing stages, offering a promising therapeutic approach for…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1016/j.mtbio.2026.103835",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43068310/"
+  },
+  {
+   "pmid": "43067098",
+   "title": "Infections following dental extractions in dogs are rare both with and without antimicrobial therapy based on a 10-year retrospective study",
+   "journal": "Journal of the American Veterinary Medical Association",
+   "pub_date": "2026-11",
+   "authors": "Volk A, Goldschmidt S, Park L et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Postoperative infection is rare with dental extractions, regardless of the number of extractions, the severity of periodontal disease, or antimicrobial use.",
+   "summary_ar": "هدفت هذه الدراسة الاسترجاعية إلى تقييم معدلات العدوى الموضعية بعد العملية في الكلاب التي خضعت لقلع الأسنان (dental extractions) مع وبدون العلاج المضاد للميكروبات (antimicrobial therapy) في مؤسسة واحدة بين عامي 2014 و2024. شملت الدراسة مراجعة السجلات الطبية لـ 913 كلباً، وتحليل عوامل الخطر المحتملة باستخدام الانحدار اللوجستي (logistic regression). أظهرت النتائج أن معدل الإصابة الإجمالي بعد العملية كان منخفضاً جداً (0.66%)، وأن استخدام المضادات الحيوية الوقائية يتطلب علاج عدد كبير من الكلاب بلا داعٍ لمنع إصابة واحدة، كما وُجد أن شدة أمراض اللثة (periodontal disease) لم تزيد من خطر العدوى.",
+   "takeaway_ar": "تشير الأدلة إلى أن العدوى بعد قلع الأسنان (dental extractions) في الكلاب نادرة بغض النظر عن استخدام المضادات الحيوية، مما يدعم تجنب الوقاية الروتينية بالمضادات الحيوية في الكلاب سيعة المناعة (immunocompetent)، مع معالجة حالات العدوى فقط عند حدوثها.",
+   "title_ar": "العدوى بعد قلع الأسنان (dental extractions) في الكلاب نادرة مع العلاج المضاد للميكروبات (antimicrobial therapy) وبدونه بناءً على دراسة استرجاعية لمدة 10 سنوات",
+   "doi": "10.2460/javma.26.07.0537",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43067098/"
+  },
+  {
+   "pmid": "43067046",
+   "title": "Mechanical integrity-preserving topographical engineering establishes a geometrically instructive zirconia implant interface that promotes osteogenic responses",
+   "journal": "Biomaterials",
+   "pub_date": "2026-11",
+   "authors": "Jiang J, Zhu H, Ma T et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In a beagle mandibular implantation model, RAZI exhibited favorable osseointegration at 12 weeks, with bone-to-implant contact (BIC) and bone area (BA) reaching 74.55 ± 4.67% and 75.68 ± 6.67%, respectively. These findings provide a region-adaptive topographical engineering framework for next-generation metal-free dental implants.",
+   "summary_ar": "بحثت الدراسة في تطوير استراتيجية هندسية طبوغرافية لزرعات الأسنان المصنوعة من الزركونيا باستخدام تقنية نفث الجسيمات النانوية (Nanoparticle jetting) لدمج أنماط ميكروية دون الحاجة للمعالجات اللاحقة. أظهرت الفحوصات الخلوية ونموذج زرع في الفك السفلي للكلاب (Beagle mandibular implantation model) أن التصميم المكيّف طبياً حسّن من انتشار الخلايا وتمايزها العظمي، محققاً نسبة اتصال بين العظم والزرعة (BIC) بلغت 74.55% ونسبة مساحة العظم (BA) بلغت 75.68% بعد 12 أسبوعاً.",
+   "takeaway_ar": "توفر هذه الاستراتيجية الطبوغرافية إطاراً واعداً لزرعات الزركونيا الخالية من المعادن لتعزيز الاندماج العظمي (Osseointegration)، مع ضرورة إجراء المزيد من الدراسات السريرية لتأكيد هذه النتائج البشرية.",
+   "title_ar": "التصميم الطبوغرافي المحافظ على السلامة الميكانيكية لزرعات الزركونيا (Zirconia Implants) يعزز الاستجابات العظمية (Osteogenic Responses)",
+   "doi": "10.1016/j.biomaterials.2026.124789",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43067046/"
+  },
+  {
+   "pmid": "43067008",
+   "title": "Development of a fully AI-based three-dimensional workflow for personalized target set-ups in orthodontics: First results",
+   "journal": "International orthodontics",
+   "pub_date": "2026-11",
+   "authors": "Wiechmann D, van Nistelrooij N, Vinayahalingam S",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "For the first time, a fully automated AI-based 3D workflow generated personalized orthodontic target set-ups for non-extraction cases with a clinically acceptable, high-quality occlusal outcome, in approximately four minutes. Posterior alignment remains the only shortcoming of the AI set-ups and is the obvious target for further algorithm refinement or brief manual correction.",
+   "summary_ar": "هدف البحث إلى تقديم واختبار سير عمل مؤتمت بالكامل باستخدام الذكاء الاصطناعي لتوليد خطط علاج تقويمية ثلاثية الأبعاد (3D) ومقارنة جودتها بالإعدادات اليدوية باستخدام نظام تقييم النماذج التابع للبحرية الأمريكية لتقويم الأسنان (ABO MGS). شملت الدراسة عشرين حالة فك كامل بدون قلع، أظهرت نتائجها أن إعدادات الذكاء الاصطناعي حققت نتائج إكلينيكية عالية الجودة ومقبولة، رغم حصولها على نقاط جزاء أعلى في محاذاة الأسنان الخلفية مقارنة بالإعدادات اليدوية.",
+   "takeaway_ar": "يوفر سير العمل القائم على الذكاء الاصطناعي (AI) إعدادات تقويمية سريعة ومقبولة إكلينيكياً، لكنه يتطلب تحسينات في الخوارزميات أو تدخلاً بشرياً طفيفاً لتحسين محاذاة الأسنان الخلفية.",
+   "title_ar": "تطوير سير عمل ثلاثي الأبعاد يعتمد بالكامل على الذكاء الاصطناعي (AI) لإعدادات الأهداف التقويمية المخصصة في تقويم الأسنان (Orthodontics): النتائج الأولية",
+   "doi": "10.1016/j.ortho.2026.101269",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43067008/"
+  },
+  {
+   "pmid": "43066645",
+   "title": "CBX4 Mediates SUMOylation of KDM5B to Promote Osteogenic Differentiation of Periodontal Ligament Stem Cells",
+   "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+   "pub_date": "2026-11",
+   "authors": "Liu Y, He X, Zhou Y",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "CBX4-mediated KDM5B SUMOylation facilitated osteogenic differentiation in PDLSCs and enhanced bone regeneration in periodontitis. KDM5B might represent a potential target for improving periodontal regeneration.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1096/fj.202601627R",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43066645/"
+  },
+  {
+   "pmid": "43066365",
+   "title": "Is YouTube a reliable source of information on toothpaste? A digital health assessment of video quality, content and implications for dental public health",
+   "journal": "PeerJ",
+   "pub_date": "2026-11",
+   "authors": "Uytun M, Bayırlı AB, Genç YS et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The findings indicate that YouTube content related to toothpaste is limited in both quality and quantity and contains substantial information gaps, suggesting that oral health professionals should generate more reliable, high-quality content and that existing videos should be regularly monitored for quality assurance.",
+   "summary_ar": "دُرست جودة وموثوقية مقاطع الفيديو على منصة يوتيوب المتعلقة بمعجون الأسنان (toothpaste) لتحديد مدى صلاحيتها كمصدر للمعلومات الصحية. شملت الدراسة التحليلية مقطعاً (38) فيديو مستوفياً لمعايير الاكتفاء من أصل (325) تم فحصها، حيث جرى تقييمها باستخدام أدوات قياس الجودة والموثوقية مثل مقياس الجودة العالمي (GQS) وأداة DISCERN. أظهرت النتائج أن معظم المحتوى المتاح ذو جودة منخفضة إلى متوسطة ويعاني من فجوات معلوماتية، على الرغم من أن غالبية الفيديوهات رُفعت بواسطة اختصاصيي صحة الفم.",
+   "takeaway_ar": "تشير الأدلة المحدودة إلى أن محتوى يوتيوب المتعلق بمعجون الأسنان غير كافٍ وموثوقيته منخفضة، مما يستدعي من أطباء الأسنان توفير محتوى رقمي عالي الجودة لمرضاهم وعدم الاعتماد على المنصة كمصدر رئيسي للمعلومات.",
+   "title_ar": "هل يوتيوب (YouTube) مصدر موثوق للمعلومات حول معجون الأسنان؟ تقييم للصحة الرقمية لجودة الفيديو والمحتوى والتداعيات على الصحة العامة السنية",
+   "doi": "10.7717/peerj.21937",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43066365/"
+  },
+  {
+   "pmid": "43066303",
+   "title": "Hesperetin-Loaded Nanoemulsion: In Vitro Modulation of Osteoclastogenesis and Periodontal Inflammatory Responses",
+   "journal": "ACS omega",
+   "pub_date": "2026-10",
+   "authors": "Pereira Lima Durão L, Mancim-Imbriani MJ, Lobato Duarte J et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Finally, treatment with HT-NE resulted in decreased levels of the evaluated cytokines and MMPs. HT-NE has effects against osteoclastogenesis and may inhibit pro-inflammatory cytokines and MMPs expressions, demonstrating its potential to modulate osteoinflammatory responses in vitro.",
+   "summary_ar": "هذه دراسة مخبرية (in vitro) تقيم تأثير مستحلب نانوي محمل بالهيسبيريتين (HT-NE) على تكون الخلايا آكلة العظم (Osteoclastogenesis) والاستجابة الالتهابية المحفزة ببكتيريا المغزلية المنوات (Fusobacterium nucleatum) في الخلايا. أظهر المستحلب استقراراً خصائصياً جيداً، وقدرة على تثبيط تكوين الخلايا آكلة العظم متعددة النوى، وتقليل التعبير الجيني والبروتيني المرتبط بها. كما أدى العلاج إلى انخفاض مستويات السيتوكينات الالتهابية (Inflammatory cytokines) وإنزيمات مصفوفة الميتالوبروتيز (MMPs).",
+   "takeaway_ar": "يُظهر المستحلب النانوي محمل بالهيسبيريتين (HT-NE) قدرة مخبرية على تعديل الاستجابات الالتهابية وتثبيط تكون الخلايا آكلة العظم، وتظل هذه النتائج بحاجة لتأكيدها عبر تجارب سريرية مستقبلية قبل تطبيقها إكلينيكياً.",
+   "title_ar": "مستحلب نانوي محمل بالهيسبيريتين (Hesperetin-Loaded Nanoemulsion): التعديل المخبري لتكوين الخلايا آكلة العظم (Osteoclastogenesis) والاستجابات الالتهابية في أمراض اللثة (Periodontal Diseases)",
+   "doi": "10.1021/acsomega.6c05443",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43066303/"
+  },
+  {
+   "pmid": "43066249",
+   "title": "Hydrogel Formulation Containing PLGA Nanoparticles for Controlled Codelivery of Vitamin D and Chlorhexidine as a Promising Approach for Postdental Implant Applications",
+   "journal": "ACS omega",
+   "pub_date": "2026-11",
+   "authors": "Melo L, Ramalho MJ, Andrade S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "To facilitate application in the oral cavity, the NP mixture was incorporated into a nontoxic, pseudoplastic hydrogel. These findings highlight the potential of this nanohydrogel as a localized therapeutic approach capable of providing localized antimicrobial activity and supporting conditions favorable to osseointegration, paving the way for improved long-term implant outcomes.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1021/acsomega.6c00089",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43066249/"
+  },
+  {
+   "pmid": "43066015",
+   "title": "The Sialo-Microbial-Dental Complex and novel prebiotic approaches for the future of oral care",
+   "journal": "Frontiers in oral health",
+   "pub_date": "2026-11",
+   "authors": "Curatola GP",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This review traces the intellectual lineage from germ theory through probiotic theory to contemporary ecological plaque theory, examines the evidence base for fluoride, nano-hydroxyapatite, xylitol, and essential oils, and articulates the rationale for a prebiotic approach to oral care that selectively augments the sialo-microbial-dental complex rather than suppressing it. The clinical imperative emerging from this literature is clear…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.3389/froh.2026.1863143",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43066015/"
+  },
+  {
+   "pmid": "43065744",
+   "title": "Full Mouth Rehabilitation of a Young Adult With Maxillary Lateral Incisor Agenesis Restoring Function and Esthetics: A Case Report",
+   "journal": "Case reports in dentistry",
+   "pub_date": "2026-11",
+   "authors": "Hassoun S, Alyan G, Sharboush L",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    },
+    {
+     "id": "prosth",
+     "label": "تعويضات"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Full-mouth rehabilitation is essential to improve the quality of life. It is also a must to raise awareness of oral hygiene and its impact on oral health and the sustainability of dental prosthodontics. Moreover, the incorporation of digital intraoral scanning enhanced accuracy and patient comfort, reflecting the growing role of digital technologies in contemporary prosthodontics.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1155/crid/3738264",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43065744/"
+  },
+  {
+   "pmid": "43059613",
+   "title": "Effect of Exercise Intensity on the Obesity-Associated Risk of Periodontitis in Korean Adults",
+   "journal": "Journal of dental hygiene science",
+   "pub_date": "2026-03",
+   "authors": "Yoon MS",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Obesity is a significant risk factor for periodontitis in Korean adults, and the intensity of physical activity modifies this relationship. Contrary to expectations, high-intensity exercise may increase the risk of periodontal disease in individuals with obesity. These findings underscore the importance of personalized exercise recommendations and the need to consider metabolic and behavioral factors in oral health promotion strategies.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.17135/jdhs.2026.26.1.33",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059613/"
+  },
+  {
+   "pmid": "43059610",
+   "title": "Inhibitory Effects of Ethanol Extracts of Ginkgo biloba Leaves on Physiological Activities of Streptococcus mutans in Different Carbohydrate Conditions",
+   "journal": "Journal of dental hygiene science",
+   "pub_date": "2025-12",
+   "authors": "Jeong MJ, Kim SO, Lim DS et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "GLE has the potential to serve as a safe and effective natural functional material with physiological activity inhibition and anticariogenic potential GLE inhibits physiological activities of S. mutans, including biofilm formation and Ca2+ release, particularly in sucrose-containing media, and effectively neutralizes S. mutans-induced the acidic conditions by, thereby contributing to its anticariogenic effects.",
+   "summary_ar": "هدفت الدراسة إلى تقييم تأثير مستخلصات أوراق الجنكة بيلوبا (GLE) على الأنشطة الفيزيولوجية لبكتيريا المكورات العقدية الطففية (Streptococcus mutans)، مثل النمو، وإنتاج الحمض، وإطلاق أيونات الكالسيوم (Ca2+)، وتكوين الغشاء الحيوي (biofilm)، وذلك في بيئات كربوهيدراتية مختلفة. أُجري اختبار الانتشار القرصي (disk diffusion test) وتقييمات للنمو وتكوين الغشاء الحيوي والإنتاج الحمضي. أظهرت النتائج أن المستخلص يمتلك نشاطاً مضاداً للميكروبات بجرعات متدرجة، حيث ثبط نمو البكتيريا، وتكوين الغشاء الحيوي، وإطلاق الكالسيوم —خاصة في وسط السكروز (sucrose)— فضلاً عن تقليل إنتاج الحمض وتعزيز القدرة التنظيمية (buffering capacity) للأوساط.",
+   "takeaway_ar": "تشير النتائج إلى احتمال استخدام مستخلص أوراق الجنكة بيلوبا (Ginkgo biloba leaves) كمادة طبيعية واعدة للوقاية من تسوس الأسنان عبر تثبيط أنشطة بكتيريا (Streptococcus mutans)، مع ضرورة إجراء المزيد من الدراسات السريرية لتأكيد فعالية وأمان هذه الأدلة.",
+   "title_ar": "التأثيرات المثبطة لمستخلصات الإيثانول لأوراق الجنكة بيلوبا (Ginkgo biloba leaves) على الأنشطة الفيزيولوجية لبكتيريا المكورات العقدية الطففية (Streptococcus mutans) في ظروف الكربوهيدرات المختلفة",
+   "doi": "10.17135/jdhs.2025.25.4.409",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059610/"
+  },
+  {
+   "pmid": "43059597",
+   "title": "An Inflammation-Responsive and Biodegradable Microneedle Patch for Periodontal Soft and Hard Tissue Regeneration via Temporally Coordinated Sustained Release of Hydrogen and Calcium Ions",
+   "journal": "Advanced materials (Deerfield Beach, Fla.)",
+   "pub_date": "2026-11",
+   "authors": "Zhao Y, Zhou Y, Pan Q et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In vivo, CaSi2@PLGA MNs improved the periodontal inflammatory status, reduced alveolar bone resorption, promoted collagen remodeling and regeneration-related marker expression, thereby demonstrating periodontal tissue repair potential. Overall, this study establishes a temporally coordinated local-delivery platform that integrates inflammation control with regenerative support, providing a promising adjunctive strategy for periodontitis and…",
+   "summary_ar": "دُرس نظام إبر دقيقة (Microneedle system) يستجيب لأنواع الأكسجين التفاعلية (ROS) ويعتمد على كبريتيد الكالسيوم المغلف ببوليمر (PLGA) لتوفير إطلاق مُنسّق زمنياً لأيونات الهيدروجين والكالسيوم لمعالجة التهاب دواعم السن (Periodontitis). أظهرت النتائج في المختبر تقليل الإجهاد التأكسدي (Oxidative stress) وتعزيز التمايز العظمي (Osteogenic differentiation)، بينما أظهرت التجارب الحية تحسناً في حالة الالتهاب وتقليل امتصاص العظم السنخي (Alveolar bone resorption) وتعزيز تجديد الأنسجة.",
+   "takeaway_ar": "يقدم هذا النظام الواعد محلي الإطلاق إمكانية دعم علاج التهاب دواعم السن وتجديد الأنسجة، مع الحاجة لمزيد من الدراسات السريرية لتأكيد فعاليته وسلامته.",
+   "title_ar": "رقعة إبر دقيقة (Microneedle patch) قابلة للتحلّل الحيوي وتستجيب للالتهاب لتجديد الأنسجة الرخوة والصلبة في دواعم السن عبر الإطلاق المستدام والمُنسّق زمنياً لأيونات الهيدروجين والكالسيوم",
+   "doi": "10.1002/adma.75797",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059597/"
+  },
+  {
+   "pmid": "43059581",
+   "title": "Management of Non-Dental Biofilm-Induced Gingival Diseases and Conditions and Gingival Enlargement: The EFP S2k-Level Clinical Practice Guideline",
+   "journal": "Journal of clinical periodontology",
+   "pub_date": "2026-11",
+   "authors": "Chapple I, Herrera D, Sanz M et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The present S2k-level CPG informs clinical practice, health systems, policymakers and indirectly the public on the most effective interventions in the management of NBIGDs and gingival enlargement.",
+   "summary_ar": "هدف هذا العمل إلى تطوير إرشادات ممارسة سريرية بمستوى (S2k) لتدبير أمراض اللثة الناتجة عن أسباب غير اللويحات السنية (Non-Dental Biofilm-Induced Gingival Diseases - NBIGDs) وتضخم اللثة (Gingival Enlargement)، بالاعتماد على مراجعات منهجية وإجماع الخبراء. أظهرت النتائج أنه نظراً لندرة وتعقيد هذه الحالات وقلة التجارب السريرية العشوائية، ينبغي تدبيرها في مراكز متخصصة مع تحويل عاجل للحالات المشتبه باسترطابها خبيثة (Malignancies)، بينما يكون علاج تضخم اللثة طبياً وتُحفظ الجراحة للحالات غير الاستجابية.",
+   "takeaway_ar": "تستوجب الحالات النادرة لـ (NBIGDs) الإحالة إلى المراكز المتخصصة نظراً لضعف الأدلة المباشرة، مع أهمية البدء بالعلاج الطبي لتضخم اللثة قبل اللجوء للجراحة.",
+   "title_ar": "تدبير أمراض اللثة والحالات الناجمة عن لويحات غير سنية وتضخم اللثة: إرشادات الممارسة السريرية (S2k-Level Clinical Practice Guideline) من الاتحاد الأوروبي لعلم اللثة (EFP)",
+   "doi": "10.1111/jcpe.70210",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059581/"
+  },
+  {
+   "pmid": "43059493",
+   "title": "Effects of Specialist Endodontic Therapy on Tooth Retention and Treatment Costs in Germany: A Cost-Effectiveness Analysis",
+   "journal": "International endodontic journal",
+   "pub_date": "2026-11",
+   "authors": "Benz L, Leontiev W, Schwendicke F et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Treatment performed by specialists results in improved tooth retention, and slightly higher treatment costs compared to treatment by a GP. Sequential referral represents the least costly pathway, combining lower initial expenditure with effective cost containment through targeted specialist intervention. These findings support integration of structured referral protocols into endodontic care pathways to optimise both clinical outcomes and…",
+   "summary_ar": "دُرسَت فعالية التكلفة لمقارنة معالجة القنوات الجذرية (Root Canal Treatment - RCT) التي يجربرها أخصائيون أو أطباء ممارسون عامون (General Practitioners - GPs) باستخدام نموذج ماركوف (Markov Model). أظهرت النتائج أن العلاج بواسطة الأخصائيين حقق أعلى معدل للاحتفاظ بالأسنان بتكاليف أعلى قليلاً، بينما مثّل التحويل المتسلسل للأخصائيين في حال الفشل الخيار الأقل تكلفة بفعالية متوسطة.",
+   "takeaway_ar": "يدعم العلاج اللبي المتخصص الاحتفاظ بالأسنان بتكاليف أعلى، بينما يوفر التحويل المتسلسل توازناً بين الفعالية وضبط التكاليف مع ضرورة مراعاة حدود نموذج المحاكاة.",
+   "title_ar": "تأثير العلاج اللبي المتخصص (Specialist Endodontic Therapy) على الاحتفاظ بالأسنان وتكاليف العلاج في ألمانيا: تحليل فعالية التكلفة",
+   "doi": "10.1111/iej.70315",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059493/"
+  },
+  {
+   "pmid": "43059186",
+   "title": "Early bone regeneration with different polydeoxyribonucleotide formulations in a rabbit calvarial model: a comparative micro-computed tomographic and histological study",
+   "journal": "Journal of periodontal & implant science",
+   "pub_date": "2026-10",
+   "authors": "Lee D, Lee J, Ahn S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Within the limitations of this animal study, combining PDRN with a bone graft material may enhance early bone regeneration. PDRN may therefore be a useful adjunctive biomaterial in periodontal and implant-related regenerative procedures.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.5051/jpis.2602540127",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059186/"
+  },
+  {
+   "pmid": "43059184",
+   "title": "Assessment methods for measuring gingival tissue thickness and height: a systematic review",
+   "journal": "Journal of periodontal & implant science",
+   "pub_date": "2026-09",
+   "authors": "Mohamed Nazari NS, Alotaibi F, Yan Y et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The clinical methods used to assess gingival tissue dimensions vary substantially, indicating continued inconsistency in their application. Although US and CBCT tended to underestimate measurements obtained using TP, the current reference standard, the observed differences were not considered clinically significant.",
+   "summary_ar": "هدفت هذه المراجعة المنهجية إلى تقييم الطرق المستخدمة لقياس سمك وارتفاع الأنسجة اللثوية وتطبيقاتها السريرية وصلاحيتها، وذلك عبر البحث في خمس قواعد بيانات ومصادر الأدب الرمادي لدراسات بشرية نُشِرت بين يناير 2012 ومارس 2025. شملت المراجعة النهائية 33 دراسة أظهرت تبايناً كبيراً في تقنيات القياس والمواقع التشريحية؛ حيث أشارت النتائج إلى أن التصوير الطبقي المحوري المخروطي المخروطي (Cone-beam computed tomography - CBCT) والموجات فوق الصوتية (Ultrasound - US) قللتا من تقدير القياسات مقارنة بالفحص عبر اللثة (Transgingival probing - TP)، رغم أن هذه الفروق لم تُعتبر ذات أهمية سريرية، بينما كانت الأدلة المتعلقة بتقييم ارتفاع اللثة غير كافية.",
+   "takeaway_ar": "تتنوع طرق تقييم أبعاد الأنسجة اللثوية سريرياً وتُظهر تقنيات مثل التصوير الطبقي المحوري المخروطي والموجات فوق الصوتية توافقاً تقريبياً مع الفحص عبر اللثة، مع ضرورة الانتباه إلى تباين التطبيقات والأدلة المحدودة لارتفاع اللثة.",
+   "title_ar": "طرق التقييم لقياس سمك (Gingival tissue thickness) وارتفاع (Gingival tissue height) الأنسجة اللثوية: مراجعة منهجية",
+   "doi": "10.5051/jpis.2602000100",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059184/"
+  },
+  {
+   "pmid": "43059183",
+   "title": "Influence of torque-curve dynamics on initial bone remodeling around dental implants: a multicenter prospective study",
+   "journal": "Journal of periodontal & implant science",
+   "pub_date": "2026-09",
+   "authors": "Stacchi C, Lombardi T, Tisci A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Insertion torque was associated with initial peri-implant bone remodeling through both its magnitude and its dynamic delivery pattern. Global energy-based metrics appeared insufficient to describe marginal bone response under clinical conditions, whereas torque-curve characteristics provided additional information. These exploratory findings suggest that monitoring torque-curve dynamics may help identify implants at higher short-term risk of IBR…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.5051/jpis.2601980099",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059183/"
+  },
+  {
+   "pmid": "43059070",
+   "title": "Evaluating the Accuracy of an Artificial Intelligence Solution Program for Identifying Anatomical Landmarks in Orthodontics",
+   "journal": "Healthcare informatics research",
+   "pub_date": "2026-10",
+   "authors": "Cho HR, Kim J, Kim JY",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The findings suggest that EzOrtho may offer clinical utility and reliability for automatic cephalometric landmark detection using real clinical data. Its performance indicates the potential to improve efficiency and consistency relative to manual tracing. However, the study's limitations, including its small sample size, mean that these results remain preliminary. Further validation is needed to establish its role as a decision-support tool in…",
+   "summary_ar": "هَدفت الدراسة إلى تقييم دقة وموثوقية برنامج التعلم العميق (Deep Learning) المسمى (EzOrtho) في تحديد المعالم التشريحية آلياً لغرض تشخيص تقويم الأسنان. استُخدمت 23 صورة أشعة قياسية جانبية للرأس (Lateral Cephalometric Radiographs) لتحليل 828 نقطة بيانات ومقارنتها بالمعيار الذهبي لأطباء تقويم أسنان ذوي خبرة، حيث بلغ متوسط خطأ النصف قطري (Mean Radial Error) الإجمالي 0.78 ملم، ومعدل الاكتشاف الناجح (Successful Detection Rate) عند عتبة 2.0 ملم نسبة 86%. أظهرت النتائج دقة عامة في معظم المعالم مع وجود معدلات خطأ أعلى في بعض المناطق التشريحية المعقدة.",
+   "takeaway_ar": "يقدم برنامج (EzOrtho) فائدة سريرية محتملة لتحسين كفاءة التشخيص واتساقه، إلا أن النتائج تبقى أولية نظراً لصغر حجم العينة، مما يتطلب مزيداً من التحقق قبل اعتماده كأداة لدعم القرار في ممارسة تقويم الأسنان.",
+   "title_ar": "تقييم دقة برنامج ذكاء اصطناعي (Artificial Intelligence) لتحديد المعالم التشريحية في تقويم الأسنان (Orthodontics)",
+   "doi": "10.4258/hir.2026.32.4.316",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059070/"
+  },
+  {
+   "pmid": "43059044",
+   "title": "Association Between Lifestyle Habits, Anxiety Levels, and Bruxism-Related Signs in Undiagnosed Adults",
+   "journal": "Oral health & preventive dentistry",
+   "pub_date": "2026-11",
+   "authors": "Usdat Ozturk A, Palaz CH",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "surgery",
+     "label": "جراحة الفم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Bruxism-related signs may be present in undiagnosed individuals. Lifestyle-related factors and antidepressant use showed independent associations with specific objective clinical findings after adjustment for confounders, whereas anxiety severity was more strongly related to subjective symptoms such as stress-related headache. These findings underscore the value of multivariate analysis in disentangling overlapping lifestyle, pharmacological…",
+   "summary_ar": "بحثthis الدراسة مستعرضة شملت 188 بالغاً لتحديد ارتباط نمط الحياة والقلق بعلامات (Bruxism) والـ (TMD) لدى أشخاص بلا تشخيص مسبق. تم تقييم العادات والاستبيانات السريرية وتحليل النتائج باستخدام نماذج الانحدار اللوجستي المتعدد. أظهرت النتائج ارتباط التآكل السنوي بالعمر والتدخين، والصداع المرتبط بالتوتر بالنساء واستهلاك القهوة، بينما ارتبط استخدام مضادات الاكتئاب بألم المفصل الصدغي الفكي (TMJ) وألم الوجه والفكين، في حين ارتبط القلق بالصداع فقط.",
+   "takeaway_ar": "تدل هذه النتائج على أن علامات (Bruxism) قد تظهر لدى غير المشخصين وتتأثر بعوامل نمط الحياة والأدوية، مما يتطلب حذراً في الربط المباشر مع القلق وحدة الأدلة.",
+   "title_ar": "الارتباط بين عادات نمط الحياة، ومستويات القلق، والعلامات المرتبطة بـ (Bruxism) لدى البالغين غير المُشخَّصين",
+   "doi": "10.3290/j.ohpd.c_2853",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059044/"
+  },
+  {
+   "pmid": "43059025",
+   "title": "Mechanical Tension Promotes Osteogenesis Through CrAT-Mediated Acetylcholine Synthesis in Osteoblasts",
+   "journal": "Orthodontics & craniofacial research",
+   "pub_date": "2026-11",
+   "authors": "Xiang R, Wang R, Guo H et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "CrAT is expressed in osteoblasts and participates in the regulation of osteogenic activity. Mechanical tension promotes ACh synthesis and osteogenic differentiation, with maximal effects observed after 8 h of stimulation. Furthermore, CrAT mediates tension-induced osteogenesis, at least partially through regulating non-neuronal ACh synthesis. Importantly, exogenous ACh supplementation rescues the impaired osteogenic response caused by CrAT…",
+   "summary_ar": "بحثthis الدراسة دور إنزيم CrAT وتخليق الأسيتيل كولين غير العصبي في الخلايا البانية للعظم (MC3T3-E1 cells) تحت تأثير الشد الميكانيكي الدوري (Cyclic tensile strain). أظهرت النتائج أن الشد الميكانيكي يزجي إنتاج الأسيتيل كولين ونشاط الفوسفاتيز القلوي (Alkaline phosphatase) وعلامات تكوين العظام (Osteopontin وOsteocalcin)، بينما أدى تثبيط إنزيم CrAT إلى تقليل هذه الاستجابات، والتي تم استعادتها بإضافة الأسيتيل كولين الخارجي.",
+   "takeaway_ar": "يشير هذا البحث المخبري إلى أن الشد الميكانيكي يعزز تكوين العظام عبر تنظيم إنزيم CrAT والأسيتيل كولين، ورغم أهميتها في فهم الآليات الحيوية لتوسيع الفك العلوي السريع (Rapid maxillary expansion)، إلا أنها تبقى دراسة مخبرية تحتاج لمزيد من الأبحاث السريرية.",
+   "title_ar": "الشد الميكانيكي (Mechanical tension) يحفز تكوين العظام (Osteogenesis) من خلال تخليق الأسيتيل كولين (Acetylcholine) الوسيط بإنزيم CrAT في الخلايا البانية للعظم (Osteoblasts)",
+   "doi": "10.1111/ocr.70204",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059025/"
+  },
+  {
+   "pmid": "43059020",
+   "title": "Comparison of the Efficacies of Micro-Osteoperforation and Piezocision on the Rates of Tooth Movement in En Masse Retraction: A Split-Mouth Study",
+   "journal": "Orthodontics & craniofacial research",
+   "pub_date": "2026-11",
+   "authors": "Sinha P, Prasad RR, Sahu A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The findings from this study indicate that piezocision is better suited to cases requiring early and pronounced acceleration, particularly within interdisciplinary treatment frameworks. While micro-osteoperforation offers a less invasive alternative when moderate acceleration is sufficient.",
+   "summary_ar": "هذه دراسة سريرية عشوائية ذات فم مشقوق شملت 28 مريضاً، هدفت إلى مقارنة تأثير الثقب العظمي الدقيق والشق العظمي الكهرzoيك على معدل حركة الأسنان أثناء سحب الأسنان معاً في حالات قلع الضواحك العلوية الأولى (Maxillary 1st premolars extraction). أظهرت النتائج وجود فروق ذات دلالة إحصائية، حيث سجّل الشق العظمي الكهرzoيك معدلات أعلى لحركة الأسنان مقارنة بالثقب العظمي الدقيق في جميع الفترات الزمنية.",
+   "takeaway_ar": "يبدو أن الشق العظمي الكهرzoيك (Piezocision) يوفر تسارعاً أكبر لحركة الأسنان مقارنة بالثقب العظمي الدقيق (Micro-Osteoperforation)، مما يجعله مناسباً للحالات التي تتطلب تسريعاً مبكراً، مع ضرورة أخذ حدود الدراسة العشوائية القصيرة الأمد في الاعتبار.",
+   "title_ar": "مقارنة فعالية الثقب العظمي الدقيق (Micro-Osteoperforation) والشق العظمي الكهرzoيك (Piezocision) على معدلات حركة الأسنان في سحب الأسنان معاً (En Masse Retraction): دراسة ذات فم مشقوق (Split-Mouth Study)",
+   "doi": "10.1111/ocr.70207",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43059020/"
+  },
+  {
+   "pmid": "43058719",
+   "title": "Keypoint-based detection of periodontal radiographic bone loss on bitewing radiographs using YOLO11-pose: a clinician-AI agreement study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Altiparmak F, Altiparmak S, Bahrilli S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Model-derived CEJ-ABC distances showed good agreement with the consensus reference, supporting the potential of keypoint-based deep learning as a second-reader measurement aid for periodontal radiographic assessment. External multicenter validation and prospective clinical evaluation are required before implementation in clinical workflows.",
+   "summary_ar": "هدفت الدراسة إلى تطوير والتحقق الداخلي من نموذج ذكاء اصطناعي من نوع (YOLO11-pose) لتحديد موقع التقاطع الملاطي المينائي (cemento-enamel junction - CEJ) وعرف العظم السنخي (alveolar bone crest - ABC) تلقائياً وتقييم توافق قياساته مع معيار مرجعي لعدة خبراء. شملت الدراسة تحليل 927 صورة أشعة تمساح (6,276 موقعاً بين السني) مأخوذة من 729 مريضاً، حيث أظهر النموذج توافقاً جيداً (ICC = 0.850) مع المعيار المرجعي في قياس مسافة (CEJ-ABC).",
+   "takeaway_ar": "تشير النتائج إلى إمكانية استخدام التعلم العميق (deep learning) القائم على النقاط المحورية كمساعد قياس للقراءة الثانية في التقييم اللثوي الشعاعي، لكن تظل هناك حاجة للتحقق الخارجي متعدد المراكز والتقييم السريري المستقبلي.",
+   "title_ar": "الكشف القائم على النقاط المحورية لفقدان العظم الشعاعي اللثوي (periodontal radiographic bone loss) على صور أشعة التمساح (bitewing radiographs) باستخدام نموذج YOLO11-pose: دراسة توافق بين الطبيب والذكاء الاصطناعي",
+   "doi": "10.1186/s12903-026-09708-2",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058719/"
+  },
+  {
+   "pmid": "43058703",
+   "title": "Nursing practices in oral care for intensive care patients: assessment of oral care frequency and related factors",
+   "journal": "BMC nursing",
+   "pub_date": "2026-08",
+   "authors": "Korkmaz Bi̇nay Ş, Karakurt P, Güneş D et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "medicine",
+     "label": "طب وأمراض الفم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Our study indicated that enterally and parenterally fed patients had higher oral care needs than orally fed individuals, and intubated patients had more oral care needs than non-intubated patients. Assessment of the oral care frequency in the intensive care unit with valid and reliable assessment tools helps nurses to plan oral care by collecting objective data.",
+   "summary_ar": "هدفت الدراسة إلى تقييم فعالية تكرار العناية بالفم وتحديد العوامل المؤثرة على سلامة الغشاء المخاطي للفم (Oral Mucous Membrane) لدى 70 مريضاً في وحدة العناية المركزة (Intensive Care Unit) باستخدام استمارة ووصف المتابعة ومقياس تقييم تكرار العناية بالفم. أظهرت النتائج عدم وجود فروق ذات دلالة إحصائية في متوسط درجات المقياس عبر الأيام، بينما وُجدت فروق معنوية ترتبط بالحالة الغذائية وحالة التنبيب (Intubation status).",
+   "takeaway_ar": "تشير النتائج إلى أن المرضى الخاضعين للتغذية المعوية (Enteral nutrition) أو الوريدية (Parenteral nutrition) والمرضى المنطوبين لديهم احتياجات أعلى للعناية بالفم، ورغم أن أدوات التقييم الموثوقة تساعد الممرضين في تخطيط الرعاية، إلا أن الدراسة اقتصرت على عينة صغيرة في مركز واحد مما يحد من قوة تعميم الأدلة.",
+   "title_ar": "ممارسات التمريض في العناية بالفم للمرضى في وحدات العناية المركزة (Intensive Care Units): تقييم تكرار العناية بالفم والعوامل المرتبطة بها",
+   "doi": "10.1186/s12912-026-05291-7",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058703/"
+  },
+  {
+   "pmid": "43058674",
+   "title": "Comparing the accuracy and active drilling time of robot-assisted and dynamic navigation systems in access cavity preparation: an in vitro study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Ye L, Lam C, Zhong P et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Within the limitations of this in vitro study, the RAS demonstrated higher technical accuracy and superior tooth structure preservation than the DNS during access cavity preparation in extracted single-rooted teeth.",
+   "summary_ar": "قورنت دقة ووقت الحفر الفعلي لأنظمة الروبوت المساعد (RAS) وأنظمة الملاحة الديناميكية (DNS) خلال تحضير حجرة اللب في 64 من الأسنان البشرية المفردة الجذر المستخرجة. تم تقييم الانحرافات والزوايا وفقدان بنية الأسنان باستخدام التصوير الطبقي المحوري المخيبي (Cone Beam Computed Tomography - CBCT) بعد العملية. أظهرت النتائج أن مجموعة الروبوت المساعد سجلت انحرافاً تاجياً، وانحرافاً زاوياً، وفقداناً في بنية الأسنان أقل بشكل ملحوظ مقارنة بمجموعة الملاحة الديناميكية، مع تحقيق كلا النظامين نسبة نجاح بلغت 93.75% في تحديد قنوات الجذر.",
+   "takeaway_ar": "ضمن حدود هذه الدراسة المخبرية، أظهر الروبوت المساعد دقة تقنية أعلى وحفظاً أفضل لبنية الأسنان مقارنة بالملاحة الديناميكية أثناء تحضير حجرة اللب، مما يتطلب تجارب سريرية لتأكيد هذه النتائج.",
+   "title_ar": "مقارنة الدقة ووقت الحفر الفعلي بين أنظمة الروبوت المساعد (robot-assisted systems) وأنظمة الملاحة الديناميكية (dynamic navigation systems) في تحضير حجرة اللب (access cavity preparation): دراسة مخبرية (in vitro study)",
+   "doi": "10.1186/s12903-026-09727-z",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058674/"
+  },
+  {
+   "pmid": "43058654",
+   "title": "Salivary transcriptomic profile reveals biomarker candidates for early detection of occlusal dysesthesia: a case-control study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Li Y, Kang Y, Zhang Y et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This study provides the first characterization of the salivary transcriptomic profile in OD patients, and identifies potential salivary mRNA biomarker candidates associated with OD.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09637-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058654/"
+  }
+ ]
+}
