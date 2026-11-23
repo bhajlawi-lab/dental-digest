@@ -1,0 +1,690 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T17:22+03:00",
+ "ai_summaries": true,
+ "demo": false,
+ "items": [
+  {
+   "pmid": "43070014",
+   "title": "Prosthodontic approaches for Class II malocclusion: A narrative review and proposed classification",
+   "journal": "Journal of prosthodontics : official journal of the American College of Prosthodontists",
+   "pub_date": "2026-11",
+   "authors": "Alqarni AM, Babeer WA, Marghalani TY et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "prosth",
+     "label": "تعويضات"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Class II malocclusion requires an individualized, function-driven prosthodontic approach. Conversion to Class I should be considered selectively in cases with favorable horizontal overlap, restorative space, and tooth position, whereas maintaining the existing Class II relationship may be more appropriate when the discrepancy is pronounced. Regardless of the occlusal scheme, rehabilitation should prioritize stable posterior contacts, appropriate…",
+   "summary_ar": "هدفت هذه المراجعة السردية إلى تجميع الأدلة المتعلقة بالتدبير التعويضى لسوء الإطباق من الفئة الثانية (Class II malocclusion) واقتراح نظام تصنيف جديد يعتمد على شدة التراكب الأفقي (horizontal overlap). شملت المراجعة البحث في قواعد البيانات الإلكترونية عن مقالات نُشرت بين عامي 1980 و2026 تتناول إعادة التأهيل التعويضي الشامل دون علاج تقويمي أو جراحي. أظهرت النتائج أن الأدلة الحالية تقتصر على تقارير الحالات أو آراء المؤلفين، وتم اقتراح نظام تصنيف من ثلاث فئات لتوجيه القرارات العلاجية.",
+   "takeaway_ar": "تتطلب إدارة سوء الإطباق من الفئة الثانية (Class II malocclusion) نهجاً تعويضياً فردياً يركز على الوظيفة، مع ضرورة إجراء دراسات سريرية طويلة الأجل نظراً لضعف الأدلة الحالية.",
+   "title_ar": "النهج التعويضية لسوء الإطباق من الفئة الثانية (Class II malocclusion): مراجعة سردية وتصنيف مقترح",
+   "doi": "10.1111/jopr.70264",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43070014/"
+  },
+  {
+   "pmid": "43069760",
+   "title": "Clinical Outcomes of Dental Implant Therapy in Patients With Ectodermal Dysplasia: A Narrative Review",
+   "journal": "Cureus",
+   "pub_date": "2026-10",
+   "authors": "Saini A, Gupta R, Gill S et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Evidence remains limited because of the rarity and phenotypic heterogeneity of ED, small study populations, and predominantly observational designs. Treatment should therefore be individualized and planned by a multidisciplinary team, with careful consideration of skeletal maturity, bone availability, prosthetic requirements, and the capacity for long-term maintenance.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.7759/cureus.118409",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069760/"
+  },
+  {
+   "pmid": "43069388",
+   "title": "Dynamic navigation in endodontics: a bibliometric analysis of research trends and evidence development",
+   "journal": "Odontology",
+   "pub_date": "2026-11",
+   "authors": "de Amorim JVO, de Oliveira Neto RS, Cabau L et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Dynamic navigation in endodontics is a rapidly expanding and technology-driven field. Despite increasing research output, the predominance of preclinical studies indicates that the evidence base remains in an early stage of development, highlighting the need for high-quality clinical investigations.",
+   "summary_ar": "هدف البحث إلى إجراء تحليل بيبليومتري لتحديد الاتجاهات العالمية وتطور الأبحاث حول التنقل الديناميكي في علاج اللب (Dynamic navigation in endodontics) باستخدام قاعدة بيانات Web of Science. تم تضمين 84 دراسة نشرت بين عامي 2018 و2025، وأظهرت النتائج زيادة في الإنتاج العلمي بعد عام 2020 حيث تركزت معظم الأبحاث على الدراسات قبل السريرية (Preclinical investigations) وتقييم الدقة وتحضير حجرة اللب (Access cavity preparation).",
+   "takeaway_ar": "يمثل التنقل الديناميكي (Dynamic navigation) مجالاً سريع النمو، ولكن هيمنة الدراسات قبل السريرية تعني أن قاعدة الأدلة لا تزال في مراحلها المبكرة؛ مما يتطلب إجراء أبحاث سريرية عالية الجودة قبل تعميم النتائج.",
+   "title_ar": "التنقل الديناميكي في علاج اللب (Dynamic navigation in endodontics): تحليل بيبليومتري لاتجاهات البحث وتطور الأدلة",
+   "doi": "10.1007/s10266-026-01626-7",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069388/"
+  },
+  {
+   "pmid": "43068606",
+   "title": "Fibroblasts: essential components of the periodontium",
+   "journal": "Journal of oral biosciences",
+   "pub_date": "2026-11",
+   "authors": "Leask A, Fadl A",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This review discusses these functional differences, the potential underlying mechanisms and the potential implications for using targeted approaches-such as those targeting mechanical loading and inflammation--to preserve and promote healthy periodontal tissue.",
+   "summary_ar": "استعرضت هذه الدراسة المراجعة دور الخلايا الليفية في النسيج الضام (Connective tissue) للنسيج الداعم للأسنان (Periodontium)، مع التركيز على وظيفتها في تصنيع مكونات المصفوفة الخارجية (Extracellular matrix). أظهرت النتائج اختلاف الاستجابة للضغط الميكانيكي بين خلايا اللثة (Gingival) وخلايا رباط الأسنان (Periodontal ligament)، حيث تتميز الأخيرة بقدرتها على التمايز إلى خلايا ليفية عضلية (Myofibroblasts)، بالإضافة إلى رصد خلايا فرعية ذات سمات التهابية عند الإصابة بأمراض اللثة (Periodontal disease).",
+   "takeaway_ar": "تشير هذه الفروق الوظيفية بين الخلايا الليفية إلى إمكانية استهداف التحميل الميكانيكي والالتهاب للحفاظ على صحة الأنسجة الداعمة، مع ضرورة الحذر نظراً لكون هذه الدراسة مراجعة نظرية وليست تجסربة سريرية مباشرة.",
+   "title_ar": "الخلايا الليفية (Fibroblasts): مكونات أساسية في الأنسجة الداعمة للأسنان (Periodontium)",
+   "doi": "10.1016/j.job.2026.100838",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43068606/"
+  },
+  {
+   "pmid": "43070054",
+   "title": "Effects of implantoplasty on titanium dental implant corrosion, cytotoxicity and extracellular matrix proteins (collagen 1, 3, and elastin) under in vitro conditions",
+   "journal": "Proceedings of the Institution of Mechanical Engineers. Part H, Journal of engineering in medicine",
+   "pub_date": "2026-11",
+   "authors": "Sadeler MF, Canakci CF",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Although implantoplasty significantly reduced surface roughness and increased the initial corrosion rate approximately sevenfold compared to SLA controls, cell viability remained well above the 70% cytocompatibility threshold across all groups. These findings suggest that despite the altered initial electrochemical parameters, the modified surfaces exert no cytotoxic effects on fibroblast cells, demonstrating favorable short-term in vitro…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1177/09544119261507533",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43070054/"
+  },
+  {
+   "pmid": "43069946",
+   "title": "Effects of Intracanal Medicaments on Postoperative Pain: A Comparative Study of Calcium Hydroxide, Triple Antibiotic Paste, and Chlorhexidine",
+   "journal": "Cureus",
+   "pub_date": "2026-10",
+   "authors": "Prasad LK, Jain C, Tiwari P et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Postoperative pain decreased in all groups, with lower pain scores observed in the Ca(OH)₂, TAP, and 2% CHX groups than in the saline comparison group. TAP was associated with the lowest pain scores, while Ca(OH)₂ and CHX showed comparable outcomes. These findings suggest that the choice of intracanal medicament may influence postoperative pain; however, the results should be interpreted in light of the observational study design and the limited…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.7759/cureus.118455",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069946/"
+  },
+  {
+   "pmid": "43069913",
+   "title": "Effect of Post-Curing Duration on Vickers Hardness and Shape Recovery Behavior of Directly Printed Orthodontic Resin",
+   "journal": "Journal of dental hygiene science",
+   "pub_date": "2026-09",
+   "authors": "Park SE, Yoon MS, Shim YS",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Vickers hardness of TC85 resin under the studied conditions was not significantly affected by the post-curing duration under a nitrogen environment. TC20 showed the greatest overall recovery response.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.17135/jdhs.2026.26.3.200",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069913/"
+  },
+  {
+   "pmid": "43069891",
+   "title": "Oral Health Disparities and Parental/Caregiver Role in Dental Care Among Children With Special Healthcare Needs and Children Without Special Healthcare Needs in Sriganganagar, Rajasthan: A Cross-Sectional Study",
+   "journal": "Cureus",
+   "pub_date": "2026-10",
+   "authors": "Kaswan R, Singh M, Narang S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Children with special healthcare needs have poorer oral health than children without special healthcare needs, emphasising the need for early dental screening, caregiver education, and specialised or school-based programs to improve prevention and overall well-being.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.7759/cureus.118438",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069891/"
+  },
+  {
+   "pmid": "43069600",
+   "title": "HDAC6 Drives Oxidative Stress and Inflammation in Diabetic Periodontitis via Nrf2/HO-1 Suppression",
+   "journal": "Immunity, inflammation and disease",
+   "pub_date": "2026-11",
+   "authors": "Fan Q, Li Y, Tang Q et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "HDAC6 inhibition alleviated oxidative stress and inflammatory responses in hPDLCs under diabetic periodontitis-like conditions and was associated with restoration of Nrf2/HO-1 signaling. These findings support HDAC6 as a potential therapeutic target in diabetic periodontitis.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1002/iid3.70603",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069600/"
+  },
+  {
+   "pmid": "43069539",
+   "title": "Periodontal Bacteria-Derived Vesicles Disrupt Maternal and Fetal Health",
+   "journal": "Journal of dental research",
+   "pub_date": "2026-11",
+   "authors": "Rojas C, Concha-Cerda J, Mizgier ML et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Notably, these organ-specific responses occurred without overt plasmatic inflammatory cytokine elevation but with increased circulating IL-4 levels (P = 0.023). In sum, periodontal bacteria-derived OMVs differentially disrupt pregnancy, with Pg-OMVs impairing pregnancy success and Fn-OMVs inducing maternal metabolic and placental alterations compatible with an FGR phenotype.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1177/00220345261500484",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069539/"
+  },
+  {
+   "pmid": "43069532",
+   "title": "A Qualitative Study to Explore Adolescent Motivation for Oral Hygiene during Orthodontic Care in Ireland",
+   "journal": "JDR clinical and translational research",
+   "pub_date": "2026-11",
+   "authors": "Scott CM, Newton JT, Byrne E",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Caring for teeth with fixed braces is challenging, and adolescent oral hygiene self-care is supported by different levels of internal motivation and external support during care. Rather than telling young people what they should do, this research provides insight into what they want to do and when they feel supported to do this, informing patient-centred care pathways that support young people to develop sustainable habits for oral hygiene that…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1177/23800844261500090",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069532/"
+  },
+  {
+   "pmid": "43069392",
+   "title": "Injectable glycolic acid-levan formulations versus 5.25% sodium hypochlorite against endodontic pathogens and mature intracanal biofilm: an in vitro and ex vivo study",
+   "journal": "Odontology",
+   "pub_date": "2026-11",
+   "authors": "Erdoğan-Göver K, Yavaş ES, Deljavan Ghodrati A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "faecalis biofilm ex vivo and was less cytotoxic upon dilution. Because it does not dissolve organic tissue, G7 is a candidate final irrigant to replace ethylenediaminetetraacetic acid (EDTA), not NaOCl, pending direct comparison with EDTA and testing on multispecies biofilms.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s10266-026-01602-1",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069392/"
+  },
+  {
+   "pmid": "43069390",
+   "title": "Reproducibility and guideline concordance of next-generation large language models on ESE S3-based endodontic questions: a multi-account, multi-timepoint evaluation",
+   "journal": "Odontology",
+   "pub_date": "2026-11",
+   "authors": "Akça S, Falakaloğlu Görgen S",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "LLMs can generate accurate and reproducible responses to structured guideline-derived questions. These findings suggest an instructional or informative role; clinical decision support needs to be tested using real patient scenarios.",
+   "summary_ar": "هذه الدراسة تقيم دقة، وقابلية تكرار، ومدى التزام ثمانية من نماذج اللغات الكبيرة (Large Language Models) بالإجابة عن 50 سؤالاً مستمداً من إرشادات الممارسة السريرية (Clinical Practice Guidelines) عبر مستويات صعوبة متعددة وثلاث نقاط زمنية. أظهرت النتائج أن الدقة الإجمالية تراوحت بين 86.7% و97.3%، مع استقرار في الأداء عبر الزمن وانخفاض طفيف في الدقة مع ضعف قوة التوصيات، بينما كان لنسق الأسئلة وصعوبتها تأثير ضئيل.",
+   "takeaway_ar": "يمكن لنماذج اللغات الكبيرة (Large Language Models) تقديم إجابات دقيقة وقابلة للتكرار للأسئلة المنظمة المستندة إلى الإرشادات، مما يمنحها دوراً تعليمياً واسترشادياً محتملاً، إلا أن دعم القرار السريري (Clinical Decision Support) يحتاج إلى تقييم باستخدام سيناريوهات مرضى حقيقية.",
+   "title_ar": "قابلية التكرار والالتزام بالإرشادات لنماذج اللغات الكبيرة (Large Language Models) من الجيل القادم في أسئلة علاج اللب (Endodontics) المستندة إلى إرشادات الجمعية الأوروبية لعلاج اللب (European Society of Endodontology - ESE S3): تقييم متعدد الحسابات والنقاط الزمنية",
+   "doi": "10.1007/s10266-026-01631-w",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069390/"
+  },
+  {
+   "pmid": "43069389",
+   "title": "Dynamic navigation for calcified canal access: data-driven analysis of the learning curve in a pilot in vitro study",
+   "journal": "Odontology",
+   "pub_date": "2026-11",
+   "authors": "Ong TK",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "0.63°; p = 0.013), while linear accuracy remained consistently high. A transition in efficiency and angular control was observed at approximately 8-9 cases, suggesting skill acquisition rather than definitive proficiency attainment, providing preliminary training benchmarks for clinicians adopting DNS.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s10266-026-01627-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069389/"
+  },
+  {
+   "pmid": "43069386",
+   "title": "Effect of clinical use and autoclave sterilization on the dynamic cyclic fatigue resistance of ProTaper Ultimate instruments",
+   "journal": "Odontology",
+   "pub_date": "2026-11",
+   "authors": "Al Omari T, Khanfur A, Bietar K et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Clinical use followed by autoclave sterilization was associated with an overall, instrument-dependent reduction in cyclic fatigue resistance. The clearest progressive reduction occurred in Slider, while surface roughness did not differ significantly among F2 groups.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s10266-026-01628-5",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069386/"
+  },
+  {
+   "pmid": "43069178",
+   "title": "Risk factors for external apical root resorption in orthodontics: the role of treatment modalities and tooth-related conditions",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Tankuş M, Özden S, Yazici RB",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Older age at active-treatment start, longer active treatment, premolar extraction, non-normal root morphology, and RPE plus fixed treatment were associated with higher EARR odds, whereas female sex was associated with lower odds. Caries/restoration status and restoration type were not associated with EARR after patient-clustered analysis. Pretreatment root morphology and anticipated treatment complexity and duration should inform EARR risk…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09713-5",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069178/"
+  },
+  {
+   "pmid": "43069172",
+   "title": "Association between the number of missing/replaced teeth and Chronic Kidney Disease (CKD): cross-sectional analysis of NHANES data",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Song S, Wang T, Guo Y et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The number of missing/replaced teeth is significantly associated with CKD. Oral health may serve as a practical marker for CKD risk screening, particularly in young adults with mild tooth loss and older adults with severe tooth loss.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09700-w",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069172/"
+  },
+  {
+   "pmid": "43069157",
+   "title": "Effects of clear aligner-assisted miniscrew intrusion in mandibular anterior teeth: a three-dimensional finite element study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-07",
+   "authors": "Gao X, Cao Y, Wang Z et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Miniscrew-assisted buccolingual traction significantly affects the movement of the mandibular anterior tooth. To achieve biologically efficient intrusion, the following protocols are suggested: en masse intrusion with 200 g buccal traction or 250 g lingual traction; and two-step intrusion with 100 g buccal traction or 150 g lingual traction. Based on a comprehensive evaluation of posterior anchorage and bodily intrusion movement, a two-step…",
+   "summary_ar": "بحثت هذه الدراسة باستخدام تحليل العناصر المحددة ثلاثية الأبعاد (Three-dimensional finite element analysis) التأثيرات الميكانيكية الحيوية لغرز الأسنان الأمامية السفلية باستخدام التقويم الشفاف المدعوم بالمسامير الدقيقة. أظهرت النتائج أن زيادة قوى الشد تعزز الإزاحة العمودية مع الميلان الشفوي، وأن الشد اللساني ينتج حركة جسمية أفضل للقواطع مقارنة بالشد الشفوي.",
+   "takeaway_ar": "قد توفر استراتيجية الغرز على خطوتين مع الشد اللساني بقوة 150 جراماً ظروفاً ميكانيكية حيوية ملائمة، رغم الحاجة إلى التحقق السريري.",
+   "title_ar": "تأثيرات الغرز القاطعي السفلي بمساعدة التقويم الشفاف (Clear aligner) والمسامير الدقيقة (Miniscrews): دراسة العناصر المحددة ثلاثية الأبعاد (3D finite element study)",
+   "doi": "10.1186/s12903-026-09317-z",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069157/"
+  },
+  {
+   "pmid": "43069130",
+   "title": "Oral health, oral follow-up and infectious risk management of rheumatoid arthritis patients on anti-TNF drugs: a survey of a French e-cohort",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Radoi L, Marotte H, Ruyssen-Witrand A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In the present cohort, RA patients showed low adherence to oral health recommendations and high risk of severe periodontitis. Postoperative complications while continuing bDMARDs were infrequent.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09542-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069130/"
+  },
+  {
+   "pmid": "43069123",
+   "title": "Mental disorders as a predictor of incident edentulism: a prospective cohort study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Guo Y, Qiu D, Zhang Y et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "prosth",
+     "label": "تعويضات"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Baseline mental disorders were independently associated with an increased risk of incident edentulism among middle-aged and older Chinese adults. These findings highlight the need for integrated oral and mental healthcare strategies. However, potential misclassification of exposure and outcome, as well as selection bias due to loss to follow-up, should be considered when interpreting the results.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09494-x",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069123/"
+  },
+  {
+   "pmid": "43069118",
+   "title": "Assessment of Iranian orthodontic specialists' knowledge and perceptions regarding the efficacy of clear aligner therapy in various orthodontic tooth movements (2024)",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Malekzadeh S, Esmaili M",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Orthodontic specialists with prior CAT experience generally perceived CAT as more suitable for selected Class I cases and less predictable for posterior extrusion, occlusal settling, and posterior derotation than fixed appliances. Younger age was associated with more favorable perceived efficacy in unadjusted analysis; however, this finding should not be interpreted as an independent age effect. These results reflect clinicians' perceptions…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09732-2",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069118/"
+  },
+  {
+   "pmid": "43069115",
+   "title": "Machine learning-based prediction model for 2-year tooth loss risk in periodontitis patients: integrating radiographic features and clinical parameters",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Li D, Jiang Y, Zhang B et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "A multidomain ML model restricted to baseline predictors and evaluated at a fixed 2-year horizon retained robust discrimination and internal-external generalizability, supporting its further development as a decision-support tool for personalized periodontal risk stratification; independent external validation remains necessary.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09681-w",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069115/"
+  },
+  {
+   "pmid": "43069104",
+   "title": "Effects of residual extraction space and torque overtreatment on mandibular incisor intrusion with clear aligners: a finite element analysis",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Jiang Q, Yang Y, Algumaei WS et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In extraction cases with clear aligner therapy, incisor intrusion causes lingual crown inclination, which is influenced by residual extraction space. Torque overtreatment effectively counteracts this inclination, with central incisors requiring more overtreatment than lateral incisors. The required optimal overtreatment amount is positively correlated with the residual extraction space.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09449-2",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43069104/"
+  },
+  {
+   "pmid": "43068770",
+   "title": "Cohort profile of the Korea Osteonecrosis of the Jaw (KONJ) multicenter registry and biobank: design and clinical characteristics",
+   "journal": "Journal of stomatology, oral and maxillofacial surgery",
+   "pub_date": "2026-11",
+   "authors": "Hwang H, Kim SH, Kang YH et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "surgery",
+     "label": "جراحة الفم"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "MRONJ in this tertiary-center cohort predominantly affected older women with osteoporosis. It provides a foundation for clinical, biomarker, and omics studies of MRONJ development, treatment, and healing.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1016/j.jormas.2026.103089",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43068770/"
+  },
+  {
+   "pmid": "43058653",
+   "title": "Why patients delay or decline treatment for gingival recession: a qualitative study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Fakheran O, Davari Dolatabadi E, Sheydaei S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Barriers to treatment for gingival recession extend beyond those commonly reported in general dental care and include concerns specific to periodontal plastic surgery. Clear communication about procedural morbidity, expected benefits and limitations, and the long-term stability of treatment outcomes, together with improved access to periodontal care, may support informed and preference-sensitive treatment decisions.",
+   "summary_ar": "بحثَت هذه الدراسة النوعية العوامل التي تعيق المرضى عن طلب علاج انحسار اللثة (gingival recession). أُجريت مقابلات شبه منظمة مع 15 مشاركاً، وحُللت البيانات باستخدام تحليل محتوى كيفي استقرائي. أظهرت النتائج وجود حواجز داخلية وخارجية، أبرزها القلق من إجراءات الطعوم (grafting procedures)، والشعور بانخفاض إلحاح الحالة عند خفة الأعراض، وعدم اليقين بشأن استقرار النتائج على المدى الطويل.",
+   "takeaway_ar": "تشير النتائج إلى أن التواصل الواضح حول تفاصيل الإجراءات ومخاوف المرضى قد يدعم اتخاذ القرار العلاجي، رغم أن الدراسة نوعية وتتطلب الحذر في التعميم.",
+   "title_ar": "لماذا يؤجل المرضى أو يرفضون علاج انحسار اللثة (gingival recession): دراسة نوعية",
+   "doi": "10.1186/s12903-026-09720-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058653/"
+  },
+  {
+   "pmid": "43058652",
+   "title": "Apical alveolar bone thickness predicts intrusion accuracy and proclination risk of mandibular incisors in clear aligner therapy: a pilot study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Xiang Z, Yu M, Zhang L et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Preoperative RaLi demonstrated exploratory prognostic association with mandibular incisor intrusion and proclination outcomes in this limited cohort and warrants prospective validation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09654-z",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058652/"
+  },
+  {
+   "pmid": "43058649",
+   "title": "Temporal changes in treatment selection criteria for skeletal Class III: a comparison of surgical orthodontic and orthodontic camouflage treatments",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Mizoguchi Y, Tachiki C, Iijima Y et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The boundary between surgical and orthodontic camouflage treatments for skeletal Class III has shifted over time, likely reflecting advances in orthodontic treatment mechanics. Wits appraisal demonstrated superior discriminatory ability and is a potentially useful indicator for contemporary treatment decision-making.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09668-7",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058649/"
+  },
+  {
+   "pmid": "43058638",
+   "title": "Investigating the effect of an educational intervention based on the Health Belief Model in reducing dental plaque among sixth-grade elementary students",
+   "journal": "BMC public health",
+   "pub_date": "2026-08",
+   "authors": "Lava B, Pishva SS, Didarloo A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The findings of this study suggest that educational interventions based on the HBM can be a valuable strategy for promoting oral health behaviors and reducing dental plaque among sixth-grade students. It is recommended that the educational intervention developed in this study be used as a simple and effective approach to encourage oral health behaviors and reduce the burden of preventable oral diseases, in conjunction with other routine school…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12889-026-29201-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058638/"
+  },
+  {
+   "pmid": "43058635",
+   "title": "Impact of e-cigarette smoking on healing response to non-surgical periodontal therapy in management of stage II periodontitis: a prospective controlled clinical study with biochemical assessment",
+   "journal": "BMC oral health",
+   "pub_date": "2026-11",
+   "authors": "AboEsmail ME, Shaker OG, Yossri D et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "NSPT was associated with improvement in clinical periodontal and inflammatory parameters over the 8-week follow-up. However, substantial baseline differences between exposure groups warrant baseline-adjusted interpretation of treatment outcomes.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-10061-7",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058635/"
+  },
+  {
+   "pmid": "43058630",
+   "title": "Sex-based differences in salivary concentrations of resin-derived monomers following orthodontic retainer bonding: a prospective longitudinal study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Lebrun A, Dantagnan CA, Babajko S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Higher salivary concentrations of BisGMA and TEGDMA were observed in female participants at specific time points. These findings reflect differences in measured salivary exposure rather than evidence of systemic exposure or biological effects and should be considered hypothesis-generating.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09453-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43058630/"
+  }
+ ]
+}
