@@ -1,0 +1,702 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T17:43+03:00",
+ "ai_summaries": false,
+ "demo": false,
+ "items": [
+  {
+   "pmid": "43075091",
+   "title": "Artificial intelligence for the diagnosis of malocclusion in children and adolescents: a systematic review of diagnostic accuracy with an exploratory meta-analysis",
+   "journal": "Frontiers in pediatrics",
+   "pub_date": "2026-11",
+   "authors": "Sun B",
+   "study_type": "مراجعة منهجية",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "AI-based diagnosis of malocclusion in children and adolescents appears to be promising, but currently, the evidence is limited, of low certainty, and insufficient for widespread use in clinical practice; for now, AI should be used in addition to clinicians' judgement. Larger, standardised diagnostic accuracy studies reporting complete 2 × 2 data are required.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.3389/fped.2026.1942794",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075091/"
+  },
+  {
+   "pmid": "43073875",
+   "title": "Effect of zinc-modified dental implants on osseointegration outcomes: a systematic review and meta-analysis of preclinical animal studies",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Alenezi A",
+   "study_type": "تحليل تجميعي",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Within the limitations of the available data from preclinical studies, implant surfaces modified with zinc were associated with improved histomorphometric indicators of osseointegration. However, there were significant methodological variations among the studies and lack of evidence of clinical relevance and hence a need for well-designed clinical studies.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09769-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073875/"
+  },
+  {
+   "pmid": "43071302",
+   "title": "Chlorhexidine mouthwash for oral hygiene maintenance in orthodontic patients: a systematic review and meta-analysis of randomized controlled trials",
+   "journal": "Progress in orthodontics",
+   "pub_date": "2026-11",
+   "authors": "Dashti AI, Almutairi AR, Alomran Y et al.",
+   "study_type": "تحليل تجميعي",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "CHX mouthwash, particularly at 0.2% concentration, provides short-term adjunctive benefits for plaque control and gingival inflammation in orthodontic patients. However, high heterogeneity and potential adverse effects support selective, time-limited use rather than routine prescription.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s40510-026-00649-8",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43071302/"
+  },
+  {
+   "pmid": "43070719",
+   "title": "Restorative Management of Medium to Large Molar Defects Associated with Post Eruptive Enamel Breakdown in Molar- Incisor Hypomineralisation: An Umbrella Review",
+   "journal": "European journal of paediatric dentistry",
+   "pub_date": "2026-11",
+   "authors": "Daniele S, Al-Nabulsi MH",
+   "study_type": "مراجعة منهجية",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    },
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Treatment of medium and large MIH defects should be individualized according to enamel quality, patient cooperation, and eruption stage. Adhesive composite resin restorations remain the firstline approach where feasible, while HV-GICs offer a valid alternative for selective and minimally invasive management of MIH defect. Overall, the quality of evidence is moderate to low, highlighting the need for well-designed randomized clinical trials and…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.23804/ejpd.2026.2736",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43070719/"
+  },
+  {
+   "pmid": "43073671",
+   "title": "Effect of low-level laser therapy on stability during retention phase after orthodontic treatment: a randomized controlled trial",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Pei WY, Awang Nawi MA, Li S et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "LLLT benefits IMW and AL, indicating potential for maintaining the stability of specific arch dimensions (IMW and AL).",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09301-7",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073671/"
+  },
+  {
+   "pmid": "43073537",
+   "title": "Farklı lingual tutma malzemelerinin diş eti sağlığı üzerindeki etkilerinin değerlendirilmesi",
+   "journal": "Clinical oral investigations",
+   "pub_date": "2026-11",
+   "authors": "Yildiz KK, Metli̇ SN, Yildirim M et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The four fixed LR types showed generally comparable periodontal outcomes over the 12-month follow-up period. No significant long-term differences were observed among the retainer types in terms of PI and GI. However, the prefabricated stainless steel retainer (G3) demonstrated significantly greater dental calculus accumulation than Groups 1 and 4 at the later follow-up time points. These findings suggest that retainer design and structural…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s00784-026-07262-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073537/"
+  },
+  {
+   "pmid": "43075286",
+   "title": "Relevance of Silk Sutures in Contemporary Dental Practice: A Narrative Review",
+   "journal": "Cureus",
+   "pub_date": "2026-10",
+   "authors": "Umamaheswaran I, Pathak V, Balachandar K et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "surgery",
+     "label": "جراحة الفم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "These limitations have driven growing interest in knotless barbed sutures, cyanoacrylate tissue adhesives, antimicrobial nanoparticle coatings, and silk fibroin-based biomaterials as complementary or alternative closure strategies. Overall, silk remains a clinically relevant and accessible suture material for routine dental procedures, whereas emerging technologies offer targeted solutions for cases in which infection risk, prolonged suture…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.7759/cureus.118494",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075286/"
+  },
+  {
+   "pmid": "43073405",
+   "title": "Pediatric obstructive sleep apnea: a multidimensional clinical framework for diagnosis and treatment-a narrative review",
+   "journal": "European journal of pediatrics",
+   "pub_date": "2026-11",
+   "authors": "Pavone M, Verrillo E, Laguardia M et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The proposed multidimensional clinical framework integrates physiological and clinical characteristics to support phenotype-informed, individualized management, linking assessment to targeted or combined interventions and reassessment of persistent disease.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s00431-026-07616-9",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073405/"
+  },
+  {
+   "pmid": "43073142",
+   "title": "Beyond clear aligners: A lifecycle framework for micro- and nanoplastic exposure in orthodontics: A narrative review",
+   "journal": "Journal of the World federation of orthodontists",
+   "pub_date": "2026-11",
+   "authors": "Firinciogullari EC, Vaiid N, Yadav S et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "We highlight that the field remains methodologically immature and that particle detection should not be equated with clinical disease. A structured orthodontic framework is needed to distinguish documented microscale release from inferred nanoscale risk, to interrogate workflow‑dependent biocompatibility, and to guide safer material design, clinical protocols, waste collection, recycling strategies, and future exposure studies.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1016/j.ejwf.2026.10.006",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073142/"
+  },
+  {
+   "pmid": "43070774",
+   "title": "Adjunctive benefits of host modulation to non-surgical periodontal therapy: A systematic review, meta-analysis, meta-regression, and network meta-analysis of randomized controlled trials",
+   "journal": "Journal of periodontology",
+   "pub_date": "2026-11",
+   "authors": "Issa AW, Parma-Benfenati L, Hazrati P et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Although currently available evidence is inconsistent, SDD or omega-3 may complement NSPT when systemically administered for ≥6 months in healthy patients but not in diabetics.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1002/jper.70224",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43070774/"
+  },
+  {
+   "pmid": "43070345",
+   "title": "Solid platelet-rich fibrin versus connective tissue graft for root coverage procedures: An updated systematic review and meta-analysis",
+   "journal": "Journal of periodontology",
+   "pub_date": "2026-11",
+   "authors": "Pacer M, Colognese MRV, Jassniker VB et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Although CTG remains the most predictable approach for modifying the periodontal phenotype and gaining keratinized tissue, solid PRF represents a clinically viable alternative that may offer patient-centered benefits by avoiding palatal graft harvesting, particularly for patients with an adequate baseline periodontal phenotype.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1002/jper.70226",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43070345/"
+  },
+  {
+   "pmid": "43075323",
+   "title": "Association Between Low-Carbohydrate Diets and Periodontitis: Results From a Nationwide Cross-Sectional Study Using NHANES 2009-2014 Data",
+   "journal": "Food science & nutrition",
+   "pub_date": "2026-11",
+   "authors": "Xu X, Zeng F, Bao D et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In exploratory subgroup analyses, potential interactions were observed for smoking (p interaction = 0.024), physical activity (p interaction = 0.004), and hypertension (p interaction = 0.038). Our results suggest that the relationship between LCDs and periodontitis depends on the quality and types of macronutrients consumed.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1002/fsn3.72638",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075323/"
+  },
+  {
+   "pmid": "43075263",
+   "title": "Association Between Rheumatoid Arthritis Disease Duration and Periodontal Health: A Retrospective Observational Study",
+   "journal": "Cureus",
+   "pub_date": "2026-10",
+   "authors": "Swathi D, Godasi SP, Jamatia K et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "These findings highlight the potential value of integrating periodontal evaluation into the routine management of patients with prolonged RA. Further longitudinal studies are needed to clarify the temporal relationship between RA duration and periodontal deterioration.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.7759/cureus.118488",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075263/"
+  },
+  {
+   "pmid": "43075011",
+   "title": "Laboratory study on AgNPs-modified 4-META/MMA-TBB resin as an antibacterial adhesive for root fracture reattachment",
+   "journal": "Frontiers in dental medicine",
+   "pub_date": "2026-11",
+   "authors": "Guo J, Fang Z, Liu X et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "AgNPs incorporation did not impair the fracture resistance of roots reattached with 4-META/MMA-TBB resin, whereas MNZ reduced it dose-dependently. AgNPs-modified 4-META/MMA-TBB resin is a promising antibacterial adhesive to improve the outcomes of root fracture reattachment.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.3389/fdmed.2026.1978184",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075011/"
+  },
+  {
+   "pmid": "43074995",
+   "title": "Preoperative information-seeking behavior and perioperative experiences in patients undergoing periodontal mucogingival surgery: a single-center cross-sectional survey",
+   "journal": "Frontiers in public health",
+   "pub_date": "2026-11",
+   "authors": "Luo W, Pan R, Liu S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Education level showed an exploratory association with professional information seeking among patients who had undergone mucogingival surgery. Statistical associations were also observed among recalled preoperative anxiety, postoperative reactions, and reported decision-making influences. Their relevance to preoperative communication requires prospective evaluation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.3389/fpubh.2026.1976153",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43074995/"
+  },
+  {
+   "pmid": "43074773",
+   "title": "Exploring the relationship between Porphyromonas gingivalis in periodontitis and rheumatoid arthritis severity: a cross-sectional pilot study",
+   "journal": "Frontiers in oral health",
+   "pub_date": "2026-11",
+   "authors": "Navarro-Zarza JE, Baños-Hernández CJ, Reyes-Ríos R et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This small pilot study observed exploratory trends suggesting that patients with co-occurring rheumatoid arthritis and PSR-defined periodontitis harboring site-specific Porphyromonas gingivalis may present with elevated disease activity. However, sample size constraints and non-significant associations following multiplicity corrections preclude confirming direct links with joint degradation, requiring validation in prospective studies using…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.3389/froh.2026.1946987",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43074773/"
+  },
+  {
+   "pmid": "43074683",
+   "title": "Preferences in Severe Pulpitis Treatment: A Discrete Choice Experiment",
+   "journal": "International endodontic journal",
+   "pub_date": "2026-11",
+   "authors": "Siao J, Tan SHX, Chan PY et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The findings suggest that beyond clinical outcomes, the population values affordability, clinical success and pain avoidance. The observed patterns of preferences for SP can support prioritisation of treatment options and guide resource planning in endodontics.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1111/iej.70311",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43074683/"
+  },
+  {
+   "pmid": "43074422",
+   "title": "Semi-Digital and Conventional Protocols for Masking Orthodontic Appliances and Fabricating Customized Mouthguards: A Step-by-Step Clinical Guide",
+   "journal": "Dental traumatology : official publication of International Association for Dental Traumatology",
+   "pub_date": "2026-11",
+   "authors": "Bautista MM, Chumacero BAM, Soares PBF et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The semi-digital workflow represents a clinically applicable and reproducible alternative for fabricating custom-fit EVA mouthguards in patients undergoing fixed orthodontic treatment. Virtual planning of orthodontic relief may facilitate individualized adaptation of the mouthguard to the orthodontic appliances, although clinical assessment and periodic reassessment remain essential throughout active orthodontic treatment.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1111/edt.70168",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43074422/"
+  },
+  {
+   "pmid": "43074185",
+   "title": "A Theory-Guided Feasibility Study of Using a Minimum Dataset to Improve Routine Recording of Traumatic Dental Injuries",
+   "journal": "Dental traumatology : official publication of International Association for Dental Traumatology",
+   "pub_date": "2026-11",
+   "authors": "Kenny KP, Owen J, DiMartino E et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Recording many of the clinician and patient outcomes for the MDS-TDI is feasible and acceptable to dentists working in a tertiary referral centre. Further work is required to explore what is feasible to record in dental primary care.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1111/edt.70166",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43074185/"
+  },
+  {
+   "pmid": "43073961",
+   "title": "Prevalence, determinants, and sociocultural correlates of early childhood caries among preschool children In Urban Kano, Nigeria",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Okolo CC, Amole TG",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "ECC prevalence in urban Kano is substantial, with early lesions frequently undetected by traditional dmft indices. The association between previous dental visits and higher caries prevalence is consistent with predominantly crisis-driven rather than preventive care utilisation, although the cross-sectional design cannot rule out reverse causation (children with caries being more likely to be taken for a dental visit). Culturally tailored…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09776-4",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073961/"
+  },
+  {
+   "pmid": "43073906",
+   "title": "Developing and validating a questionnaire on maxillary molar distalization: a survey of Iraqi orthodontists",
+   "journal": "BMC oral health",
+   "pub_date": "2026-09",
+   "authors": "Sofar MK, Abid MF, AlHakeem K et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "A 15 item-online-questionnaire was constructed. The content validity and test-retest reliability was found to be good enough. Most Iraqi orthodontists like using distalizers for correction of Class II malocclusions in permanent dentition. Skeletal anchorage intra-alveolar molar distalization devices are more preferred. Such results offer insight into reported clinical preferences and practices among Iraqi orthodontists. Hence, they should be…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09694-5",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073906/"
+  },
+  {
+   "pmid": "43073893",
+   "title": "Biochemical analysis of the impact of glycemic control on inducible nitric oxide synthase and proinflammatory cytokine levels in the gingival tissues of patients with type 2 diabetes mellitus and periodontitis",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Odyakmaz SZ, Bolat SY, Acarel EE",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Poor glycemic control was associated with an enhanced inflammatory response, whereas well-controlled T2DM participants presented inflammatory profiles similar to those of systemically healthy participants.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09726-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073893/"
+  },
+  {
+   "pmid": "43073870",
+   "title": "Association of light BioAge with edentulism risk in middle-aged and elderly people: a retrospective cohort study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Li Y",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "prosth",
+     "label": "تعويضات"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "A high BioAge was associated with an elevated risk of edentulism among middle-aged and elderly people, especially for individuals whose light BioAge exceeds their chronological age.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09725-1",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073870/"
+  },
+  {
+   "pmid": "43073866",
+   "title": "Comparison of mid-palatal suture morphology via suture bone densities between unilateral cleft lip and palate with non-cleft individuals using python programming language",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Huqh MZU, Yaacob HB, Selvaraj S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Children with the UCLP group had lower palatal bone density compared to the NC group, indicating defective MPS fusion. These results highlight the need for individualized treatment planning for orthodontic treatment and maxillary expansion in children with clefts.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09562-2",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073866/"
+  },
+  {
+   "pmid": "43073682",
+   "title": "Hypoxia-induced m6A epitranscriptomic remodeling regulates gene expression in dental pulp stem cells: a combined MeRIP-seq and RNA-seq study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Zeng J, Zhang C, Luo P et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This study reveals that hypoxia induces targeted m6A epitranscriptomic remodeling in DPSCs. We propose a putative regulatory axis where hypoxia-upregulated IGF2BP1 may facilitate cellular adaptation by stabilizing transcripts associated with angiogenesis and tissue regeneration. Our findings suggest these genes may serve as pivotal regulators of the hypoxic response in DPSCs, representing a novel mechanism for adaptation. While these results…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09748-8",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073682/"
+  },
+  {
+   "pmid": "43073584",
+   "title": "Lymphocyte Reactivity to Metal-Containing Test Preparations in a Selected Scoliosis Cohort: A Retrospective Case Series of MELISA Results and Reported Metal Exposures",
+   "journal": "Biological trace element research",
+   "pub_date": "2026-11",
+   "authors": "Dutton R, Bjørklund G",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "With no scoliosis-free comparison group or systematically verified clinical allergy outcomes, the results describe heterogeneous in vitro reactivity in a small, self-selected cohort; they do not establish clinical metal allergy, increased reactivity in scoliosis, or causation. Controlled studies are needed to assess clinical relevance.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s12011-026-05446-2",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073584/"
+  },
+  {
+   "pmid": "43073527",
+   "title": "Three-dimensional characterization of differential labial gingival surface changes at labial protuberance sites following orthodontic tooth movement",
+   "journal": "Clinical oral investigations",
+   "pub_date": "2026-11",
+   "authors": "Yoon HR, Choi EA, Sreng Y et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "LP sites predominantly corresponded to pretreatment interdental regions and showed less labial gingival displacement than adjacent mesial tooth-covering sites. Localized differences in tooth movement may be associated with LP occurrence.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s00784-026-07280-1",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073527/"
+  },
+  {
+   "pmid": "43073460",
+   "title": "What is the level of hypodontia service provision in secondary care in the UK? A cross-sectional study",
+   "journal": "British dental journal",
+   "pub_date": "2026-11",
+   "authors": "Johal A, Alajmi S, Dean R",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Common challenges included workforce shortages, funding constraints, long waiting times and difficulties coordinating MDT care.Conclusions Considerable variation was observed in hypodontia service provision across the UK. National guidance, a minimum dataset and a registry may support more optimal care and service evaluation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1038/s41415-026-0174-x",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073460/"
+  },
+  {
+   "pmid": "43073458",
+   "title": "Periodontitis management and surgical site infection risk in mandibular fracture treatment",
+   "journal": "British dental journal",
+   "pub_date": "2026-11",
+   "authors": "Van As D, Bahrin H, Holmes S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "surgery",
+     "label": "جراحة الفم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Causation cannot be inferred from this design. These findings are hypothesis-generating and provide a rationale for a prospective controlled study with multivariable adjustment and standardised intervention documentation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1038/s41415-026-0136-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073458/"
+  },
+  {
+   "pmid": "43073440",
+   "title": "Bacterial internalins exploit E-cadherin to promote head and neck tumor metastasis and drug resistance",
+   "journal": "EMBO reports",
+   "pub_date": "2026-11",
+   "authors": "Wang H, Pham C, Kurniyati K et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Tissue microarrays detect internalin antigens in HNSCC specimens, supporting their in vivo relevance. Together, these findings establish a direct mechanistic link between an oral pathogen and HNSCC progression and extend the paradigm of internalin-E-cadherin interactions from microbial pathogenesis to cancer biology.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1038/s44319-026-00994-z",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073440/"
+  }
+ ]
+}
