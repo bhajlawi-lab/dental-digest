@@ -1,0 +1,706 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T17:13+03:00",
+ "ai_summaries": true,
+ "demo": false,
+ "items": [
+  {
+   "pmid": "43080504",
+   "title": "Comparative effectiveness of manual and powered toothbrush types in patients with fixed orthodontic appliances: a systematic review and network meta-analysis",
+   "journal": "Frontiers in oral health",
+   "pub_date": "2026-11",
+   "authors": "Alsulaiman AA",
+   "study_type": "مراجعة منهجية",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Powered toothbrushes did not demonstrate superiority over conventional manual brushing for plaque, gingival inflammation or bleeding in patients with fixed orthodontic appliances. Findings favoring specific designs were based on limited and methodologically uncertain evidence, while some trials confounded toothbrush technology with co-interventions. Certainty was very low throughout; therefore, the findings indicate an absence of demonstrated…",
+   "summary_ar": "هدفت هذه المراجعة المنهجية وتحليل الشبكة التلحيقي إلى مقارنة تسعة أنواع من فرش الأسنان اليدوية والآلية في إزالة اللويحات الجرثومية (plaque) وتقليل التهاب اللثة (gingival inflammation) والنزيف لدى 947 مريضاً يخضعون للتقويم الثابت عبر 18 تجربة عشوائية محكومة. أظهرت النتائج أن فرش الأسنان الآلية لم تظهر تفوقاً ملحوظاً مقارنة بالفرش اليدوية التقليدية في تقليل اللويحات أو التهاب اللثة أو النزيف، مع وجود يقين منخفض جداً في الأدلة.",
+   "takeaway_ar": "لا توجد أدلة قوية تثبت تفوق فرش الأسنان الآلية على اليدوية لدى مرضى التقويم الثابت، مما يتطلب الحذر وعدم المبالغة في الفوائد السريرية بانتظار مزيد من التجارب عالية الجودة.",
+   "title_ar": "الفعالية المقارنة لأنواع فرشاة الأسنان اليدوية والآلية (powered toothbrush) لدى المرضى الذين يضعون أجهزة تقويم الأسنان الثابتة (fixed orthodontic appliances): مراجعة منهجية وتحليل تلقيحي شبكي (network meta-analysis)",
+   "doi": "10.3389/froh.2026.1867525",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43080504/"
+  },
+  {
+   "pmid": "43079412",
+   "title": "Clinical and radiographic evaluation of autologous sticky bone versus PRF with OCP-coated deproteinized bovine bone graft in periodontal infrabony defect regeneration: a randomized controlled trial",
+   "journal": "BMC oral health",
+   "pub_date": "2026-09",
+   "authors": "Kotecha SV, Jaiswal P, Bhagat S et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Both approaches provided significant clinical and radiographic benefits. It can be stated that both regenerative approaches provided significant benefits regarding PPD reduction, CAL improvement, and radiographic defect depth reduction for infrabony defects.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09518-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079412/"
+  },
+  {
+   "pmid": "43077534",
+   "title": "Efficacy of Fluoride Varnish Combined With Chitosan Particles in the Management of Dentin Hypersensitivity: A Randomized, Split-Mouth Clinical Trial",
+   "journal": "Clinical and experimental dental research",
+   "pub_date": "2026-12",
+   "authors": "Colognese MRV, Rosa K, Pini NIP et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "All three varnishes significantly reduced dentin hypersensitivity over 30 days, with no evidence of additional benefits from chitosan. Larger trials with longer follow-up and placebo controls are needed to determine whether chitosan provides clinically meaningful benefits.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1002/cre2.70512",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43077534/"
+  },
+  {
+   "pmid": "43075929",
+   "title": "The effect of virtual appointments on adherence with Twin Block wear: a randomized controlled trial",
+   "journal": "European journal of orthodontics",
+   "pub_date": "2026-10",
+   "authors": "Hasan AA, Burns A, Honari B et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Adjunctive virtual appointments did not enhance daily wear time or overjet reduction with the Twin Block appliance over the 6-month study period. Self-reported wear time was consistently overestimated, reinforcing the value of objective compliance monitoring. Alternative strategies to enhance adherence to Twin Block therapy should be explored.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1093/ejo/cjag078",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075929/"
+  },
+  {
+   "pmid": "43079893",
+   "title": "European Society of Endodontology Position Statement: Prevention and Management of Tooth Discolouration of Endodontic Origin",
+   "journal": "International endodontic journal",
+   "pub_date": "2026-11",
+   "authors": "Krastl G, Camilleri J, Day P et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The statement provides guidance on the classification and diagnosis of DEO, preventive strategies, clinical management of discolouration in root-filled, revitalized and pulp canal-obliterated teeth, the selection and regulatory considerations of bleaching agents, colour stability and retreatment, restorative options and potential risks and complications. It is the intention of the panel to update this Position Statement at appropriate intervals…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1111/iej.70306",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079893/"
+  },
+  {
+   "pmid": "43077862",
+   "title": "Oral health and rehabilitation in solid organ transplantation - A systematic review",
+   "journal": "Transplantation reviews (Orlando, Fla.)",
+   "pub_date": "2026-11",
+   "authors": "Isi S, Sigmund A, Niederegger T et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Active oral infections should be treated before transplantation when medically feasible. Causal reductions in infections from treatment and effects on graft survival, rejection, or mortality remain unproven. Which foci require mandatory elimination and how OHRQoL changes over time remain unclear. Future research should prioritize prospective multicenter studies using consistent oral disease definitions and transplant endpoints.",
+   "summary_ar": "استهدفت هذه المراجعة المنهجية تلخيص الأدلة المتعلقة بصحة الفم وأمراضه وإعادة تأهيل الفم لدى المرشحين والمتلقين لزراعة الأعضاء الصلبة (Solid organ transplantation). شملت الدراسة 59 بحثاً (بلغ مجموع المشاركين فيها 3975 مشاركاً)، وأظهرت النتائج أن بؤرة الأسنان غير العلاجية ارتبطت بزيادة الالتهابات أو حالات دخول المستشفى، بينما حسّنت برامج نظافة الفم والعلاج اللثوي (Periodontal therapy) المؤشرات الفموية، مع بقاء تأثير علاج بؤريات الالتهاب على بقاء الطُّعم (Graft survival) أو الوفيات غير مثبت.",
+   "takeaway_ar": "يُفضل علاج التهابات الفم النشطة قبل الزراعة، ولكن الأدلة الحالية لا تثبت بشكل قاطع أن هذا العلاج يقلل من معدلات الرفض أو يزيد من بقاء الطُّعم، لذا يجب الحذر في اتخاذ القرارات السريرية المطلقة.",
+   "title_ar": "صحة الفم وإعادة التأهيل في زراعة الأعضاء الصلبة (Solid organ transplantation) - مراجعة منهجية (Systematic review)",
+   "doi": "10.1016/j.trre.2026.101082",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43077862/"
+  },
+  {
+   "pmid": "43076554",
+   "title": "Overcoming Oral Environmental Barriers: Nanoengineering Strategies for Antimicrobial Peptides in Biofilm-Associated Oral Diseases",
+   "journal": "ACS nano",
+   "pub_date": "2026-11",
+   "authors": "Wu J, Lin Y, Shuai F et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Finally, key translational challenges, including biosafety, microbiome homeostasis, manufacturing, and regulatory barriers, are critically examined. This review traces the development of AMP nanoengineering from passive delivery vehicles toward precision therapeutic platforms that respond dynamically to the oral microenvironment.",
+   "summary_ar": "استعرضت هذه الدراسة المرجعية التحديات التي تواجه الببتيدات المضادة للميكروبات في علاج أمراض الفم المرتبطة بالبطانة الجرثومية (Biofilm) بسبب اللعاب والإنزيمات والبطانة الكثيفة. وناقشت كيف يمكن لتصميم المواد النانوية (Nanomaterials) تحسين ثبات هذه الببتيدات وإيصالها بفعالية، فضلاً عن استعراض التحديات التنظيمية والسلامة الحيوية. وأظهرت المراجعة أن الأنظمة النانوية المتعددة الوظائف قد تتحول من وسائل توصيل تقليدية إلى منصات علاجية دقيقة تتفاعل مع البيئة الفموية.",
+   "takeaway_ar": "تمثل تقنيات الهندسة النانوية (Nanoengineering) واعدة لتحسين فعالية الببتيدات المضادة للميكروبات في الفم، ولكن لا تزال هناك تحديات تتعلق بالأمان الحيوي والتنظيم تتطلب مزيداً من البحث قبل التطبيق السريري الواسع.",
+   "title_ar": "تجاوز حواجز البيئة الفموية: استراتيجيات الهندسة النانوية (Nanoengineering) للببتيدات المضادة للميكروبات (Antimicrobial Peptides) في أمراض الفم المرتبطة بالبطانة الجرثومية (Biofilm)",
+   "doi": "10.1021/acsnano.6c12166",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43076554/"
+  },
+  {
+   "pmid": "43076199",
+   "title": "Cone-beam computed tomography voxel size and diagnostic accuracy across endodontic tasks: A systematic review",
+   "journal": "European journal of oral sciences",
+   "pub_date": "2026-11",
+   "authors": "Almeida MF, Guimarães HHDSD, Almeida LMF et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    },
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Certainty for laboratory diagnostic accuracy was low for fractures and resorption and very low for canal detection and perforations; clinical extrapolation was very low across tasks. The findings support clinically useful, indication-led selection of CBCT protocols, emphasizing diagnostically adequate image detail, restricted field of view, and exposure optimization rather than a universally preferred voxel size.",
+   "summary_ar": "هدفت هذه المراجعة المنهجية لتقييم تأثير اختيار بروتوكول حجم البكسل الحجمي (voxel) في التصوير المقطعي المحوسب مخروطي الحزم (CBCT) على الدقة التشخيصية لمختلف الحالات اللبية. شملت الدراسة تحليلاً لـ 16 بحثاً مخبرياً (ex vivo) تناولت كسور الجذور، والقنوات الإضافية، وامتصاص الجذور الخارجي، والانثقاب. أظهرت النتائج أن البروتوكولات الدقيقة حسّنت الحساسية في بعض الحالات، بينما تأثر الأداء التشخيصي بعوامل أخرى كالمواد الحشية والقطعة والآثار المصطنعة، مع وجود أدلة ذات يقين منخفض إلى منخفض جداً.",
+   "takeaway_ar": "يدعم هذا التقييم اختيار بروتوكولات (CBCT) الموجهة حسب الحالة السريرية مع التركيز على تقليل التعرض للأشعة، مع ضرورة الحذر الشديد عند إسقاط هذه النتائج المختبرية على الممارسة السريرية نظراً لضعف يقين الأدلة.",
+   "title_ar": "حجم البكسل الحجمي في التصوير المقطعي المحوسب مخروطي الحزم (Cone-beam computed tomography - CBCT) والدقة التشخيصية في مهام علاج اللب (Endodontics): مراجعة منهجية",
+   "doi": "10.1111/eos.70177",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43076199/"
+  },
+  {
+   "pmid": "43075861",
+   "title": "Electrospun scaffolds for MSC-derived secretome delivery",
+   "journal": "Journal of materials chemistry. B",
+   "pub_date": "2026-11",
+   "authors": "Tugaeva GK, Upatova AG, Bunin ES et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Progress towards translation will require standardised characterisation of both soluble and vesicular fractions, dose normalisation to scaffold mass or area, functional potency assays, and validation in long-term, clinically relevant animal models. Together, these developments will enable more reproducible engineering of electrospun secretome-delivery systems and support their clinical translation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1039/d6tb01871h",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075861/"
+  },
+  {
+   "pmid": "43080430",
+   "title": "Cohort-aware single-cell analysis of PBMCs identifies an interferon program specific to primary Sjögren's syndrome and limited immune convergence with periodontitis",
+   "journal": "Frontiers in cell and developmental biology",
+   "pub_date": "2026-11",
+   "authors": "Qin T, Sun C, Sun J et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "With pooled controls, the same data yielded \"shared\" regulons that did not survive cohort-aware testing, and 39%-68% of regulon-subset pairs differed between the controls of the PD and pSS studies. The replicated peripheral immune change is specific to pSS; what the two diseases share is limited to a compositional shift in the NK lineage and a stress-response signature of uncertain origin.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.3389/fcell.2026.1969882",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43080430/"
+  },
+  {
+   "pmid": "43080248",
+   "title": "Cytokine profiles in adults with type 1 diabetes and periodontitis: associations with periodontal severity",
+   "journal": "Frontiers in endocrinology",
+   "pub_date": "2026-11",
+   "authors": "Parra Á, Relvas M, Mendes-Frias A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The association between salivary IP-10 and advanced periodontal stage and grade suggests that oral inflammatory biomarkers may provide complementary information beyond clinical severity. These findings support further investigation of biomarker-based approaches for characterizing periodontal inflammation in T1DM.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.3389/fendo.2026.2017356",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43080248/"
+  },
+  {
+   "pmid": "43080202",
+   "title": "A comparative study of physiological drift and immediate orthodontic force in the mandibular arch following first-premolar extraction",
+   "journal": "Korean journal of orthodontics",
+   "pub_date": "2026-08",
+   "authors": "Yang M, Almagrami I, Wang Y et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Physiological drift following premolar extraction was associated with a smaller early reduction in alveolar bone width at the extraction sites, and mandibular anterior crowding also decreased spontaneously during the observation period. This exploratory association should not be interpreted as evidence of causal or overall clinical superiority.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.4041/kjod25.388",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43080202/"
+  },
+  {
+   "pmid": "43080201",
+   "title": "Vertical treatment effects of Twin-block appliance therapy in growing Class II division 1 patients with different vertical growth patterns",
+   "journal": "Korean journal of orthodontics",
+   "pub_date": "2026-11",
+   "authors": "Paik YN, Choi YK, Kim YI et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In this selected cohort of successfully treated growing Class II division 1 patients, vertical skeletal changes following TBA therapy and subsequent fixed-appliance treatment did not differ significantly according to the initial vertical facial pattern. These findings should not be interpreted as evidence of universal vertical safety in hyperdivergent patients; careful case selection, vertical control, and growth monitoring remain clinically…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.4041/kjod26.074",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43080201/"
+  },
+  {
+   "pmid": "43080198",
+   "title": "The effect of different intensity modes and curing times of new-generation LED light-curing units and orthodontic adhesives on shear bond strength of metal brackets",
+   "journal": "Korean journal of orthodontics",
+   "pub_date": "2026-05",
+   "authors": "Çatalkaya G, Baka ZM",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Both adhesive type and LED curing protocol significantly influence bracket bond strength. The highest median SBS was observed with Transbond XT and the Valo Grand extra power mode (11.44 MPa), and the lowest median SBS values with BracePaste and the Woodpecker iLED modes (turbo, 6.85 MPa; normal, 6.87 MPa).",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.4041/kjod25.292",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43080198/"
+  },
+  {
+   "pmid": "43079929",
+   "title": "Parvalbumin Is Associated with Periodontitis-Abetted Tubular Injury in Diabetes",
+   "journal": "Journal of dental research",
+   "pub_date": "2026-11",
+   "authors": "Al-Kafee A, Shinjo T, Sato K et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Pharmacologic inhibition of caspase-1 significantly attenuated IL-1β secretion from J774A.1 and THP-1. These findings suggest that periodontitis aggravates tubular injury in diabetic nephropathy, and they identify PVALB as a potential mediator linking distal tubular injury to macrophage inflammasome activation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1177/00220345261506274",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079929/"
+  },
+  {
+   "pmid": "43079770",
+   "title": "Reconsidering Cementum Biology: A Continuum Framework for Updated Understanding of Cementum Formation and Function",
+   "journal": "Journal of dental research",
+   "pub_date": "2026-11",
+   "authors": "Kerr E, Sone ED, McCulloch CA",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Arising from these data on how cementum metabolism is regulated by inflammatory signaling and by interactions between immune and progenitor cells, we propose a \"continuum framework.\" In this proposal, the structural characteristics of cementum emerge from context- and environment-dependent regulatory influences rather than from predetermined subtypes that are fixed at early stages of root and cementum development. This proposal reconsiders…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1177/00220345261503580",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079770/"
+  },
+  {
+   "pmid": "43079486",
+   "title": "Quality and engagement of Instagram content related to mouthguard use in the prevention of sports-related dental trauma: a cross-sectional content analysis",
+   "journal": "BMC oral health",
+   "pub_date": "2026-09",
+   "authors": "Kaplan C, Değerli GY",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Instagram content on mouthguard use appeared to be predominantly promotional and demonstrated generally limited educational value based on the sampled posts evaluated in this study. Although educational and clinical posts demonstrate higher quality, this does not appear to translate into increased user engagement. Greater involvement of dental professionals and academic institutions may help improve the availability and reliability of…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09718-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079486/"
+  },
+  {
+   "pmid": "43079454",
+   "title": "Clinical rationale and indications for the use of cone-beam computed tomography",
+   "journal": "BMC oral health",
+   "pub_date": "2026-09",
+   "authors": "Edebal TH, Kotanlı S, Yücedağ B et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    },
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The results of this analysis demonstrate that dental CBCT examinations are not a routine screening tool applied indiscriminately, but rather a targeted imaging protocol shaped according to the specific diagnostic needs of the relevant specialty, patient demographics, and anatomical region requirements. These clinical and temporal findings provide an important reference for resource management and workload optimization in radiology departments.",
+   "summary_ar": "هدفت هذه الدراسة التأملية إلى تقييم الدواعي السريرية وأنماط وصف التصوير المقطعي المحوسب مخروطي الحزم (Cone-Beam Computed Tomography - CBCT) عبر مختلف تخصصات طب الأسنان. شملت المنهجية مراجعة 694 استمارة طلب تصوير، وأظهرت النتائج أن معظم الطلبات كانت من أقسام جراحة الفم والوجه والفكين (Oral and Maxillofacial Surgery) وتقويم الأسنان (Orthodontics)، وكانت الأسباب الأكثر شيوعاً هي الأكياس/الأورام (Cysts/tumors) والأسنان المطمورة (Impacted teeth)، مع وجود ارتباط قوي بين التخصص الطبي ونطاق مجال الرؤية (Field of View - FOV).",
+   "takeaway_ar": "تُظهر هذه النتائج أن استخدام تقنية التصوير المقطعي المحوسب مخروطي الحزم (Cone-Beam Computed Tomography - CBCT) يُعد إجراءً موجهاً حسب الاحتياجات التشخيصية للتخصص وليس كأداة مسح روتينية، مع ضرورة مراعاة حدود هذه الدراسة التحليلية بأثر رجعي في تعميم النتائج.",
+   "title_ar": "الأسبرين السريري والدواعي لاستخدام التصوير المقطعي المحوسب مخروطي الحزم (Cone-Beam Computed Tomography - CBCT)",
+   "doi": "10.1186/s12903-026-09782-6",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079454/"
+  },
+  {
+   "pmid": "43079410",
+   "title": "The CCL3-CCR1 axis promotes corticotomy-accelerated orthodontic tooth movement by regulating M1 macrophage polarization",
+   "journal": "BMC oral health",
+   "pub_date": "2026-09",
+   "authors": "Ma Y, Huang Y, Zhang J et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The CCL3-CCR1 axis plays an important role in corticotomy-induced RAP through driving M1 macrophage polarization, thereby promoting alveolar bone remodeling and accelerating OTM. These findings revealed a novel mechanism underlying corticotomy-promoted tooth movement and offered important theoretical support for the development of non-surgical strategies to increase the efficiency of orthodontic treatment.",
+   "summary_ar": "دُرست الآلية الجزيئية لظاهرة التسارع الإقليمي (regional acceleratory phenomenon) المرتبطة بالقشط الجراحي (corticotomy) ل تسريع حركة الأسنان التقويمية (orthodontic tooth movement - OTM) باستخدام نموذج حيواني للفئران وخلايا (RAW264.7)، بالإضافة إلى تقنيات مخبرية مثل تفاعل البوليميراز المتسلسل العكسي (RT-qPCR) واللطف الغربي (Western blotting). أظهرت النتائج أن القشط الجراحي ينشط محور (CCL3-CCR1) مما يحفز استقطاب البالعات الكبيرة نحو النمط (M1) لتعزيز إعادة تشكيل العظام، بينما أدى تثبيط مستقبل (CCR1) إلى تراجع هذه التأثيرات.",
+   "takeaway_ar": "يشير هذا الدور المحوري لمحور (CCL3-CCR1) في تسريع حركة الأسنان إلى إمكانية تطوير استراتيجيات غير جراحية مستقبلية، ورغم ذلك تظل هذه الأدلة مقصورة على نماذج الحيوانات وتتطلب مزيداً من التحقق.",
+   "title_ar": "محور (CCL3-CCR1) يحفز حركة تقويم الأسنان المتسارعة بالقشط الجراحي (corticotomy-accelerated orthodontic tooth movement) من خلال تنظيم استقطاب خلايا البالعات الكبيرة من النوع الأول (M1 macrophage polarization)",
+   "doi": "10.1186/s12903-026-09788-0",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079410/"
+  },
+  {
+   "pmid": "43079397",
+   "title": "Preferences for orthodontic treatment attributes among young adult malocclusion patients in Anhui, China: a discrete choice experiment",
+   "journal": "BMC oral health",
+   "pub_date": "2026-09",
+   "authors": "Song F, Yu D, Jiang S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Among young adults with malocclusion attending a tertiary stomatology hospital in Anhui Province, China, better comfort and aesthetics were strongly preferred, and clear aligners had the highest predicted uptake in the hypothetical scenarios. These findings highlight the importance of considering patient preferences when discussing orthodontic treatment options, while recognising that treatment cost and preference heterogeneity may influence…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1186/s12903-026-09754-w",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079397/"
+  },
+  {
+   "pmid": "43079049",
+   "title": "Multi-Omics Analysis Links Gene Body Hypermethylation To Widespread Transcriptional Upregulation in Skeletal Fluorosis",
+   "journal": "Biological trace element research",
+   "pub_date": "2026-11",
+   "authors": "Xu D, Si B, Wang A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "This study provides a genome-wide view of DNA methylation alterations in skeletal fluorosis and identifies potential epigenetic mechanisms associated with abnormal bone remodeling. Further functional validation is warranted to explore epigenetic therapies for mitigating fluoride-induced skeletal damage.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1007/s12011-026-05380-3",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079049/"
+  },
+  {
+   "pmid": "43078766",
+   "title": "Treatment outcomes of impacted mandibular canines",
+   "journal": "Journal of the World federation of orthodontists",
+   "pub_date": "2026-11",
+   "authors": "Jemeļjanova V, Gardovska K, Jākobsone G",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Canine angulation is a stronger predictor of traction duration than linear parameters. Orthodontic traction of impacted mandibular canines, when performed within biological limits, facilitates successful eruption while maintaining periodontal health.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1016/j.ejwf.2026.10.002",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43078766/"
+  },
+  {
+   "pmid": "43078765",
+   "title": "Treatment of Class III malocclusion with clear aligners and buccal shelf mini-implants: A finite element study",
+   "journal": "Journal of the World federation of orthodontists",
+   "pub_date": "2026-11",
+   "authors": "Hasan LA, Al-Khatib AR, Alrawi MNA et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The results of the current study indicate that the combination of clear aligners with buccal shelf mini-implants in the bilateral approach increases posterior anchorage, provides bodily mandibular dental distalization, reduces unwanted tipping, and ensures better force distribution. Under the studied loading conditions, the most appropriate angle of elastic traction biomechanics was about 20° (group C). The experimental group C (20°) showed the…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1016/j.ejwf.2026.10.003",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43078765/"
+  },
+  {
+   "pmid": "43078492",
+   "title": "Tooth Displacement, Stress Distribution Patterns and Changes in Centre of Resistance in Temporary Anchorage Devices-Assisted Individual Canine Retraction cases, with and without Micro-Osteoperforation",
+   "journal": "African journal of paediatric surgery : AJPS",
+   "pub_date": "2026-11",
+   "authors": "Jeevagan S, Venkatachalapathy S, Rangarajan S et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The study concluded that MOP significantly decreased the overall stresses generated in the periodontal ligament and adjacent alveolar bone. Furthermore, the CRes of the tooth moved to a more favourable position facilitating greater tooth displacement, subsequently, increasing the rate of orthodontic tooth movement.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.67481/ajps.v23i2.611",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43078492/"
+  },
+  {
+   "pmid": "43078400",
+   "title": "Electroacupuncture for Pain Relief During Ultrasonic Periodontal Scaling in Patients with Moderate to Severe Periodontitis: A Randomized Sham-Controlled Trial",
+   "journal": "Complementary therapies in medicine",
+   "pub_date": "2026-11",
+   "authors": "Ng X, Zheng Y, Liu K et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "EA effectively reduces pain during ultrasonic scaling in patients with moderate to severe periodontitis, as well as tooth sensitivity, and dental anxiety without affecting vital sign stability.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1016/j.ctim.2026.103493",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43078400/"
+  },
+  {
+   "pmid": "43077479",
+   "title": "Biological Responses of Human Periodontal Ligament Fibroblasts to Root Perforation Repair Materials: A Comparative In Vitro Study",
+   "journal": "Clinical and experimental dental research",
+   "pub_date": "2026-12",
+   "authors": "Pajonklaew K, Wongwatanasanti N, Vajrabhaya LO et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "All three materials demonstrated favorable biological responses. CS-BG showed the highest numerical proliferation at Day 21 and, together with ProRoot® MTA, significantly enhanced HPDLF migration compared with iRoot® BP Plus. However, some differences in proliferation among the materials were not statistically significant. Further in vivo and clinical studies are warranted to determine the clinical relevance of these findings.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1002/cre2.70503",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43077479/"
+  },
+  {
+   "pmid": "43077475",
+   "title": "The Cytotoxic Potential of Thermoformed and In-House Manufactured Three-Dimensionally Printed Orthodontic Appliances",
+   "journal": "Clinical and experimental dental research",
+   "pub_date": "2026-12",
+   "authors": "Emerson T, Hamza SA, Campobasso A et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "These in vitro findings suggest that material degradation and particle formation may influence the biocompatibility of some 3D-printed orthodontic resins. However, these findings are limited to the experimental conditions used and do not, by themselves, demonstrate clinical harm.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1002/cre2.70506",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43077475/"
+  },
+  {
+   "pmid": "43077432",
+   "title": "Association between duodenal mucosa-associated periodontal bacteria and advanced liver fibrosis in metabolic dysfunction-associated steatotic liver disease",
+   "journal": "PloS one",
+   "pub_date": "2026-11",
+   "authors": "Niida K, Yamamoto Y, Miyake T et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Duodenal mucosa-associated microbiota alterations, particularly the enrichment of eight periodontal species, were associated with fibrosis severity. These findings highlight the role of the oral-gut-liver axis in metabolic dysfunction-associated steatotic liver disease progression and suggest potential microbial biomarkers and therapeutic targets.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1371/journal.pone.0363551",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43077432/"
+  },
+  {
+   "pmid": "43077421",
+   "title": "In vitro functional evaluation of toothbrushes using two standardized models of the smooth and interproximal surface model",
+   "journal": "PloS one",
+   "pub_date": "2026-11",
+   "authors": "Endoh M, Tsuji Y, Jinushi T et al.",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In this study, we confirmed that it is possible to significantly detect differences in toothbrush functionality (cleaning and following ability of toothbrush) by using two in vitro models of partial tooth-surface. Continued development of these models can potentially contribute to the standardization of toothbrush evaluation.",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1371/journal.pone.0338683",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43077421/"
+  },
+  {
+   "pmid": "43077313",
+   "title": "Estimating Biological Age in Children: Multiple Methods and Their Clinical Utility",
+   "journal": "Hormone research in paediatrics",
+   "pub_date": "2026-08",
+   "authors": "Rogol AD, Malina RM",
+   "study_type": "",
+   "specs": [
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "We close with a short discussion of modern methods for the estimation of BA noting that these biological methods depend on multi 'omics and DNA methylation, but are more suited to the prediction of adult morbidities than they are to the determination of BA of an individual child at the time of evaluation-the precise parameter of interest at that time. BA may be determined by multiple methods, but it is important to use a method appropriate for…",
+   "summary_ar": "",
+   "takeaway_ar": "",
+   "title_ar": "",
+   "doi": "10.1159/hrp/adaag018",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43077313/"
+  }
+ ]
+}
