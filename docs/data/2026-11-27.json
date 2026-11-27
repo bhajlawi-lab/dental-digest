@@ -1,0 +1,710 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T16:44+03:00",
+ "ai_summaries": true,
+ "demo": false,
+ "items": [
+  {
+   "pmid": "43099544",
+   "title": "Systemic and local oxidative stress biomarkers in periodontitis: an updated systematic review and meta-analysis",
+   "journal": "BMC oral health",
+   "pub_date": "2026-08",
+   "authors": "Chen W, Ling X, Li W et al.",
+   "study_type": "تحليل تجميعي",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Periodontitis is merely associated rather than causally linked with impaired antioxidant capacity and elevated oxidative stress, particularly in local biofluids. Although saliva and GCF show higher detection sensitivity than blood, such superiority needs further validated by well-designed comparative statistical studies.",
+   "summary_ar": "هدفت هذه المراجعة المنهجية والتحليل التجميعي إلى تقييم مؤشرات الإجهاد التأكسدي (Oxidative Stress) في اللعاب، والسائل اللثوي الغمدي (Gingival Crevicular Fluid - GCF)، والدم لدى مرضى التهاب الدواعم (Periodontitis) مقارنة بالأصحاء. شمل البحث 62 دراسة، وأظهرت النتائج انخفاضاً ملحوظاً في السعة المضادة للأكسدة الكلية (Total Antioxidant Capacity - TAOC) وارتفاعاً في مؤشرات الأكسدة مثل مالونديالديهايد (Malondialdehyde - MDA) لدى المرضى، خاصة في السوائل المحلية (اللعاب وGCF).",
+   "takeaway_ar": "يرتبط التهاب الدواعم (Periodontitis) بضعف السعة المضادة للأكسدة وزيادة الإجهاد التأكسدي (Oxidative Stress) محلياً وعاماً، مع ضرورة الحذر إذ إن العلاقة ترابطية وليست سببية مؤكدة وتوجد تباينات بين الدراسات.",
+   "title_ar": "المؤشرات الحيوية للإجهاد التأكسدي (Oxidative Stress) العام والمحلي في التهاب الدواعم (Periodontitis): مراجعة منهجية مُحدثة وتحليل تجميعي (Meta-analysis)",
+   "doi": "10.1186/s12903-026-09434-9",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43099544/"
+  },
+  {
+   "pmid": "43097240",
+   "title": "Associations of systemic conditions and antiresorptive medication exposure with peri-implant outcomes: a systematic review",
+   "journal": "International journal of implant dentistry",
+   "pub_date": "2026-11",
+   "authors": "Tanumiharja LJS, Deschner J",
+   "study_type": "مراجعة منهجية",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Restrictive searching, retrieval loss and inconsistent exclusion decisions limit completeness and confidence. The evidence cannot establish equivalence to healthy populations, uniform safety or diagnosis-wide contraindications. Osteoporosis and antiresorptive exposure require separate interpretation. No external funding was reported.",
+   "summary_ar": "هدفت هذه المراجعة المنهجية إلى تقييم ارتباط الحالات الجهازية والأدوية مضادة ارتشاف العظام بنتائج زراعة الأسنان (Peri-implant outcomes). شملت التوليف النهائية 38 دراسة، وأظهرت النتائج تبايناً في تأثير داء السكري (Diabetes)، بينما أشارت بعض مقارنات السمنة (Obesity) والتعرض للأدوية المذكورة إلى نتائج أقل ملاءمة مع وجود عوامل مربكة تحد من تفسيرها. كما وُجد أن جودة الأدلة للعديد من المقارنات كانت منخفضة للغاية، مما يعكس محدودية الثقة في النتائج.",
+   "takeaway_ar": "تشير الدراسة إلى ضرورة التعامل بحذر مع المرضى الذين يعانون من هشاشة العظام (Osteoporosis) أو من يتعاطون أدوية مضادة لارتشاف العظام عند التخطيط لزراعة الأسنان، مع ضرورة مراعاة حدود الأدلة الحالية وعدم تعميمها.",
+   "title_ar": "ارتباطات الحالات الجهازية (Systemic conditions) والتعرض للأدوية مضادة ارتشاف العظام (Antiresorptive medication) بنتائج زراعة الأسنان (Peri-implant outcomes): مراجعة منهجية",
+   "doi": "10.1186/s40729-026-00737-8",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43097240/"
+  },
+  {
+   "pmid": "43099491",
+   "title": "Clinical performance of Bioflx versus stainless steel crowns in primary mandibular second molars: a randomized controlled trial",
+   "journal": "BMC oral health",
+   "pub_date": "2026-09",
+   "authors": "Joshi N, Rai K, Nair MR",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "prosth",
+     "label": "تعويضات"
+    },
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "While Bioflx crowns provide improved esthetics with acceptable functional and radiographic outcomes, stainless steel crowns demonstrate superior long-term morphologic stability and gingival response. Bioflx crowns may serve as an esthetic alternative for restoring primary molars, although further long-term studies are required to confirm their durability.",
+   "summary_ar": "هدفت هذه الدراسة إلى مقارنة الأداء السريري والشعاعي لتيجان الفولاذ المقاوم للصدأ (Stainless Steel Crowns) وتيجان (Bioflx) في 68 ضرسًا مؤقتًا سفليًا ثانيًا خضع لمعالجة لبية (Endodontically Treated) لدى أطفال تتراوح أعمارهم بين 3 و8 سنوات على مدار 12 شهرًا. أظهرت النتائج أن كلا النوعين قدم توافقاً إكلينيكياً جيداً، إلا أن تيجان الفولاذ المقاوم للصدأ تفوقت في الاستقرار الشكلاني وصحة اللثة (Gingival Health) عند متابعة 12 شهرًا.",
+   "takeaway_ar": "توفر تيجان (Bioflx) بديلًا جماليًا مقبولاً لترميم الأضراس المؤقتة، لكن تيجان الفولاذ المقاوم للصدأ (Stainless Steel Crowns) تظل تتفوق في الاستقرار طويل الأمد، مما يتطلب إجراء المزيد من الدراسات لتأكيد متانتها.",
+   "title_ar": "الأداء السريري لتيجان (Bioflx) مقارنة بتيجان الفولاذ المقاوم للصدأ (Stainless Steel Crowns) في الأضراس السفلية المؤقتة الثانية: تجربة عشوائية مضبوطة",
+   "doi": "10.1186/s12903-026-09717-1",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43099491/"
+  },
+  {
+   "pmid": "43098887",
+   "title": "Comparative Evaluation of Open Flap Debridement Alone and In Combination with Bone Graft in the Treatment of Vertical Bony Defects in Periodontitis",
+   "journal": "Kathmandu University medical journal (KUMJ)",
+   "pub_date": "2026",
+   "authors": "Subedi G, Rijal AH, Lamichhane S et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The present study failed to demonstrate any superior clinical outcomes for Group B compared to Group A in terms of clinical parameters but radiographs revealed superior results in favor of group B. Hence, biphasic calcium phosphate can be considered as a potential periodontal regenerative material for the treatment of vertical bony defects in periodontitis.",
+   "summary_ar": "هدفت هذه التجربة العشوائية المضبوطة إلى مقارنة فعالية تجريف السديلة المفتوحة (Open Flap Debridement) وحدها مقابل استخدامها مع طعم عظمي خيفي بلاستيكي (Alloplastic Bone Graft - فوسفات الكالسيوم ثنائي الطور Biphasic Calcium Phosphate) لعلاج العيوب العظمية العمودية لدى 24 مريضاً. أظهرت النتائج عدم وجود فروق ذات صلة إحصائية بين المجموعتين في المعايير السريرية، بينما وُجد تحسن ملحوظ ذو دلالة إحصائية في تعبئة العيوب شعاعياً لصالح مجموعة الطعم العظمي بعد 6 أشهر.",
+   "takeaway_ar": "على الرغم من تفوق الطعم العظمي فوسفات الكالسيوم ثنائي الطور (Biphasic Calcium Phosphate) شعاعياً في ملء العيوب، إلا أنه لم يُظهر تحسناً معيارياً في النتائج السريرية مقارنة بالتجريف وحده، مما يتطلب الحذر في تفسير تفوقه السريري المطلق بناءً على عينة الدراسة الصغيرة.",
+   "title_ar": "التقييم المقارن لتجريف السديلة المفتوحة وحدها مقابل استخدامها مع طعم عظمي (Bone Graft) في علاج العيوب العظمية العمودية (Vertical Bony Defects) في التهاب دواعم السن (Periodontitis)",
+   "doi": "",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43098887/"
+  },
+  {
+   "pmid": "43097545",
+   "title": "Different clinical approaches for residual periodontal pockets in stage IV periodontitis: a randomized clinical trial",
+   "journal": "Brazilian oral research",
+   "pub_date": "2026-11",
+   "authors": "Luchesi VH, Nishii D, Pimentel SP et al.",
+   "study_type": "تجربة عشوائية مضبوطة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In patients with generalized Stage IV, Grade C periodontitis with RPs, SI-based approaches were effective in improving the primary outcome. Adjunctive PDT, but not PDT as monotherapy, may be considered a therapeutic option.",
+   "summary_ar": "هدفت هذه التجربة السريرية العشوائية ذات الفم المشقوق (split-mouth) إلى تقييم فعالية طرق علاجية مختلفة للجيوب اللثوية المتبقية بعد العلاج الأولي لدى 20 مريضاً يعانون من التهاب لدعم الأسنان (periodontitis) من المرحلة الرابعة والدرجة C. شملت الطرق المدروسة العلاج الضوئي الديناميكي (photodynamic therapy - PDT)، والآلات تحت اللثة (subgingival instrumentation - SI)، وتنظيف الجيوب المفتوحة (open-flap debridement - OFD)، وأظهرت النتائج أن النهج القائم على الآلات تحت اللثة (SI) وحده أو بالإضافة إلى العلاج الضوئي الديناميكي (SI+PDT) حقق تحسناً كبيراً ومستداماً في مستوى الارتباط السريري النسبي (relative clinical attachment level - RCAL) خلال 12 شهراً.",
+   "takeaway_ar": "تشير هذه النتائج إلى أن المقاربات القائمة على الآلات تحت اللثة (SI) فعالة في تحسين النتائج السريرية للجيوب اللثوية المتبقية في حالات التهاب لدعم الأسنان المتقدم، مع احتمالية الاستفادة من إضافة العلاج الضوئي الديناميكي (PDT)، رغم ضرورة الحذر نظراً لصغر حجم العينة (20 مريضاً).",
+   "title_ar": "مقاربة المقاربات السريرية المختلفة للجيوب اللثوية المتبقية (residual periodontal pockets) في التهاب لدعم الأسنان (periodontitis) من المرحلة الرابعة: تجربة سريرية عشوائية",
+   "doi": "10.1590/1807-3107bor-2026.vol40.105",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43097545/"
+  },
+  {
+   "pmid": "43099913",
+   "title": "The Oral Health and Dental Service Utilization Among Newcomers to Canada: A Scoping Review",
+   "journal": "JDR clinical and translational research",
+   "pub_date": "2026-11",
+   "authors": "Borges G, Taj TK, Currie C et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Newcomers to Canada, particularly refugees, appear to experience considerable oral health challenges driven by structural and intermediary determinants such as financial constraints, lack of insurance, and psychosocial distress. The findings reveal significant gaps in the literature, particularly limited evidence from international students and on minority populations.Knowledge Transfer Statement:This scoping review highlights critical gaps in…",
+   "summary_ar": "استهدفت هذه المراجعة النطاقية تقييم حالة صحة الفم وأنماط استخدام خدمات طب الأسنان والعوامل المرتبطة بها بين الوافدين الجدد إلى كندا، وذلك عبر تحليل 26 دراسة شملت تصاميم رصدية ونوعية ونشرت بين عامي 2014 و2025. أظهرت النتائج ارتفاع معدلات تسوس الأسنان (Dental Caries) وأمراض اللثة (Periodontal Disease) وخصوصاً بين الأطفال والبالغين من اللاجئين، مع الاعتماد المتكرر على رعاية الطوارئ وتأخير العلاج بسبب قيود مادية وغياب التأمين.",
+   "takeaway_ar": "تشير هذه النتائج إلى أن الوافدين الجدد يواجهون تحديات كبيرة في صحة الفم مدفوعة بعوامل مالية ونفسية اجتماعية، مما يبرز الحاجة لسياسات مستهدفة ورعاية حساسة ثقافياً، مع ضرورة الحذر نظراً لأن معظم الأدلة مستمدة من دراسات مقطعية مع وجود نقص في البيانات حول الطلاب الدوليين.",
+   "title_ar": "صحة الفم (Oral Health) واستخدام خدمات طب الأسنان (Dental Service Utilization) بين الوافدين الجدد إلى كندا: مراجعة نطاقية (Scoping Review)",
+   "doi": "10.1177/23800844261507027",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43099913/"
+  },
+  {
+   "pmid": "43099865",
+   "title": "Epigenome Editing in Endodontics: Current Evidence and Translational Prospects",
+   "journal": "International endodontic journal",
+   "pub_date": "2026-11",
+   "authors": "Zhang Q, Sun Q, Tay F",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Epigenome editing could provide targeted control of reparative, regenerative and inflammatory responses in endodontics without intentional DNA sequence modification. Potential reversibility must be demonstrated for each target and editor. Current evidence supports mechanistic investigation; clinical development requires editor-attributable tissue benefit and an advantage over simpler interventions.",
+   "summary_ar": "استعرضت هذه الدراسة المرجعية الأدلة المتاحة حول استخدام تحرير الجينوم الفوقي (Epigenome editing) للتحكم في التعبير الجيني دون تغيير تسلسل الحمض النووي (DNA). أظهرت النتائج أدلة مباشرة محدودة على الخلايا الجذعية للب الأسنان البشري (human dental pulp stem cells)، مثل تحفيز أسيتلة المحفز (promoter acetylation) لجين (FKBP5) وزيادة كثافة معادن العاج (dentine mineral density) بعد زرع الخلايا المنشطة لجين (BDNF)، رغم بقاء تحديات تتعلق بالتوصيل، والأمان، والتأثيرات خارج الهدف (off-target effects).",
+   "takeaway_ar": "يوفر تحرير الجينوم الفوقي إمكانات واعدة للتحكم في الاستجابات الاصلاحية والالتهابية مستقبلاً، إلا أن الأدلة الحالية تقتصر على الأبحاث المخبرية وتتطلب مزيداً من الدراسات قبل تطبيقها في الممارسة السريرية.",
+   "title_ar": "تحرير الجينوم الفوقي (Epigenome Editing) في طب اللب (Endodontics): الأدلة الحالية وآفاق الترجمة السريرية",
+   "doi": "10.1111/iej.70317",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43099865/"
+  },
+  {
+   "pmid": "43099664",
+   "title": "Precision periodontal therapy leveraging artificial intelligence",
+   "journal": "Periodontology 2000",
+   "pub_date": "2026-11",
+   "authors": "Feher B, Busch CV, de Souza Oliveira EH et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "digital",
+     "label": "رقمي وذكاء اصطناعي"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Although the evidence base remains small and heterogeneous, AI- and ML-based prognostic modeling provides a promising foundation for precision periodontal therapy by enabling individualized prediction of treatment outcomes. The next step is to move toward causal ML methods that estimate individualized treatment effects, enabling truly personalized periodontal treatment selection.",
+   "summary_ar": "دُرست النماذج التنبؤية القائمة على الذكاء الاصطناعي وتعلُّم الآلة (Machine learning) لتوقع نتائج علاج أمراض اللثة (Periodontal treatment) الفردية. استعرضت المراجعة الأدبيات الحالية ووجدت ثلاثة أبحاث فقط طورت نماذج تنبؤية حقيقية بنتائج أفقية تصل إلى عام واحد. تشير الأدلة المتاحة إلى إمكانية التنبؤ بمستوى الموقع والمريض، رغم محدودية الأدلة وقوتها الحالية.",
+   "takeaway_ar": "يمثل استخدام الذكاء الاصطناعي وتعلُّم الآلة أساساً واعداً لعلاج اللثة الدقيق، إلا أن الأدلة ما زالت محدودة وتتطلب تطوير طرق سببية لتقدير تأثيرات العلاج الفردية بدقة قبل تطبيقها السريري الواسع.",
+   "title_ar": "علاج اللثة الدقيق (Precision periodontal therapy) بالاستفادة من الذكاء الاصطناعي (Artificial intelligence)",
+   "doi": "10.1111/prd.70109",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43099664/"
+  },
+  {
+   "pmid": "43099453",
+   "title": "Knowledge of medical students regarding the cariogenic potential of paediatric liquid medications: a cross-sectional study",
+   "journal": "BMC oral health",
+   "pub_date": "2026-09",
+   "authors": "Marqués-Martínez L, Olano-López C, Aura-Tormos JI et al.",
+   "study_type": "دراسة رصدية",
+   "specs": [
+    {
+     "id": "pedo",
+     "label": "أطفال"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Future prescribers showed a relevant gap in knowledge of the cariogenic composition of paediatric liquid medications. Integrating concise, prescribing-focused oral-health content into medical curricula may improve risk recognition and support interdisciplinary prevention of medication-associated dental disease.",
+   "summary_ar": "استهدفت هذه الدراسة المقطعية تقييم معرفة طلاب الطب بالسنة الخامسة والسادس بخصوص التركيب المسبب للتسوس (cariogenic) للأدوية السائلة للأطفال ومخاطرها الفموية. شملت الدراسة 114 طالباً أتمّوا استبياناً منظماً، وأظهرت النتائج أن معظم المشاركين أدركوا طعم الأدوية الحلو، لكن 24.6% فقط تمكنوا من تحديد السكروز (sucrose). وفي حين ربط 71.1% من الطلاب بين الأدوية السائلة والتغيرات السنية، كانت معرفة التركيب الدوائي هي المسبب الوحيد المستقل لتصور المخاطر السنية.",
+   "takeaway_ar": "تشير النتائج إلى وجود قصور في معرفة الأطباء المستقبليين بالمحتوى المسبب للتسوس للأدوية السائلة للأطفال، مما يدعو لإدراج محتوى صحي فمي ضمن المناهج الطبية رغم الحاجة لمزيد من الأدلة السريرية.",
+   "title_ar": "معرفة طلاب الطب (medical students) بشأن القدرة المسببة للتسسوس للأدوية السائلة للأطفال (paediatric liquid medications): دراسة مقطعية",
+   "doi": "10.1186/s12903-026-09533-7",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43099453/"
+  },
+  {
+   "pmid": "43099290",
+   "title": "Periodontitis as rare disease manifestation: Current therapeutic evidence. A systematic review",
+   "journal": "Periodontology 2000",
+   "pub_date": "2026-11",
+   "authors": "Kapferer-Seebacher I, Radulova D, Eickholz P",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Conventional periodontal therapy may achieve long-term stability in patients with rare systemic diseases presenting with periodontitis. The results indicate that long-term treatment outcomes appear primarily adherence-driven rather than protocol-dependent. For PLS, strategies to eliminate A. actinomycetemcomitans may enhance prognosis.",
+   "summary_ar": "هدفت هذه المراجعة المنهجية لتقييم فعالية علاج دواعم السن (Periodontal therapy) لدى المرضى الذين يعانون من أمراض جهازية نادرة (Rare systemic diseases) تتجلى في شكل التهاب دواعم السن، مع التركيز على فقدان الأسنان (Tooth loss) كنتيجة رئيسية. شملت الدراسة 69 فرداً من 50 منشوراً (متوسط أعمارهم 8.5 سنوات)، حيث غطت متلازمة بابيون-ليفِور (Papillon-Lefèvre syndrome - PLS) غالبية الحالات. أظهرت النتائج أن العلاج التقليدي لدواعم السن حقق استقراراً طويل الأمد لدى نحو نصف المرضى، وأن الالتزام برعاية دواعم السن الداعمة (Supportive periodontal care - SPC) كان العامل الأساسي المرتبط بنجاح العلاج.",
+   "takeaway_ar": "قد يحقق علاج دواعم السن التقليدي استقراراً طويل الأمد للمرضى الذين يعانون من أمراض جهازية نادرة مصحوبة بالتهاب الأنسجة الداعمة، مع العلم أن نجاح العلاج يعتمد بشكل أساسي على التزام المريض بالرعاية الداعمة، مع محدودية الأدلة المستندة غالباً إلى تقارير حالات فردية.",
+   "title_ar": "التهاب الأنسجة الداعمة للأسنان (Periodontitis) كتجلي لمرض نادر: الأدلة العلاجية الحالية، مراجعة منهجية",
+   "doi": "10.1111/prd.70097",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43099290/"
+  },
+  {
+   "pmid": "43098586",
+   "title": "Regenerative Endodontic Treatment in Traumatized Immature Permanent Teeth: How Predictable Is the Outcome?",
+   "journal": "Dental traumatology : official publication of International Association for Dental Traumatology",
+   "pub_date": "2026-11",
+   "authors": "Wikström A, Sobczak M, Tewari N",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "endo",
+     "label": "العصب"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Whether RET provides a long-term survival advantage over apexification remains uncertain. Much of the available evidence derives from mixed populations of traumatic and developmental etiologies, and trauma-related pulp necrosis is associated with poorer continued root maturation.",
+   "summary_ar": "استهدفت هذه المراجعة تلخيص الأدلة الحالية حول الأسس البيولوجية والنتائج والإنذار طويل الأجل لعلاج لب الأسنان التجديدي في الأسنان الدائمة غير المكتملة النمو بعد الإصابات الرضحية. بينت الدراسة من خلال تنيسق الأدلة السريرية والانتقالية أن التئام ذروة الجذر (periapical healing) يُحقق بشكل متسق، بينما يعد استمرار نمو الجذر أقل قابلية للتنبؤ، ولم تثبت بعد إمكانية التجديد السريري لمُعقد اللب والعاج (pulp-dentin complex) الوظيفي.",
+   "takeaway_ar": "على الرغم من نجاح علاج لب الأسنان التجديدي في تحقيق الشفاء الذروي، إلا أن استمرار نمو الجذر يظل غير مؤكد؛ مما يتطلب حذرًا في التنبؤ بالنجاح طويل الأجل مقارنة بالطرق التقليدية نظراً لتأثر النتائج بشدة الإصابة.",
+   "title_ar": "علاج لب السنان التجديدي (Regenerative Endodontic Treatment - RET) في الأسنان الدائمة غير المكتملة النمو والمصابة بصدمات: ما مدى قابلية التنبؤ بالنتيجة؟",
+   "doi": "10.1111/edt.70160",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43098586/"
+  },
+  {
+   "pmid": "43098301",
+   "title": "A Review of Mathematical Modeling of Orthodontic Alveolar Bone Remodeling: From Mechanical Regulation to Multiscale Mechanobiology",
+   "journal": "Progress in biophysics and molecular biology",
+   "pub_date": "2026-11",
+   "authors": "Zhou Z, Jiang D, Cheng K et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In particular, how mechanical stimuli are transmitted through the PDL, trabecular architecture, and interstitial fluid flow and subsequently converted into biological signals sensed by cells remains insufficiently quantified. Future work should therefore focus on establishing reliable quantitative relationships between mechanical stimuli and biological responses, thereby improving the predictive accuracy, experimental testability, and…",
+   "summary_ar": "تلخص هذه المراجعة تطور النماذج الرياضية لإعادة تشكيل العظم السنخي التقويمي من خلال مسارين مترابطين: مسار قائم على الميكانيكا يركز على بيئة الإجهاد والانفعال، ومسار قائم على الأحياء يركز على ديناميكيات الخلايا العظمية (Osteoblasts and osteoclasts) والآليات الجزيئية. تشير الدراسة إلى أن النماذج الحديثة تسعى لدمج هذين المسارين، لكنها تواجه تحدياً رئيسياً يتمثل في نقص القياسات الكمية الدقيقة لكيفية تحويل المحفزات الميكانيكية إلى إشارات بيولوجية.",
+   "takeaway_ar": "على الرغم من تقدم نماذج النمذجة الرياضية لحركة الأسنان التقويمية (Orthodontic tooth movement)، إلا أن قصور الارتباط الكمي بين النطاقات المختلفة يحد حالياً من دقتها السريرية وقابليتها للتطبيق الفردي.",
+   "title_ar": "مراجعة للنمذجة الرياضية لإعادة تشكيل العظم السنخي التقويمي (Orthodontic Alveolar Bone Remodeling): من التنظيم الميكانيكي إلى الميكانيكا الحيوية متعددة النطاقات (Multiscale Mechanobiology)",
+   "doi": "10.1016/j.pbiomolbio.2026.101975",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43098301/"
+  },
+  {
+   "pmid": "43096184",
+   "title": "\"Ecology-based approaches for prevention of biofilm formation on the surface of restorative materials in the oral cavity\"",
+   "journal": "Critical reviews in microbiology",
+   "pub_date": "2026-11",
+   "authors": "Pfeifer CS, S De Lucena F, Merritt JL",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "To further improve antibiotic stewardship, the sequestration of such inhibitors on the surface of biomaterials has been recently proposed. This review will focus on these ecology-based approaches to prevent biofilm formation specifically on the surface of materials, which has implications for the biomedical field in any application where biomaterials interface with the body.",
+   "summary_ar": "استعرضت هذه الدراسة المراجعة النهج البيئي الحديث للوقاية من تكوّن الأغشية الحيوية البكتيرية على أسطح المواد الحيوية (Biomaterials) بدلاً من استخدام المضادات الحيوية واسعة الطيف. ركزت على استراتيجيات مثل الأسطح المضادة للتلوث (Antifouling surfaces) واستخدام جزيئات صغيرة ومثبطات انتقائية لإنتاج الجلوكان بواسطة بكتيريا المكورات العقدية الطففية (Streptococcus mutans) لمنع تكون مصفوفة المادة الإضافية خارج الخلية (EPS). خلصت المراجعة إلى أن تثبيت هذه المثبطات على أسطح المواد الترميمية يعد واعداً للحد من تكوّن الأغشية الحيوية وتحسين الإشراف على المضادات الحيوية.",
+   "takeaway_ar": "تمثل استراتيجيات تعديل أسطح المواد الترميمية لمنع تكوّن الأغشية الحيوية اتجاهاً واعداً لتحسين صحة الفم، ولكن تظل هناك حاجة لمزيد من الأدلة السريرية لتأكيد فعاليتها على المدى الطويل.",
+   "title_ar": "النهج القائم على البيئة (Ecology-based approaches) للوقاية من تكوّن الأغشية الحيوية (Biofilm formation) على سطح المواد الترميمية في تجويف الفم",
+   "doi": "10.1080/1040841X.2026.2766149",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43096184/"
+  },
+  {
+   "pmid": "43095508",
+   "title": "Contemporary Soft Tissue Management of Peri-Implantitis: Current Concepts for Long-Term Implant Care",
+   "journal": "Cureus",
+   "pub_date": "2026-10",
+   "authors": "Lee K, Shum K, Kurtzman GM",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Augmentation is an adjunct to disease control, implant-surface and osseous-defect management, prosthetic correction, and supportive care. Improved tissue dimensions should not be interpreted as evidence of improved peri-implantitis resolution or implant survival; the independent long-term benefit of augmentation remains uncertain.",
+   "summary_ar": "تناولت هذه المقالة المراجعة مفاهيم بيولوجيا الأنسجة الرخوة حول الغرسات، وتطعيم الأنسجة، والكونتور التعويضي (prosthetic contours)، والصيانة. استندت الدراسة إلى مراجعة انتقائية للأدبيات العلمية دون تقييم رسمي لليقين في الأدلة. وأظهرت النتائج أن زيادة عرض أو سماكة الغشاء المتقرن (keratinized mucosa) لم تثبت باستمرار قدرتها على تقليل نكس التهاب حول الغرسات بشكل مستقل، كما يظل الفائدة طويلة الأمد لعمليات التطعيم غير مؤكدة.",
+   "takeaway_ar": "يُعد تطعيم الأنسجة الرخوة إجراءً مساعداً للتحكم بالمرض، إلا أن تحسين أبعاد الأنسجة لا يضمن بمفرده علاج التهاب حول الغرسات أو زيادة بقاء الغرسات، نظراً لمحدودية الأدلة المتاحة.",
+   "title_ar": "تدبير الأنسجة الرخوة المعاصرة لالتهاب حول الغرسات (Peri-implantitis): المفاهيم الحالية لرعاية الغرسات على المدى الطويل",
+   "doi": "10.7759/cureus.118615",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43095508/"
+  },
+  {
+   "pmid": "43095232",
+   "title": "A Reporting-Quality Audit on the Completeness of Sample-Size Parameters of Randomized Controlled Trials Published in Implant Dentistry from 2005-2009 and 2020-2024",
+   "journal": "Acta medica Philippina",
+   "pub_date": "2026-10",
+   "authors": "Rivera AL, Lachica MRCT, Ramos TNC et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Reporting of sample-size parameters in implant dentistry RCTs improved substantially between the two periods. However, variability and MCRD remain underreported in roughly one-third of recent trials, suggesting that targeted editorial guidance and standardized templates could close the remaining gap.",
+   "summary_ar": "قياس مدى اكتمال الإبلاغ عن معاملات حساب حجم العينة في التجارب السريرية العشوائية (RCTs) المنشورة في طب أسنان الزراعة (implant dentistry) ومقارنة ذلك بين فترتي 2005-2009 و2020-2024 عبر مراجعة 259 دراسة من قاعدة بيانات PubMed. أظهرت النتائج تحسناً ملحوظاً في متوسط درجات الاكتمال من 1.25 إلى 2.88، مع بقاء بعض المعاملات مثل التباين وتأثير حجم العينة غير مبلغ عنها في نحو ثلث التجارب الحديثة.",
+   "takeaway_ar": "على الرغم من التحسن الملحوظ في توثيق حجم العينة، إلا أن النقص المستمر في الإبلاغ عن بعض المعاملات يتطلب توجيهات تحريرية أدق لضمان موثوقية الأبحاث المستقبلية في طب أسنان الزراعة (implant dentistry).",
+   "title_ar": "تدقيق جودة التقارير لاكتمال معاملات حجم العينة (sample-size parameters) في التجارب السريرية العشوائية (RCTs) المنشورة في طب أسنان الزراعة (implant dentistry) بين فترتي 2005-2009 و 2020-2024",
+   "doi": "10.47895/amp.v60i19.14064",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43095232/"
+  },
+  {
+   "pmid": "43088002",
+   "title": "Incisor Inclination Revisited: A Proposed Structural Compatibility Framework for Individualized Treatment Planning",
+   "journal": "Bioengineering (Basel, Switzerland)",
+   "pub_date": "2026-10",
+   "authors": "Kuc AE, Kuc N, Kuc P et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The proposed framework makes the reconciliation of angular objectives, root trajectory, and tissue preservation explicit. Measurement reliability, added value over existing assessment, and clinical benefit require separate evaluation.",
+   "summary_ar": "هدفت الدراسة إلى اقتراح إطار للتوافق الهيكلي لجعل تطبيع القياسات الرأسية (Cephalometric normalization) هدفاً علاجياً مشروطاً للقواطع العلوية والسفلية الدائمة. استخدمت الدراسة تحليلاً مفاهيمياً سردياً دمج الأدلة التشريحية والرأسية والميكانيكية الحيوية المتاحة دون إجراء قياسات على المرضى. أظهرت النتائج ضرورة التمييز بين اختيار الهدف الزاوية وتقييم مسار الجذر (Root trajectory)، مع التأكيد على أن تحقيق قيمة مرجعية رأسية لا يعني بالضرورة تحسناً بيولوجياً.",
+   "takeaway_ar": "يعني هذا الإطار للممارسة السريرية ضرورة الموازنة بين الأهداف الزاوية ومسار الجذر والحفاظ على الأنسجة، مع الاحتياج إلى تقييم إكلينيكي مستقل نظراً لعدم وجود تحقق إكلينيكي مباشر في الدراسة.",
+   "title_ar": "إعادة النظر في ميل القواطع (Incisor Inclination): إطار مقترح للتوافق الهيكلي لتخطيط العلاج الفردي",
+   "doi": "10.3390/bioengineering13111277",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43088002/"
+  },
+  {
+   "pmid": "43087965",
+   "title": "Direct 3D-Printed Clear Aligners: Materials, Biomechanics, and Clinical Application-A Narrative Review",
+   "journal": "Bioengineering (Basel, Switzerland)",
+   "pub_date": "2026-10",
+   "authors": "Mahmalji T, Kim SJ, Khan TA et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In conclusion, directly printed aligners provide important manufacturing and design capabilities, but current evidence does not establish uniform clinical superiority over thermoformed appliances. Standardized material characterization validated manufacturing protocols, prospective clinical studies, and longer-term aging investigations are required before the relative clinical performance of the two approaches can be determined.",
+   "summary_ar": "هدفت هذه المراجعة السردية إلى تجميع الأدلة حول علوم المواد، وتقنيات التصنيع الإضافي (Additive-Manufacturing)، والميكانيكا الحيوية للأجهزة التقويمية الشفافة المطبوعة مباشرة ومقارنتها بالأجهزة المُشكَّلة حرارياً (Thermoformed Appliances). أظهرت الدراسات المخبرية دقة هندسية مواتية وخصائص قوى مختلفة تعتمد على المادة والطابعة، بينما لا يزال الدليل السريري محدوداً وغير متجانس. استنتجت الدراسة أن المقياسات المطبوعة مباشرة توفر قدرات تصنيع متقدمة، لكن الأدلة الحالية لا تثبت تفوقها السريري الموحد على الأجهزة التقليدية.",
+   "takeaway_ar": "توفر المقومات المطبوعة مباشرة مرونة في التصميم، لكن الأدلة الحالية لا تثبت تفوقها السريري الموحد على الأجهزة التقليدية، مما يتطلب دراسات سريرية استباقية قبل الجزم بأفضليتها السريرية.",
+   "title_ar": "المقومات التقويمية الشفافة المطبوعة ثلاثية الأبعاد مباشرة (Direct 3D-Printed Clear Aligners): المواد، الميكانيكا الحيوية، والتطبيق السريري - مراجعة سردية",
+   "doi": "10.3390/bioengineering13111240",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43087965/"
+  },
+  {
+   "pmid": "43087893",
+   "title": "Extracellular Vesicles as Diagnostic Tools and Pathogenic Mediators in Periodontitis and Peri-Implantitis: A Systematic Review of Human Evidence",
+   "journal": "Biomedicines",
+   "pub_date": "2026-11",
+   "authors": "Hashim NT, Askar A, Al Nasrawi M et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Conclusions: EVs are biologically plausible candidates for disease characterization and treatment monitoring, but certainty is low for diagnosis and treatment monitoring and very low for therapeutic efficacy, and their incremental value over existing tools has not been tested. Harmonized host-EV methods, head-to-head comparisons and independent validation are priorities, followed by prospective risk-prediction cohorts.",
+   "summary_ar": "استهدفت هذه المراجعة المنهجية تقييم الأدلة البشرية حول دور الحويصلات خارج الخلايا (Extracellular Vesicles) في أمراض دواعم السن وحول الزرعات من خلال تحليل 16 دراسة. أظهرت النتائج ارتفاع تركيز الحويصلات في السائل اللثوي وسائل حول الزرعات (Crevicular Fluid) مع وجود اتساق في مسارات الالتهاب المرتبطة ببروتينات المتمم والسيتوكينات (Cytokines)، رغم تباين النتائج الفردية للمؤشرات الحيوية بسبب اختلاف طرق العزل وصغر حجم العينات. خلصت الدراسة إلى أن اليقين الأدلي لتشخيص الأمراض ومراقبة العلاج لا يزال منخفضاً مع عدم اختبار قيمتها الإضافية مقارنة بالمؤشرات الحالية.",
+   "takeaway_ar": "تُعد الحويصلات خارج الخلايا واعدة كمؤشرات بيولوجية للمستقبل، لكن استخدامها السريري الحالي محدود لعدم كفاية الأدلة التشخيصية وغياب المقارنات المباشرة مع المؤشرات التقليدية.",
+   "title_ar": "الحويصلات خارج الخلايا (Extracellular Vesicles) كأدوات تشخيصية ووسطاء ممرضين في التهاب دواعم السن (Periodontitis) والتهاب حول الزرعات (Peri-Implantitis): مراجعة منهجية للأدلة البشرية",
+   "doi": "10.3390/biomedicines14112637",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43087893/"
+  },
+  {
+   "pmid": "43087824",
+   "title": "Osteoimmunomodulatory and Mechanobiology-Guided Biomaterials for Craniofacial and Alveolar Bone Regeneration",
+   "journal": "Biomedicines",
+   "pub_date": "2026-11",
+   "authors": "Hu Z, Li Y, Ren Y",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "general",
+     "label": "عام"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "We highlight key design strategies, including surface engineering, scaffold architecture, bioactive ion release, and immunoregulatory factor delivery, together with selected responsive biomaterials and extracellular vesicle-based delivery systems. Finally, we address the major challenges limiting clinical translation and discuss how material functions may be coordinated with the changing immune and mechanical requirements of repair, while…",
+   "summary_ar": "استعرضت هذه الدراسة المرجعية دور المواد الحيوية في تعديل الاستجابة المناعية والبيئة الميكانيكية لتحسين تجديد العظام في تجويف الفم. ناقشت الورقة استراتيجيات التصميم الحديثة مثل هندسة الأسطح، وبنية السقالات، وإطلاق الأيونات الحيوية، وعوامل تنظيم المناعة. وأشارت النتائج إلى أهمية تنسيق وظائف المواد مع متطلبات التئام العظام رغم وجود فجوات بين الآليات المقترحة والأدلة السريرية المتاحة.",
+   "takeaway_ar": "على الرغم من وعد الاستراتيجيات الحديثة في تصميم المواد الحيوية لتعديل المناعة والميكانيكا الحيوية، إلا أن ترجمتها السريرية لا تزال محدودة وتحتاج إلى مزيد من الأدلة لتأكيد فعاليتها.",
+   "title_ar": "المواد الحيوية الموجهة بالمناعة العظمية (Osteoimmunomodulatory) وعلم الأحياء الميكانيكي (Mechanobiology) لتجديد عظام الجمجمة والفكين (Craniofacial and Alveolar Bone Regeneration)",
+   "doi": "10.3390/biomedicines14112569",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43087824/"
+  },
+  {
+   "pmid": "43087720",
+   "title": "Photobiomodulation in Periodontitis: Targeting Matrix Metalloproteinases, Tissue Inhibitors of Metalloproteinases, and Extracellular Matrix Remodeling",
+   "journal": "Biomedicines",
+   "pub_date": "2026-10",
+   "authors": "Ismaili B, Eraković M, Kovačević B et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "In conclusion, PBM may influence MMP-related responses during periodontal healing, but a definite consistent additional effect beyond conventional periodontal therapy has not been established. Future randomized trials should use well-defined non-thermal PBM protocols, identical background periodontal treatment in test and control groups, quantitative assessment of active MMPs and their corresponding TIMPs, and standardized long-term clinical and…",
+   "summary_ar": "استهدفت هذه المراجعة تقييم الأدلة السريرية حول تأثير العلاج الضوئي الحيوي المساعد (adjunctive PBM) على المؤشرات الحيوية مثل MMPs وTIMPs في التهاب دعم السن (Periodontitis). من خلال تحليل 10 دراسات ومراجعة منهجية واحدة، وُجد أن مستويات المؤشر الحيوي MMP-8 تميل للانخفاض بعد العلاج التقليدي بغض النظر عن استخدام PBM، مع تباين النتائج حول إحداث PBM لانخفاض إضافي، بينما كانت الأدلة الخاصة بالمؤشرات الأخرى محدودة ومتجانسة بدرجة منخفضة.",
+   "takeaway_ar": "على الرغم من أن العلاج الضوئي الحيوي (PBM) قد يؤثر على الاستجابات المرتبطة بـ MMP أثناء التئام اللثة، إلا أنه لم يُثبت حتى الآن وجود تأثير إضافي قاطع ومستمر مقارنة بالعلاج التقليدي وحده، مما يتطلب تجارب مستقبلية أكثر توحيداً للمعايير.",
+   "title_ar": "العلاج الضوئي الحيوي (Photobiomodulation - PBM) في التهاب لدعم السن (Periodontitis): استهداف مصفوفة ميتالوبروتينات (Matrix Metalloproteinases - MMPs)، ومثبطات الأنسجة لميتالوبروتينات (Tissue Inhibitors of Metalloproteinases - TIMPs)، وإعادة تشكيل المصفوفة خارج الخلية (Extracellular Matrix Remodeling)",
+   "doi": "10.3390/biomedicines14112464",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43087720/"
+  },
+  {
+   "pmid": "43087202",
+   "title": "Dynamic Covalent-Crosslinked Natural Polymer Hydrogels: Construction Strategies, Property Trade-Offs, and Oral Drug Delivery and Tissue Repair",
+   "journal": "Gels (Basel, Switzerland)",
+   "pub_date": "2026-11",
+   "authors": "Liu J, Li Y, Yan J et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The review summarizes trade-off rules between mechanical performance and dynamic functions and identifies bottlenecks in multi-network regulation, sterilization, and clinical translation. Its added value lies in linking bond chemistry to oral-specific design constraints, rather than cataloguing hydrogel examples alone.",
+   "summary_ar": "استعرضت هذه المراجعة استراتيجيات دمج الروابط التساهمية القابلة للاسترداد (مثل روابط قاعدة شيف Schiff base bonds، وروابط ثيوبريدين disulfide bonds، وإستر البورونيك boronic ester bonds) في شبكات البوليمرات الطبيعية مثل الشيتوزان (chitosan) وحمض الهيالورونيك (hyaluronic acid). وناقشت المراجعة كيفية اختيار هذه الروابط وتنظيم حركيتها تحت القيود الخاصة بتجويف الفم، لربط كيمياء الروابط بتطبيقات توصيل الأدوية وإصلاح الأنسجة في حالات التهاب دواعم السن (periodontitis) وتقرحات الفم. كما حددت الدراسة قواعد المفاضلة بين الأداء الميكانيكي والوظائف الديناميكية، إلى جانب عوائق الترجمة السريرية.",
+   "takeaway_ar": "تقدم هذه المراجعة إطار عمل تصميمي لتطويع الهلاميات المائية الديناميكية للاستخدام الفموي، مع ضرورة الحذر نظراً لكون الأدلة مستمدة من مراجعة وليست تجارب سريرية مباشرة.",
+   "title_ar": "هلاميات مائية (Hydrogels) من بوليمرات طبيعية مترابطة تساهمياً وديناميكياً: استراتيجيات البناء، والمفاضلات بين الخصائص، وتوصيل الأدوية الفموية وإصلاح الأنسجة",
+   "doi": "10.3390/gels12110998",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43087202/"
+  },
+  {
+   "pmid": "43087179",
+   "title": "Advances in Regenerative and Reparative Gels for Oral Applications-From Biomaterial Design to Clinical Practice",
+   "journal": "Gels (Basel, Switzerland)",
+   "pub_date": "2026-10",
+   "authors": "Gradinariu R, Virvescu DI, Budala DG et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Future development should prioritize indication-specific design, standardized characterization, clinically relevant models, reproducible production, and long-term comparative trials. Hydrogels have considerable potential for oral tissue repair, but clinical value will depend on demonstrating safe, stable, practical, and reproducible benefits over existing treatments.",
+   "summary_ar": "استعرضت هذه الدراسة المنهجية التقدم الحاصل في الهلاميات المائية (Hydrogels) لتجديد أنسجة اللثة (Periodontal) وما حول الغرسات (Peri-implant)، ومعقد اللب والعاج (Pulp-dentin complex)، والعظم السنخي، وجوانب أخرى. ومن خلال مراجعة الدراسات المختبرية والحيوانية والسريرية المتاحة حتى سبتمبر 2026، وُجد أن هذه الهلاميات توفر خصائص علاجية واعدة مثل تعديل المناعة وتحفيز تكوين الأوعية الدموية (Angiogenesis) وتحرير الأدوية بشكل متحكم به. ومع ذلك، لا تزال الأدلة السريرية محدودة ومتباينة النتائج مقارنة بالنماذج ما قبل السريرية، مع وجود عوائق تتعلق بالتصنيع والاستقرار التنظيمي.",
+   "takeaway_ar": "تُظهر الهلاميات المائية إمكانات كبيرة لإصلاح الأنسجة الفموية، ولكن ترجمتها إلى الممارسة السريرية تتطلب تجارب مقارنة طويلة الأجل تثبت أمانها وثباتها مقارنة بالعلاجات الحالية.",
+   "title_ar": "التطورات في الهلاميات (Gels) التجديدية والترميمية للاستخدامات الفموية - من تصميم المواد الحيوية إلى الممارسة السريرية",
+   "doi": "10.3390/gels12110976",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43087179/"
+  },
+  {
+   "pmid": "43087159",
+   "title": "Blue®M in Dentistry: A Narrative Review of Human Clinical Evidence and Applications",
+   "journal": "Gels (Basel, Switzerland)",
+   "pub_date": "2026-10",
+   "authors": "Nagy ÁT, Bogdán S, Joób-Fancsaly Á et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Overall, the available evidence, weighted by risk of bias, does not demonstrate superiority of Blue®M over established treatments; it may be regarded as a potentially useful adjunct whose comparative clinical value remains uncertain. Adequately powered randomized trials with a blinded outcome assessment, registered protocols, and active comparators are needed.",
+   "summary_ar": "استهدفت هذه المراجعة السردية تلخيص الأدلة السريرية البشرية المتعلقة بمنتجات الحيوية الفموية (oral biomaterial) المعتمدة على الأكسجين النشط (Blue®M). شمل البحث المنهجي 35 دراسة سريرية بشرية تم تقييم خطر التحيز فيها. أظهرت النتائج أن الأدلة الحالية، عند وزنها بمستوى خطر التحيز، لا تُظهر تفوق منتجات (Blue®M) على العلاجات المعمول بها مثل (chlorhexidine)، ولا تزال قيمتها السريرية المقارنة غير مؤكدة.",
+   "takeaway_ar": "يمكن اعتبار (Blue®M) مضافاً محتملاً مفيداً، لكن قيمته السريرية المقارنة تظل غير مؤكدة لعدم وجود أدلة قوية تثبت تفوقه على العلاجات المعمول بها، وهناك حاجة لتجارب عشوائية محكومة ذات قوة إحصائية كافية.",
+   "title_ar": "بلو إم (Blue®M) في طب الأسنان: مراجعة سردية للأدلة السريرية البشرية والتطبيقات",
+   "doi": "10.3390/gels12110954",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43087159/"
+  },
+  {
+   "pmid": "43085644",
+   "title": "Oral disease burden and dental care needs among incarcerated populations: A systematic review and meta-analysis",
+   "journal": "Journal of dentistry",
+   "pub_date": "2026-11",
+   "authors": "Khorasani E, Rodríguez-Pérez I, Schimmel M et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The evidence indicates substantial oral disease and unmet dental care needs among incarcerated populations, supporting preventive and therapeutic services alongside urgent care. Very low certainty limits confidence in pooled estimates, which do not establish a causal effect of incarceration.",
+   "summary_ar": "استهدفت هذه المراجعة المنهجية والتحليل التلقيلي تجميع الأدلة حول عبء أمراض الفم واحتياجات الرعاية السنية والوصول إلى الرعاية بين النزلاء في المؤسسات الإصلاحية، عبر البحث في قواعد بيانات متعددة حتى يناير 2026. شملت الدراسات المُدرجة تقييم مؤشرات تسوس الأسنان (dental caries)، والأسنان المفقودة (missing teeth)، وأمراض دواعم السิ่ง (periodontal disease)، بالإضافة إلى تقييم عوائق الحصول على الرعاية. أظهرت النتائج معدلات عالية من الأسنان المتسوسة والمفقودة والمحشوة، إلى جانب اقتصار الرعاية غالباً على علاج الأعراض، وسط يقين منخفض للغاية في الأدلة المجمعة.",
+   "takeaway_ar": "تشير النتائج إلى وجود عبء كبير لأمراض الفم واحتياجات علاجية غير مسددة لدى النزلاء؛ مما يدعم توفير خدمات وقائية وعلاجية إلى جانب الرعاية الإسعافية، مع ضرورة توخي الحذر نظراً لانخفاض اليقين في الأدلة وعدم إثبات تأثير سببي للسجن.",
+   "title_ar": "عبء أمراض الفم (oral disease) واحتياجات الرعاية السنية بين النزلاء في المؤسسات الإصلاحية (incarcerated populations): مراجعة منهجية (systematic review) وتحليل تلقيلي (meta-analysis)",
+   "doi": "10.1016/j.jdent.2026.107197",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43085644/"
+  },
+  {
+   "pmid": "43085610",
+   "title": "Closed-loop, tooth-to-implant biointerface engineering: dental pulp stem cells at titanium surfaces for cell-enabled osseointegration",
+   "journal": "Acta biomaterialia",
+   "pub_date": "2026-11",
+   "authors": "Kaminogo K, Hirota M, Komatsu K et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Beyond evidence synthesis, we identify major material-cell and translational design gaps and introduce the SEED framework-Source, Expansion, Engineered interface, and Delivery-to conceptualize these variables as an integrated regenerative system. The resulting closed-loop tooth-to-implant paradigm reframes titanium from a passive cell carrier into an instructive regenerative interface and provides a biomaterials-centered roadmap for developing…",
+   "summary_ar": "استعرضت هذه الدراسة كيفية تفاعل الخلايا الجذعية المستمدة من لب الأسنان مع مواد التيتانيوم الحيوية لتعزيز تجديد العظام حول الغرسات (Peri-implant bone regeneration). اعتمدت المراجعة على تحليل أدلة من دراسات مخبرية وما قبل السريرية على الحيوانات حول تأثير خصائص أسطح التيتانيوم على الالتصاق والتمايز العظمي. وأظهرت النتائج الأولية تحسناً في تكوين العظام والتواصل بين العظم والغرسة (Bone-implant contact - BIC)، مع اقتراح إطار عمل لتنظيم هذه العملية يُعرف بـ SEED.",
+   "takeaway_ar": "تقدم هذه الدراسة دعماً مبدئياً لإمكانية استخدام الخلايا الجذعية لبُب الأسنان مع أسطح التيتانيوم، لكن الأدلة لا تكفي لتأكيد الجاهزية السريرية نظراً لمحدودية الدراسات الحيوانية والحاجة لمزيد من التحقق طويل الأمد.",
+   "title_ar": "هندسة الواجهة الحيوية المغلقة بين الأسنان والغرسات: الخلايا الجذعية لبُب الأسنان (Dental pulp stem cells - DPSCs) على أسطح التيتانيوم لتحقيق الالتزام العظمي المدعوم بالخلايا (Osseointegration)",
+   "doi": "10.1016/j.actbio.2026.11.046",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43085610/"
+  },
+  {
+   "pmid": "43083025",
+   "title": "Biomaterials for Restoring Periodontal Attachment: A Narrative Review",
+   "journal": "Journal of functional biomaterials",
+   "pub_date": "2026-11",
+   "authors": "Liu L, Zhou Y, Yang Y et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Further progress depends on linking the intended material function to durable attachment and patient benefit under relevant defect conditions. Manufacturing consistency, preserved cargo activity, complications, and long-term tooth retention remain central to clinical translation.",
+   "summary_ar": "دُرست متطلبات تجديد الأنسجة الداعمة (Periodontal regeneration) واستعادة الملاط السني (Cementum)، والرباط السني (Periodontal ligament)، والعظم السنخي (Alveolar bone). استعرضت هذه المراجعة السردية دور أغشية الحواجز (Barrier membranes)، وبدائل العظم (Bone substitutes)، والسقالات الهندسيّة (Engineered scaffolds) في عيوب العظم بين الأسنان (Intrabony defects) وتشعبات الجذور (Furcation defects). وأظهرت النتائج أن المواد المتاحة توفر الحفاظ على المساحة والدعم، بينما يعتمد النجاح على ظروف العيوب الجراحية دون وجود هرمية مطلقة للمواد.",
+   "takeaway_ar": "لا توجد مادة واحدة متفوقة بحد ذاتها، ويجب توجيه اختيار المواد نحو تحقيق ارتباط حقيقي دائم مع مراعاة القيود السريرية.",
+   "title_ar": "المواد الحيويّة لاستعادة الارتباط السنيّ-اللسّثي (Periodontal Attachment): مراجعة سرديّة",
+   "doi": "10.3390/jfb17110579",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43083025/"
+  },
+  {
+   "pmid": "43083023",
+   "title": "Manufacturing Capability of Selective Laser Melting Versus Metal Injection Molding for Metal Orthodontic Brackets: Narrative Review",
+   "journal": "Journal of functional biomaterials",
+   "pub_date": "2026-11",
+   "authors": "Esmael E, Grabowik C, Ziebowicz A et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "ortho",
+     "label": "التقويم"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "A key contribution of this review is a cluster-based framework for SLM process parameters, representing inputs, behaviors, phenomena, and outcomes as an interconnected system rather than independent variables, clarifying process complexity and its influence on part quality. MIM remains preferred for standardization, while SLM offers advantages in customization with the potential to improve treatment efficiency.",
+   "summary_ar": "قامت هذه المراجعة السردية بتقييم ومقارنة تقنيتي الصهر الانتقائي بالليزر (Selective Laser Melting - SLM) وحقن القوالب المعدنية (Metal Injection Molding - MIM) في تصنيع حواض تقويم الأسنان المعدنية (Metallic Orthodontic Brackets) عبر مراجعة الأدبيات العلمية. استعرضت الدراسة مخرجات التصنيع الرئيسية مثل الكثافة، والانكماش، والخصائص الميكانيكية، فضلاً عن الآثار السريرية والتجارية. أظهرت النتائج وجود فروق بين التقنيتين، حيث تظل تقنية (MIM) مفضلة للإنتاج القياسي بينما توفر تقنية (SLM) مزايا في التخصيص الفردي.",
+   "takeaway_ar": "توفر تقنية الصهر الانتقائي بالليزر (SLM) إمكانات واعدة لتخصيص حواض تقويم الأسنان مما قد يعزز كفاءة العلاج، بينما تظل تقنية (MIM) الخيار المفضل للتوحيد القياسي، مع ضرورة مراعاة تأثير ظروف التصنيع على جودة القطع نظراً لمحدودية الأدلة المباشرة.",
+   "title_ar": "القدرة التصنيعية للتقنية الانتقائية لصهر اللويزر (Selective Laser Melting - SLM) مقابل تقنية حقن القوالب المعدنية (Metal Injection Molding - MIM) لحواض تقويم الأسنان المعدنية: مراجعة سردية",
+   "doi": "10.3390/jfb17110577",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43083023/"
+  },
+  {
+   "pmid": "43083021",
+   "title": "Silicon Nitride Coatings on Dental and Orthopedic Implants: A Systematic Review of Preclinical Studies",
+   "journal": "Journal of functional biomaterials",
+   "pub_date": "2026-11",
+   "authors": "Awadalla MM, Subhan NFC, Alqahtani MA et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "resto",
+     "label": "ترميمية ومواد"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "The evidence is preclinical, short-term and clustered in few groups, and does not establish the long-term stability of coated implants.",
+   "summary_ar": "استهدفت هذه المراجعة المنهجية تلخيص الأدلة ما قبل السريرية حول طلاءات نتريد السيليكون (Silicon Nitride) على ركائز الغرسات من خلال البحث في قواعد البيانات لتحديد الدراسات المخبرية وعلى الحيوانات (In vitro and animal studies). أظهرت النتائج من 44 منشوراً تحسناً في خلايا (Cell studies) وبكتيريا (Bacterial studies) في بعض الدراسات، وزيادة في تكون العظام في ست دراسات على الحيوانات، بينما أثيرت مخاوف بشأن الالتصاق والذوبان والاستقرار طويل الأمد.",
+   "takeaway_ar": "تشير الأدلة ما قبل السريرية المحدودة وقصيرة الأمد إلى احتمال وجود فوائد لطلاءات نتريد السيليكون (Silicon Nitride)، لكنها لا تؤكد استقرارها على المدى الطويل ولا توفر أساساً كافياً للممارسة السريرية حتى الآن.",
+   "title_ar": "طلاءات نتريد السيليكون (Silicon Nitride) على غرسات الأسنان والعظام: مراجعة منهجية للدراسات ما قبل السريرية (Preclinical Studies)",
+   "doi": "10.3390/jfb17110575",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43083021/"
+  },
+  {
+   "pmid": "43083012",
+   "title": "Regenerative Surface Engineering of Dental Implants: Biological Strategies and Translational Perspectives",
+   "journal": "Journal of functional biomaterials",
+   "pub_date": "2026-11",
+   "authors": "Park S, Watanabe J, Akashi Y et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "implants",
+     "label": "الزراعة"
+    },
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Future development should match surface functions to the requirements of each implant region and healing stage. Clinical translation requires reproducible performance and comparative studies demonstrating benefits in patient-relevant outcomes, including loading safety, tissue stability, and long-term maintainability.",
+   "summary_ar": "استعرضت هذه الدراسة المرجعية ست استراتيجيات حيوية لأسطح زرعات التيتانيوم (Titanium implants) والدعامات (Abutments)، شملت الاندماج العظمي (Osseointegration) والتحام الأنسجة الرخوة (Soft-tissue integration) والنشاط المضاد للبكتيريا وتعديل المناعة العظمية (Osteoimmunomodulation). بيّنت النتائج أن الدراسات التجريبية أثبتت تحسناً في الارتباط الخلوي والسيطرة المكروبية، إلا أن معظم هذه النهجات الواعدة لا تزال مدعومة بأدلة ما قبل السريرية (Preclinical evidence) دون انعكاس ثابت على البقاء طويل الأمد للزرعات.",
+   "takeaway_ar": "على الرغم من النجاح التجريبي لتقنيات هندسة الأسطح، إلا أن ترجمتها السريرية تتطلب أدلة تقارن فوائدها بنتائج هامة للمريض واستقرار الأنسجة، مما يفرض توخي الحذر حتى تتوفر دراسات سريرية مقارنة أطول مداً.",
+   "title_ar": "هندسة الأسطح التجديدية لزرعات الأسنان (Dental Implants): الاستراتيجيات الحيوية والمنظور الانتقالي",
+   "doi": "10.3390/jfb17110566",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43083012/"
+  },
+  {
+   "pmid": "43082990",
+   "title": "Advances in 3D Bioprinting for Dental, Oral, and Craniofacial Regenerative Medicine",
+   "journal": "Journal of functional biomaterials",
+   "pub_date": "2026-10",
+   "authors": "Cheng YC, Wang J, Gouveia Z et al.",
+   "study_type": "مراجعة",
+   "specs": [
+    {
+     "id": "perio",
+     "label": "اللثة"
+    }
+   ],
+   "has_abstract": true,
+   "conclusion": "Most evidence remains preclinical, and translation is limited by cost, fragmented workflows, biological and mechanical mismatch at tissue interfaces, and unclear regulatory pathways. Standardized fidelity and viability metrics, improved bioinks, and point-of-care workflows will be needed before bioprinting becomes part of routine oral regenerative care.",
+   "summary_ar": "استعرضت هذه المراجعة التقنيات الحالية للطباعة الحيوية وتطبيقاتها في تجديد الأنسجة المختلفة ضمن معقد الأسنان والفم والوجه القحفي (DOC) باستخدام الحبر الحيوي (Bioink) القائم على الهلام المائي (Hydrogel). أظهرت الدراسات قبل السريرية (Preclinical studies) قدرة هذه الهياكل المطبوعة على إعادة تكوين بنية الأنسجة وتحسين التروية الدموية، بينما لا تزال تجديد الأسنان الكاملة والعظام الحاملة للأحمال محدودة بسبب المتطلبات المكانية والميكانيكية. وتظل الأدلة مقصورة على المرحلة قبل السريرية نظراً لوجود عوائق تنظيمية وتكلفتية وتقنية.",
+   "takeaway_ar": "تقدم الطباعة الحيوية ثلاثية الأبعاد (3D Bioprinting) إمكانات واعدة لتجديد الأنسجة الفموية والوجهية، إلا أن تطبيقها السريري لا يزال محدوداً ويتطلب مزيداً من التطوير والددراسات قبل إدخالها في الممارسة الروتينية.",
+   "title_ar": "التقدم في الطباعة الحيوية ثلاثية الأبعاد (3D Bioprinting) في طب الأسنان والطب التجديدي الفموي والوجهي القحفي (Craniofacial Regenerative Medicine)",
+   "doi": "10.3390/jfb17110543",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43082990/"
+  }
+ ]
+}
